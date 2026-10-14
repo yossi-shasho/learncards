@@ -22,7 +22,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ pageTitle }}</title>
 <meta name="description" content="{{ pageDesc }}">
-<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<meta name="robots" content="{{ "noindex, follow" if noindex else "index, follow, max-image-preview:large, max-snippet:-1" }}">
 <meta name="keywords" content="{{ site.keywords }}">
 <meta name="author" content="{{ site.author }}">
 <meta name="generator" content="Notepad.exe (and Eleventy)">
