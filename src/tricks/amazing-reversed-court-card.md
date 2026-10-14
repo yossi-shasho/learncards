@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Amazing Reversed Court Card - Learncards'
-excerpt: 'Effect: Four cards are placed in a row, faces up. While performer’s back is turned a card is turned end for'
+seoDescription: 'Amazing Reversed Court Card: four court cards are in a row, one is turned around behind your back, and you find it. Great quick bar trick.'
+difficulty: easy
+effect: 'Court cards are laid in a row, one is turned end for end while the magician''s back is turned, and he immediately finds the reversed card.'
+needs: ['Bicycle cards: K, Q and J of spades']
+skills: ['Setup', 'Glimpse']
+excerpt: 'Four cards are lined up and one is turned end for end with the magician''s back turned. He turns around and instantly spots the reversed card.'
 ---
 
 **Effect:** Four cards are placed in a row, faces up. While performer´s back is turned a card is turned end for end. He finds the one that has been reversed.

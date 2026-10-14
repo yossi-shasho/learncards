@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'All The Aces - Learncards'
-excerpt: 'Effect: Spectator cuts deck into four piles. Out of each pile three cards are dealt onto each of the other'
+seoDescription: 'All The Aces: a spectator cuts the deck into four piles and deals them out, then turns over the top cards to reveal all four aces. Easy and self-working.'
+difficulty: easy
+effect: 'A spectator cuts the deck into four piles, deals cards around, and turns over the top card of each pile to reveal all four aces.'
+needs: ['A regular deck of cards']
+skills: ['Self-working', 'Setup', 'Counting']
+excerpt: 'Four piles are made and the spectator deals cards from one pile onto the others. Each pile''s top card is then turned over and all are aces.'
 ---
 
 **Effect:** Spectator cuts deck into four piles. Out of each pile three cards are dealt onto each of the other piles. The top card of each pile is turned over, and all four Aces are revealed.

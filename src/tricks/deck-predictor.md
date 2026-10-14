@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Deck Predictor - Learncards'
-excerpt: 'Effect: After mixing the deck of cards, the performer asks a spectator to cut the deck that is in his'
+seoDescription: 'Deck Predictor: a spectator cuts a rigged deck and picks a card, and you read their mind to name it. Easy stack-based mental trick.'
+difficulty: easy
+effect: 'A spectator cuts a mixed-looking deck, takes the top card of the lower section, and the magician names it as if reading their mind.'
+needs: ['A regular deck of cards', 'A prepared stack']
+skills: ['Stack', 'Setup', 'Mentalism']
+excerpt: 'After the deck is mixed, a spectator cuts it and looks at one card. The magician then uses mind-reading to tell them exactly what it was.'
 ---
 
 **Effect:** After mixing the deck of cards, the performer asks a spectator to cut the deck that is in his left hand. The spectator then places the top portion of the cards on the performer’s right hand. The spectator is asked to take the top card off the portion in the performer’s left hand. The spectator looks at the card without showing the performer. The performer uses his mind reading capability to tell what card has been chosen.

@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The Morphing Joker - Learncards'
-excerpt: 'Effect: The spectator picks and memorizes a card. He/she then places it back in the deck and the Magician shuffles'
+seoDescription: 'The Morphing Joker is an impromptu card trick where a joker placed on a stack turns into the spectator’s chosen card.'
+difficulty: intermediate
+effect: 'A spectator’s chosen card is lost in the deck, and a joker on top of the cards turns into their chosen card.'
+needs: ['A regular deck of cards', 'A joker']
+skills: ['Key card', 'Misdirection', 'Patter']
+excerpt: 'A joker is placed on a stack of cards and seems to morph into the spectator’s chosen card, after some false calculations to misdirect the audience.'
 ---
 
 **Effect:** The spectator picks and memorizes a card. He/she then places it back in the deck and the Magician shuffles the deck. The Magician then takes out a bunch of cards and places them on the bottom, followed by the joker which is also placed below them. The Magician then does some false calculations to reveal a different card to the spectators. The cards are replaced on top and the joker is placed on them. The Magician shows the top card to reveal that the joker has actually morphed into the spectator’s chosen card!

@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The Story of Cactus Pete - Learncards'
-excerpt: 'The Effect: The magician cuts the deck, and in each time finds an Ace. Funny end, and a funny story….'
+seoDescription: 'The Story of Cactus Pete is a funny card trick: every time you cut the deck you find an ace, until the punchline.'
+difficulty: intermediate
+effect: 'While telling a tale about the card sharp Cactus Pete, I cut the deck again and again to an ace, and the ending is a joke.'
+needs: ['A regular deck of cards', 'Four aces']
+skills: ['Setup', 'Patter', 'False cut']
+excerpt: 'You tell the story of Cactus Pete, king of the card sharps, who always cut to an ace. Each cut shows an ace, and the funny ending gets a laugh.'
 ---
 
 **The Effect:** The magician cuts the deck, and in each time finds an Ace. Funny end, and a funny story.

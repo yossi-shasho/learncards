@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The Bottom Card - Learncards'
-excerpt: 'Effect: You guess the bottom card without even looking at it (or so your audience thinks.) Presentation: 1. Look at the'
+seoDescription: 'The Bottom Card is an easy card trick where you name the bottom card of the deck without looking, using a clever equivoque.'
+difficulty: easy
+effect: 'I name the bottom card of the deck without looking at it, while the spectators think they are making the choices.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Glimpse', 'Force', 'Patter']
+excerpt: 'You appear to guess the bottom card of the deck without looking at it, through a series of seemingly free choices by the audience.'
 ---
 
 **Effect:** You guess the bottom card without even looking at it (or so your audience thinks.)

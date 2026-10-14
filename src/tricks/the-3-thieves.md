@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The 3 Thieves - Learncards'
-excerpt: 'Effect: A story is told about 3 thieves (Jacks,) who break into a house (deck,) and are followed by a'
+seoDescription: 'The 3 Thieves is a fun story trick: three jacks break into a house, but a king detective is guarding each when the deck is cut.'
+difficulty: easy
+effect: 'I tell the story of three Jack thieves and a King detective, cutting the deck to show that each thief is guarded by a King.'
+needs: ['A regular deck of cards', 'Three Jacks and two Kings']
+skills: ['Setup', 'Patter', 'Misdirection']
+excerpt: 'You tell a story of three thieves who break into a house and a detective who follows them. A spectator cuts the deck and finds a detective with each thief.'
 ---
 
 **Effect**: A story is told about 3 thieves (Jacks,) who break into a house (deck,) and are followed by a detective (King.) After cutting the deck, a spectator looks in and sees that the thieves are all being guarded by detectives.

@@ -1,17 +1,45 @@
 {
   "name": "Learncards",
   "url": "https://learncards.net",
-  "description": "Learn card tricks step by step — easy, intermediate and expert card magic, self-working tricks, math and mental tricks.",
+  "description": "Learn card tricks step by step \u2014 easy, intermediate and expert card magic, self-working tricks, math and mental tricks.",
   "logo": "/wp-content/uploads/2019/06/inner_logo-1.jpg",
   "ogImage": "https://learncards.net/wp-content/uploads/2019/06/inner_logo-1.jpg",
   "nav": [
-    { "slug": "easy-tricks", "label": "Easy" },
-    { "slug": "intermediate-tricks", "label": "Intermediate" },
-    { "slug": "self-working-tricks", "label": "Self-Working" },
-    { "slug": "impromptu-tricks", "label": "Impromptu" },
-    { "slug": "math-tricks", "label": "Math" },
-    { "slug": "expert-tricks", "label": "Expert" },
-    { "slug": "mental-tricks", "label": "Mental" },
-    { "slug": "memory-tricks", "label": "Memory" }
-  ]
+    {
+      "slug": "easy-tricks",
+      "label": "Easy"
+    },
+    {
+      "slug": "intermediate-tricks",
+      "label": "Intermediate"
+    },
+    {
+      "slug": "self-working-tricks",
+      "label": "Self-Working"
+    },
+    {
+      "slug": "impromptu-tricks",
+      "label": "Impromptu"
+    },
+    {
+      "slug": "math-tricks",
+      "label": "Math"
+    },
+    {
+      "slug": "expert-tricks",
+      "label": "Expert"
+    },
+    {
+      "slug": "mental-tricks",
+      "label": "Mental"
+    },
+    {
+      "slug": "memory-tricks",
+      "label": "Memory"
+    }
+  ],
+  "founded": 2007,
+  "author": "Joe Cards",
+  "guestbookEmail": "",
+  "keywords": "card tricks, learn card tricks, easy card tricks, card magic, magic tricks with cards, self working card tricks, math card tricks, mental card tricks, memory card tricks, impromptu card tricks, beginner card tricks, intermediate card tricks, expert card tricks, card trick tutorial, step by step card tricks, free card tricks, card tricks explained, card tricks revealed, how to do card tricks, card tricks for kids, card tricks for beginners, sleight of hand, key card, double lift, false shuffle, false cut, card force, card control, palming cards, glimpse, misdirection, patter, mentalism, prediction trick, 21 card trick, four aces trick, rising card, card to pocket, learncards, learncards.net"
 }

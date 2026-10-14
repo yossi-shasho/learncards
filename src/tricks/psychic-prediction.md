@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Psychic Prediction - Learncards'
-excerpt: 'Method: Get any deck of cards and shuffle them. Say you are “squaring them up” and glimpse the bottom'
+seoDescription: 'Psychic Prediction is a quick mental card trick: you name the card a spectator stops you at while sliding cards off the deck.'
+difficulty: intermediate
+effect: 'A spectator says stop as cards slide off the deck, and I announce the card they stopped at before showing it.'
+needs: ['A regular deck of cards']
+skills: ['Glimpse', 'Misdirection', 'Mentalism']
+excerpt: 'A spectator stops you anywhere in the deck, yet you name the card at that spot. It looks like pure mind reading but is much easier than it sounds.'
 ---
 
 **Method:** Get any deck of cards and shuffle them. Say you are “squaring them up” and glimpse the bottom card. Hold the deck face down on your left hand with your thumb along the left edge and your fingers… on the right edge. With your right hand, put your fingers on top of the deck and your thumb on the bottom. Gradually pull back each card with your right fingers until the spectator tells you to stop. Tell them that the card he (or she) has selected is whatever card is actually on the bottom of the deck. Pull away the top part of the deck to the point where he told you to stop.  

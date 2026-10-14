@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Magic Magnets Color Separation - Learncards'
-excerpt: 'Effect: The magician separates a regular deck of cards into 4 packets and shuffles these together. He (or she)'
+seoDescription: 'Magic Magnets: two color magnet cards pull all the reds to one pile and all the blacks to another after the deck seems well shuffled.'
+difficulty: intermediate
+effect: 'After the deck is shuffled, two cards act as magnets and the red cards follow the red one while the black cards follow the black one.'
+needs: ['A regular deck of cards']
+skills: ['Setup', 'Self-working', 'False shuffle']
+excerpt: 'A deck is divided into packets and riffle shuffled, then two cards act as color magnets. With a snap of the fingers, the reds and blacks separate.'
 ---
 
 **Effect:** The magician separates a regular deck of cards into 4 packets and shuffles these together. He (or she) cuts the deck into a row of 3 packets. He extracts from the center packet a black card and a red card, which he will use as color magnets. He places the red magnet on top of one end packet and the black magnet on top of the other end packet. After snapping his fingers, he shows that all the red cards have followed the red magnet and all the black cards have followed the black magnet. He then removes the magnets from the packets and places one on top of the center packet and one on the bottom. Once again he snaps his fingers and shows that the packet is divided into blacks and reds.

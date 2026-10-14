@@ -10,7 +10,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Mental Agility - Learncards'
-excerpt: 'This mathematical trick can be performed with any pack.Effect: The magician can reveal a chosen card even when it'
+seoDescription: 'Mental Agility is a math card trick: reveal a spectator''s card, chosen at a number they secretly thought of, while your back is turned.'
+difficulty: intermediate
+effect: 'A spectator thinks of a number, notes the card at that position while my back is turned, and I find their card at position 20.'
+needs: ['A regular deck of cards']
+skills: ['Math principle', 'Counting', 'Mentalism']
+excerpt: 'With your back turned, a spectator notes the card at a number they thought of. You reverse 19 cards behind your back, and their card is revealed in the count.'
 ---
 
 **This mathematical trick can be performed with any pack.  

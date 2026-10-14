@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'King of the Hill - Learncards'
-excerpt: 'Preparation: Before you start the trick place the four Kings on top of the deck. Procedure: Tell your spectator(s) that'
+seoDescription: 'King of the Hill is an easy, self-working card trick in which the four Kings magically rise to the top of four piles. Great for beginners.'
+difficulty: easy
+effect: 'The deck is dealt into four piles, then I tap each pile and the four Kings appear on top of the piles.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Setup', 'Self-working', 'Counting']
+excerpt: 'The deck is split into four piles and a few cards are dealt around. Tapping each pile, you turn over the top cards and the four Kings have magically arrived.'
 ---
 
 **Preparation:** Before you start the trick place the four Kings on top of the deck.

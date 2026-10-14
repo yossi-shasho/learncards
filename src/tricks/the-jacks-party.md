@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The Jack''s Party - Learncards'
-excerpt: 'Effect: This trick is a great crowd pleaser and will get a lot of recognition for its seemingly magical'
+seoDescription: 'The Jacks Party is a self-working story trick where jacks, kings, queens and aces party and are sent to jail, then reunite.'
+difficulty: intermediate
+effect: 'While telling a story about a party gone wrong, I deal four sets of cards into piles and bring each set back together.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Setup', 'Self-working', 'Patter']
+excerpt: 'You tell a story about a party attended by jacks, kings, queens and the police. A funny, crowd-pleasing trick that brings four sets of cards back together.'
 ---
 
 **Effect:** This trick is a great crowd pleaser and will get a lot of recognition for its seemingly magical effects. Basically, you separate four sets of cards and magically bring them back together.

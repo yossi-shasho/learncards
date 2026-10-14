@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The Magnetic Cards - Learncards'
-excerpt: 'Effect: Two cards are either chosen by the same person or 1 card each by two people. The magician'
+seoDescription: 'The Magnetic Cards is an expert trick where the deck is dropped and only the two cards chosen by spectators remain in the hand.'
+difficulty: expert
+effect: 'One or two spectators choose cards, and when I drop the deck only those chosen cards stay stuck in my hand.'
+needs: ['A regular deck of cards']
+skills: ['Key card', 'Glimpse', 'Misdirection']
+excerpt: 'You find a spectator’s card in the deck, then drop the deck so that only the selected cards stay in your hand. The cards appear to be magnetic.'
 ---
 
 **Effect:** Two cards are either chosen by the same person or 1 card each by two people. The magician then drops the deck and only those two cards remain.

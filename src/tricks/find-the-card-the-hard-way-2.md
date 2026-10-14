@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Find The Card The Hard Way 2 - Learncards'
-excerpt: 'Deal 3 cards across 7 times so that you have 3 piles of 7 cards each. Put the rest'
+seoDescription: 'Find The Card The Hard Way 2: a spectator tracks a card through three deals of 21 cards while the magician finds it. Intermediate card trick.'
+difficulty: intermediate
+effect: 'A spectator remembers a card in one of three piles of seven and keeps naming the pile, and the magician then reveals the chosen card.'
+needs: ['21 playing cards', 'A table']
+skills: ['Math principle', 'Counting', 'Self-working']
+excerpt: 'The deck is dealt into three piles of seven and a spectator memorizes a card. After three deals, the magician reveals the one they chose.'
 ---
 
 Deal 3 cards across 7 times so that you have 3 piles of 7 cards each. Put the rest of the deck aside. Have a spectator look at one of the 3 piles and memorize a card in it. Have him (or her) put the pile on top of one of the other two piles and then put the other pile on top of that, so that his pile is sandwiched between the other two…

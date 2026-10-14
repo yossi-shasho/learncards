@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The Amazing Switch - Learncards'
-excerpt: 'Effect: A spectator chooses a card & is asked to put it face down onto the table under he/she’s'
+seoDescription: 'The Amazing Switch is an expert card trick: a chosen card on the table secretly changes places with a card from the deck.'
+difficulty: expert
+effect: 'A spectator’s card sits under their finger, the top card of the deck is shown and tapped on their hand, and the two cards have switched places.'
+needs: ['A regular deck of cards', 'Two identical cards']
+skills: ['Palming', 'Force', 'Misdirection']
+excerpt: 'A spectator’s chosen card is placed under their finger, but after one tap the other card has become the chosen card, which is under their hand.'
 ---
 
 **Effect:** A spectator chooses a card & is asked to put it face down onto the table under he/she’s forefinger. The magician then takes the top card off of the deck and shows it around. The magician then taps the spectator’s hand with the card, and to everyone’s surprise, it has changed to the selected card! The spectator looks under he/she’s finger and finds the other card!

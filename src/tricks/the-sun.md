@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The Sun - Learncards'
-excerpt: '1) Count out 30 cards face up. Remember the 10th card. (Lets say that it is the joker.) 2)'
+seoDescription: 'The Sun is a math-based card trick that uses a circle of cards and a spectator’s number to land on the card you remembered.'
+difficulty: intermediate
+effect: 'Cards are dealt in a circle and a vertical line like a sun, and counting a spectator’s number always lands on a joker.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Math principle', 'Counting', 'Memory']
+excerpt: 'Thirty cards are laid out like a sun, with a ring and a row. No matter what number a spectator names, the count ends on the card you remembered.'
 ---
 
 **1)** Count out 30 cards face up. Remember the 10th card. (Lets say that it is the joker.)

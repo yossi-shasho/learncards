@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Aces Memory - Learncards'
-excerpt: 'Effect: Trick uses full or almost full card deck: one ace, one king, and one queen of any suit'
+seoDescription: 'Aces Memory: a spectator tries to track an ace, king and queen as they are laid out one by one, but the cards are not what they seem. Slick deal.'
+difficulty: intermediate
+effect: 'Three cards, ace, king and queen, are dealt out and the spectator is sure of their order, but the magician has secretly changed it.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Setup', 'Misdirection', 'Palming']
+excerpt: 'The magician deals an ace, a king and a queen from the bottom of the deck. The spectator thinks they know the order, but a surprise awaits.'
 ---
 
 **Effect:** Trick uses full or almost full card deck: one ace, one king, and one queen of any suit in ace-king-queen order at bottom of deck (ace is bottom card). You must know how to deal from bottom of deck.

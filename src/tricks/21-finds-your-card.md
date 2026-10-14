@@ -10,7 +10,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: '21 Finds Your Card - Learncards'
-excerpt: 'Effect: Reveal the chosen card out of 21 randomly selected cards. Method Get any random 21 cards from a'
+seoDescription: '21 Finds Your Card: a self-working card trick where three deals into columns lets you reveal the one card a spectator only thought of.'
+difficulty: easy
+effect: 'A spectator silently picks one of 21 cards, says only which column it is in three times, and the magician counts straight to the card.'
+needs: ['21 playing cards', 'A table']
+skills: ['Self-working', 'Counting', 'Math principle']
+excerpt: 'Twenty-one cards are dealt into three columns and the spectator only names the column. After three rounds, the eleventh card is the one they chose.'
 ---
 
 **Effect:** Reveal the chosen card out of 21 randomly selected cards.

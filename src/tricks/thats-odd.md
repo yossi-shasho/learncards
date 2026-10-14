@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'That''s Odd - Learncards'
-excerpt: 'This trick can be repeated over and over again without any fear of detection. Using any pack, openly remove'
+seoDescription: 'That’s Odd is a self-working card trick that repeats without detection: face-up counts match in each pile, and all colours are alike.'
+difficulty: easy
+effect: 'Five red and five black cards are mixed behind my back, yet two piles each have the same number of face-up cards, all of one colour.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Math principle', 'Self-working']
+excerpt: 'Ten cards are mixed and divided behind your back, but when the piles are shown each has the same number of face-up cards, all in one colour.'
 ---
 
 **This trick can be repeated over and over again without any fear of detection.**  

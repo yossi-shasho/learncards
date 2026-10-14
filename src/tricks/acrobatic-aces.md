@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Acrobatic Aces - Learncards'
-excerpt: 'Effect: The four aces are dealt out with three random cards on each. The spectator is then asked to'
+seoDescription: 'Acrobatic Aces: four aces are dealt out, and they leap from piles on the table into the spectator''s hands without being touched. An expert-level classic.'
+difficulty: expert
+effect: 'Four aces are dealt onto the table, each topped with random cards, and then all four aces vanish from their piles and appear in the spectator''s hand.'
+needs: ['A regular deck of cards', 'Four aces', 'A table']
+skills: ['Setup', 'Misdirection', 'Double lift']
+excerpt: 'Four aces are dealt in piles, and the spectator holds one pile. The aces then fly from the other piles into the spectator''s hands.'
 ---
 
 **Effect:** The four aces are dealt out with three random cards on each. The spectator is then asked to hold the pile with his “favorite” ace in a secure place. The dealer then “removes” the aces from the other piles. All the aces are then found in the hands of the spectator who has no idea how he got them.

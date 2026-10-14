@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The Reappearing Combo - Learncards'
-excerpt: 'Effect: Cards are eliminated by the audience but somehow appear at the end. Combination of a couple of tricks'
+seoDescription: 'The Reappearing Combo mixes tricks so that cards are eliminated by the audience but reappear at the end of the trick.'
+difficulty: intermediate
+effect: 'A spectator’s card is lost and cards are eliminated one by one, but the missing cards reappear at the end.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Counting', 'Misdirection']
+excerpt: 'A chosen card and several others are eliminated by the audience and set aside. At the end of the trick they come back as if by magic.'
 ---
 
 **Effect:** Cards are eliminated by the audience but somehow appear at the end. Combination of a couple of tricks on Card Trick Central.

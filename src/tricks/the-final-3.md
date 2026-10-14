@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The Final 3 - Learncards'
-excerpt: 'Effect: Spectator picks 3 cards and conceals them in the deck. The performer deals out the deck into a faced-up'
+seoDescription: 'The Final 3 is an easy math card trick where a repeated deal of face-up and face-down piles leaves the three chosen cards face down.'
+difficulty: easy
+effect: 'A spectator hides three cards in the deck, and a repeated deal into face-up and face-down piles leaves exactly their three cards face down.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Math principle', 'Counting']
+excerpt: 'A spectator’s three cards are hidden in the deck. After repeated deals into two piles, only their three cards remain face down.'
 ---
 
 **Effect:** Spectator picks 3 cards and conceals them in the deck. The performer deals out the deck into a faced-up pile and a faced-down pile, and repeats this over and over until there’s only a 3-card faced-down pile, and the rest are faced-up. These are the spectator’s cards.

@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Sneaky Aces - Learncards'
-excerpt: 'Effect: The spectator cuts the deck into four piles. The top card of each pile turns out to be an Ace….'
+seoDescription: 'Sneaky Aces is an easy card trick: a spectator cuts the deck into four piles and every pile is topped with an ace.'
+difficulty: easy
+effect: 'A spectator cuts the deck into four piles, and the top card of every pile turns out to be an ace.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['False shuffle', 'Setup', 'Misdirection']
+excerpt: 'A spectator cuts the deck into four piles, apparently at random, and each pile reveals an ace on top. Good for a quick and surprising finish.'
 ---
 
 **Effect:** The spectator cuts the deck into four piles. The top card of each pile turns out to be an Ace.

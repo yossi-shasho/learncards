@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Four Kingdoms - Learncards'
-excerpt: 'This card trick seems magical, but it’s not. To perform, separate all of the Aces, Kings, Queens and Jacks'
+seoDescription: 'Four Kingdoms (easy): kings, queens and jacks are scrambled in a tale about a wizard, then reunite in their own castles. Self-working.'
+difficulty: easy
+effect: 'A wizard''s story scrambles the aces, kings, queens and jacks of four kingdoms, but they return to their right castles when the cards are revealed.'
+needs: ['Aces, kings, queens and jacks']
+skills: ['Self-working', 'Patter', 'Setup']
+excerpt: 'A tale about a powerful wizard and four kingdoms is told with cards. After the spell, each ace, king, queen and jack is in its own kingdom again.'
 ---
 
 This card trick seems magical, but it’s not. To perform, separate all of the Aces, Kings, Queens and Jacks from a deck of cards. The rest of the cards will not be used. Begin the trick by telling this story of the greatest and most powerful wizard.

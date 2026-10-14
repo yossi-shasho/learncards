@@ -10,7 +10,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Calling The Shots - Learncards'
-excerpt: 'Method: Glimpse the bottom card and shuffle the deck, retaining the bottom card in place, while you tell your'
+seoDescription: 'Calling The Shots: a friend draws cards from the deck without looking, yet you can say exactly what each one is. Easy glimpse trick.'
+difficulty: intermediate
+effect: 'The magician names each card a guest draws from the top of the deck, one at a time, without them ever looking at the card.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Glimpse', 'False shuffle', 'Mentalism']
+excerpt: 'A guest draws cards from the top of the deck unseen, and the magician calls out the identity of every card before it is turned over.'
 ---
 
 **Method:** Glimpse the bottom card and shuffle the deck, retaining the bottom card in place, while you tell your friend or guest that you are going to make him… (or her) pick cards out of the deck without looking at them. (False shuffles: If you riffle shuffle, remember which half was the bottom of the deck and drop the bottom card of this half first. If you overhand shuffle, when you lift the cards with your right hand, hold back the bottom card with your left fingers.)  

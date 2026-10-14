@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Psychic Solution - Learncards'
-excerpt: 'Effect: after a pack of cards is divided into 3 piles, you it around and then you ask your victim'
+seoDescription: 'Psychic Solution is an easy self-working card trick where a victim’s memorized card is named, colour, suit and number, by pure ESP.'
+difficulty: easy
+effect: 'The deck is cut into three piles and shuffled around, a spectator memorizes a card, and I reveal its colour, suit and number.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Key card', 'Self-working', 'Patter']
+excerpt: 'A spectator memorizes a card from one of three piles and puts it back, then you name its colour, suit and finally its number as if reading their mind.'
 ---
 
 **Effect:** after a pack of cards is divided into 3 piles, you it around and then you ask your victim to pick up the top card from the middle pile, memorise it and then put it back. You will guess it.

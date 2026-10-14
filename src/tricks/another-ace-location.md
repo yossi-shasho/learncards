@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Another Ace Location - Learncards'
-excerpt: 'Effect: After shuffling the deck, the performer cuts the deck and turns up an ace at the point which'
+seoDescription: 'Another Ace Location: cut to an ace four times in a row from a shuffled deck with a top slip. An expert card trick for the confident performer.'
+difficulty: expert
+effect: 'After a shuffle, the magician cuts the deck and turns up an ace at the cut, repeating it four times to find all four aces.'
+needs: ['A regular deck of cards', 'Four aces']
+skills: ['False shuffle', 'False cut', 'Setup', 'Misdirection']
+excerpt: 'The deck is shuffled and then cut. Each time the magician cuts, the card at the cut point is an ace, until all four have been found.'
 ---
 
 **Effect:** After shuffling the deck, the performer cuts the deck and turns up an ace at the point which he/she cut. This is repeated four times (for all of the aces).

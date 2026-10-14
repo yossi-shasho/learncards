@@ -12,6 +12,23 @@ ogType: article
     {%- if cats.length %} &middot; Filed under
     {% for c in cats %}{% set rec = taxonomy.categories | bySlug(c) %}<a href="/category/{{ c }}/">{{ rec.name if rec else c }}</a>{% if not loop.last %}, {% endif %}{% endfor %}{% endif %}
   </p>
+  {%- if difficulty or effect or (needs and needs.length) or (skills and skills.length) %}
+  <table class="facts">
+    <caption>Quick facts</caption>
+    {%- if difficulty %}
+    <tr><th scope="row">Difficulty</th><td><span class="badge badge-{{ difficulty }}">{{ difficulty | capitalize }}</span></td></tr>
+    {%- endif %}
+    {%- if effect %}
+    <tr><th scope="row">Effect</th><td>{{ effect }}</td></tr>
+    {%- endif %}
+    {%- if needs and needs.length %}
+    <tr><th scope="row">You need</th><td>{{ needs | join(", ") }}</td></tr>
+    {%- endif %}
+    {%- if skills and skills.length %}
+    <tr><th scope="row">Skills</th><td>{{ skills | join(", ") }}</td></tr>
+    {%- endif %}
+  </table>
+  {%- endif %}
   {%- if video %}
   <div class="video"><iframe src="https://www.youtube.com/embed/{{ video | youtubeId }}" title="{{ title }}" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   {%- endif %}
@@ -21,18 +38,19 @@ ogType: article
   {%- if tagSlugs.length %}
   <p class="tags">Tags: {% for t in tagSlugs %}{% set rec = taxonomy.tags | bySlug(t) %}<a href="/tag/{{ t }}/">{{ rec.name if rec else t }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</p>
   {%- endif %}
+  {%- if cats.length %}
+  {%- set firstRec = taxonomy.categories | bySlug(cats[0]) %}
+  {%- set more = collections.tricks | withTerm("categories", cats[0]) | related(page.url, 5) %}
+  {%- if more.length %}
+  <section class="more">
+    <h2>More tricks like this</h2>
+    <ul>
+    {%- for t in more %}
+      <li><a href="{{ t.url }}">{{ t.data.title }}</a></li>
+    {%- endfor %}
+    </ul>
+    <p>See all <a href="/category/{{ cats[0] }}/">{{ firstRec.name if firstRec else cats[0] }}</a>.</p>
+  </section>
+  {%- endif %}
+  {%- endif %}
 </article>
-<script type="application/ld+json">
-{{ {
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": title,
-  "datePublished": date | isoDate,
-  "dateModified": (modified or date) | isoDate,
-  "author": { "@type": "Person", "name": (au.name if au else author), "url": site.url + "/author/" + author + "/" },
-  "description": (seoDescription or excerpt or "") | striptags | trim,
-  "mainEntityOfPage": site.url + page.url,
-  "image": site.ogImage,
-  "publisher": { "@type": "Organization", "name": site.name, "logo": { "@type": "ImageObject", "url": site.ogImage } }
-} | dump | replace("<", "\\u003c") | safe }}
-</script>

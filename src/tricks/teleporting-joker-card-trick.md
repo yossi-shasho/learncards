@@ -9,8 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The Teleporting Joker – A Stunning Intermediate Card Trick - Learncards'
-seoDescription: 'Learn the Teleporting Joker, a stunning intermediate card trick that uses sleight of hand and mentalism to make a chosen card teleport next to the Joker. With practice, this card trick will amaze any audience and leave them wondering how you did it!'
-excerpt: 'Introduction: The Teleporting Joker is an impressive card trick that falls under both the Intermediate Tricks and Mental Tricks categories….'
+seoDescription: 'The Teleporting Joker is an intermediate card trick where a chosen card seems to teleport across the deck, with a joker pointing the way.'
+difficulty: intermediate
+effect: 'A spectator’s chosen card appears to teleport from one part of the deck to another, with a joker playing a starring role.'
+needs: ['A regular deck of cards', 'One or two jokers']
+skills: ['Misdirection', 'Mentalism', 'Key card']
+excerpt: 'A chosen card appears to teleport across the deck with the help of a joker. The trick rewards smooth misdirection and a good story.'
 ---
 
 **Introduction:**

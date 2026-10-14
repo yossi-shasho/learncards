@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Always On Top - Learncards'
-excerpt: 'Effect: A spectator is asked to pick a card and return it to the top of the deck. Magician'
+seoDescription: 'Always On Top: a chosen card is placed in the middle of the deck yet rises right back to the top. Requires a smooth palm and double turnover.'
+difficulty: expert
+effect: 'The spectator''s chosen card is put in the middle of the deck, but when the magician shows the top card, it has risen back to the top.'
+needs: ['A regular deck of cards']
+skills: ['Palming', 'Double lift', 'Misdirection']
+excerpt: 'A spectator''s card is shown to them and lost in the middle of the deck. Remarkably, it climbs back up and is found on top.'
 ---
 
 **Effect:** A spectator is asked to pick a card and return it to the top of the deck. Magician shows the card to spectator and puts it in the middle of the deck. Magically it rises back to the top.

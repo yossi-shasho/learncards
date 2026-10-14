@@ -11,7 +11,12 @@ tags:
   - 'prediction'
 author: 'learncards'
 seoTitle: 'Amazing Prediction - Learncards'
-excerpt: 'First Step: Spectator is asked to shuffle the deck, then remove any twelve cards of his choice from the pack'
+seoDescription: 'Amazing Prediction: the magician''s prewritten prediction matches the cards a spectator freely selects, deals and totals. A self-working math trick.'
+difficulty: easy
+effect: 'A spectator picks twelve cards, lays out four and builds each to ten, and the total matches the magician''s written prediction.'
+needs: ['A regular deck of cards', 'Paper and a pen']
+skills: ['Math principle', 'Self-working', 'Counting']
+excerpt: 'Before any cards are selected the magician writes a prediction. After a series of free choices and deals, it matches the final result perfectly.'
 ---
 
 **First Step:** Spectator is asked to shuffle the deck, then remove any twelve cards of his choice from the pack and to further shuffle these twelve cards. Whilst this is being done the magician writes a prediction on a piece of paper he places face down on the table…

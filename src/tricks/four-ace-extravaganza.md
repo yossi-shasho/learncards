@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Four Ace Extravaganza - Learncards'
-excerpt: 'Preparation: Remove the four aces from the deck and the cards 2,3,4,5,6,7,8,9 (any suits). Put the four aces on'
+seoDescription: 'Four Ace Extravaganza: a spectator names a number and the four aces are found after three deals. A math card trick for a bet.'
+difficulty: intermediate
+effect: 'A spectator names a number between ten and twenty and cards are counted out, and the four aces are then found in the dealt piles.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Setup', 'Math principle', 'Counting', 'False shuffle']
+excerpt: 'The magician bets the audience can find all the aces. After shuffling and a counted deal, the four aces turn up in surprising places.'
 ---
 
 Preparation: Remove the four aces from the deck and the cards 2,3,4,5,6,7,8,9 (any suits). Put the four aces on top of the deck. (Later they’ll be found in order from the top down.)… Put the other eight cards in order from 2 through 9 and place them on top of the aces. Starting with the top card, the deck should be 2,3,4,5,6,7,8,9,A,A,A,A, then the rest of the cards. Now you are ready!

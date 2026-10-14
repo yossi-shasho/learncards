@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Easy Pick - Learncards'
-excerpt: 'Use any full deck and its case. Allow a friend to shuffle the cards. Tell him/her to keep one of'
+seoDescription: 'Easy Pick: a spectator slips a card back into the deck inside its case, and you find it with your back turned. A simple impromptu trick.'
+difficulty: easy
+effect: 'A friend returns a card to the deck in its box, and with his back turned the magician pulls out the card that was chosen.'
+needs: ['A regular deck of cards', 'The card case']
+skills: ['Misdirection', 'Patter']
+excerpt: 'A friend keeps one card, the deck goes into its case, and the card is pushed back in. The magician turns away and finds the chosen card.'
 ---
 
 Use any full deck and its case. Allow a friend to shuffle the cards. Tell him/her to keep one of the cards,…

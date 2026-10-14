@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Mind Reader II - Learncards'
-excerpt: 'Effect: This is just a variation of the trick Mind Reader, submitted by James Blackie. Method: 1. Get the'
+seoDescription: 'Mind Reader II is a variation of the classic equivoque card trick: the spectator seems to choose freely, but always ends on the three of hearts.'
+difficulty: intermediate
+effect: 'A spectator makes a series of apparently free choices that narrow down the deck to one card, which I then produce from my pocket.'
+needs: ['A regular deck of cards', 'A pocket']
+skills: ['Force', 'Glimpse', 'Patter']
+excerpt: 'A spectator chooses suits and groups of cards in a sequence of apparently free choices. In the end the deck is narrowed to a single card, which you reveal.'
 ---
 
 **Effect:** This is just a variation of the trick Mind Reader, submitted by James Blackie.

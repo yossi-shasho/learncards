@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Teleporting Aces - Learncards'
-excerpt: 'Effect: The four aces are taken out of the deck, and then placed back inside the deck in random'
+seoDescription: 'Teleporting Aces is a classic card trick where four aces placed in random spots in the deck magically jump back to the top.'
+difficulty: intermediate
+effect: 'The four aces are put back into the deck in random places, then they appear together on top of the deck.'
+needs: ['A regular deck of cards']
+skills: ['Setup', 'Misdirection', 'Palming']
+excerpt: 'Four aces are inserted into the middle of the deck, and with a wave of the hand they teleport back to the top. This trick has a video tutorial.'
 ---
 
 **Effect:** The four aces are taken out of the deck, and then placed back inside the deck in random locations. But then they magically appear in the top of the deck again. **This trick has a video tutorial**.

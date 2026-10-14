@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Piano Duets - Learncards'
-excerpt: 'This mathematical trick uses the metaphor of playing the piano to a colourful effect. Method:The magician invites a volunteer to'
+seoDescription: 'Piano Duets is a math card trick where cards are paired between a volunteer’s fingers like piano keys, ending in a surprising result.'
+difficulty: intermediate
+effect: 'Cards are placed in pairs between a volunteer’s fingers as if playing the piano, with a single odd card, and the final count reveals a surprise.'
+needs: ['A regular deck of cards', 'A volunteer', 'A table']
+skills: ['Math principle', 'Patter']
+excerpt: 'You pair up cards between a volunteer’s fingers like piano keys, with one odd card left over. A playful math trick that rewards good patter.'
 ---
 
 **This mathematical trick uses the metaphor of playing the piano to a colourful effect.**

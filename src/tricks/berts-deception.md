@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Bert''s Deception - Learncards'
-excerpt: 'What you need: Two similar card decks and one card with the same pattern but in another color. Let’s'
+seoDescription: 'Bert''s Deception: with two decks and a blue card, the spectator''s card ends up under the wrong deck and in their friend''s pocket. A fun prank trick.'
+difficulty: expert
+effect: 'A card chosen from one deck suddenly appears on top of a different deck, or in a friend''s pocket where it had been hidden all along.'
+needs: ['Two similar decks', 'A card with a different back color', 'A friend''s pocket']
+skills: ['Setup', 'Force', 'Misdirection', 'Patter']
+excerpt: 'A spectator chooses a card from one deck, but it ends up in a surprising place. A second deck and a mismatched card play a part.'
 ---
 
 **What you need:** Two similar card decks and one card with the same pattern but in another color. Let’s say, you have two red decks of cards and one card with the same pattern on the back, but in blue. I will call this card the blue card.

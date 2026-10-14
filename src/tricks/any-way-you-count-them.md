@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Any Way You Count Them - Learncards'
-excerpt: 'Shuffle the cards well. Holding them face down, turn over the top card and place it face up on'
+seoDescription: 'Any Way You Count Them: stacks made to ten and three chosen piles lead to a hidden number, a math card trick that works every time.'
+difficulty: intermediate
+effect: 'A spectator picks three stacks from a deck dealt out to ten each, and the magician then predicts the exact number of cards it leaves.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Math principle', 'Counting', 'Self-working']
+excerpt: 'Cards are dealt into stacks that add up to ten and a spectator chooses three of them. A little arithmetic then reveals a card or number.'
 ---
 
 Shuffle the cards well. Holding them face down, turn over the top card and place it face up on the table. Think of it as a stack. Starting with its face value, deal face up…

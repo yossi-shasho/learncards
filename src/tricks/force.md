@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Force - Learncards'
-excerpt: 'Effect: The magician asks a spectator to pick a number of cards seemingly of their choice until there is'
+seoDescription: 'Force: a spectator eliminates rows of cards until a single card remains, and the magician names it. An easy self-working trick to learn.'
+difficulty: easy
+effect: 'A spectator picks rows of cards to eliminate until one card is left, and it turns out to be the card the magician predicted.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Force', 'Self-working', 'Misdirection']
+excerpt: 'A spectator seems to make free choices while rows of cards are removed one at a time. The last remaining card is the one the magician knew.'
 ---
 
 **Effect:** The magician asks a spectator to pick a number of cards seemingly of their choice until there is only 1 card left the spectator picks it up and the magician tells them what their card is.

@@ -8,8 +8,13 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The Rising Card - Learncards'
-excerpt: 'Effect: A spectator chooses a card and puts it back in the deck. Then you put it back in the'
 video: 'https://www.youtube.com/watch?v=rKdhnpx-43g'
+seoDescription: 'The Rising Card is an intermediate trick where a spectator’s card slowly rises out of the pack as they hold it in the card box.'
+difficulty: intermediate
+effect: 'A spectator’s chosen card is put back in the box, and as they hold it the card starts to rise out of the pack by itself.'
+needs: ['A regular deck of cards', 'A card box', 'A rubber band and tape']
+skills: ['Setup', 'Force']
+excerpt: 'A chosen card rises out of the pack on its own while a spectator holds the deck. It needs a simple gimmick made from a rubber band, tape and two old cards.'
 ---
 
 **Effect:** A spectator chooses a card and puts it back in the deck. Then you put it back in the card box and tell them to hold it. Then as they are holding it, their card starts to rise out of the pack!

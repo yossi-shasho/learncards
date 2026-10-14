@@ -79,6 +79,8 @@ async function ytAlive(id) {
 
 // Authors folded into the main 'learncards' author (removed from the site; their URL is redirected).
 const DROP_AUTHORS = new Set(['arik-w']);
+// Display names for authors (WordPress has the login name).
+const AUTHOR_NAMES = { learncards: 'Joe Cards' };
 
 // ---- main ---------------------------------------------------------------
 const [posts, cats, tags, users] = await Promise.all([
@@ -87,7 +89,7 @@ const [posts, cats, tags, users] = await Promise.all([
   getAll('tags'),
   getAll('users'),
 ]);
-const categories = simple(cats.filter((c) => c.count > 0)), tagList = simple(tags.filter((t) => t.count > 0)), authors = simple(users).filter((u) => !DROP_AUTHORS.has(u.slug));
+const categories = simple(cats.filter((c) => c.count > 0)), tagList = simple(tags.filter((t) => t.count > 0)), authors = simple(users).filter((u) => !DROP_AUTHORS.has(u.slug)).map((u) => ({ ...u, name: AUTHOR_NAMES[u.slug] || u.name }));
 const catSlug = new Map(categories.map((c) => [c.id, c.slug]));
 const tagSlug = new Map(tagList.map((c) => [c.id, c.slug]));
 const authSlug = new Map(simple(users).map((c) => [c.id, DROP_AUTHORS.has(c.slug) ? 'learncards' : c.slug]));

@@ -8,8 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The Invisible Switch – A Deceptively Simple Card Trick - Learncards'
-seoDescription: 'Master the Invisible Switch, a self-working card trick that will leave your audience amazed as their chosen card magically switches without them realizing it. Perfect for beginners, this trick uses misdirection and simple techniques for maximum impact!'
-excerpt: 'Introduction: The Invisible Switch is an incredibly deceptive card trick that falls under the category of Self-Working Tricks. It allows'
+seoDescription: 'The Invisible Switch is a beginner-friendly trick where a spectator''s chosen card changes into another card right before their eyes.'
+difficulty: easy
+effect: 'A spectator''s chosen card appears to change into a different card before their eyes, then the real card is revealed in a surprising place.'
+needs: ['A regular deck of cards']
+skills: ['Key card', 'Misdirection', 'Self-working']
+excerpt: 'A spectator memorizes a card and it is shuffled into the deck. The top card is shown and is not theirs, then the card below it reveals the chosen card.'
 ---
 
 **Introduction:**

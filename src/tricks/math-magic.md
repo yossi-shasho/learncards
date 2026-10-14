@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Math-Magic - Learncards'
-excerpt: 'Effect: A spectator chooses a card from three columns and is then led through several steps that seem to make'
+seoDescription: 'Math Magic: a spectator thinks of a card in three columns, and a series of piles and eliminations leads to their card in the middle of the deck.'
+difficulty: intermediate
+effect: 'A spectator thinks of one card in three columns, and through repeated piles and choices I end up with exactly their card.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Math principle', 'Counting', 'Patter']
+excerpt: 'A spectator mentally picks a card from three columns of seven. Through repeated dealing and eliminating piles by their choice, their card is the last one left.'
 ---
 
 **Effect:** A spectator chooses a card from three columns and is then led through several steps that seem to make him (or her) find his own card from piles of face down cards.

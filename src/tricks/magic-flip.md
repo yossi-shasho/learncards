@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Magic Flip - Learncards'
-excerpt: 'Effect: You can magically flip over the spectators chosen card behind your back. Method: Begin by shuffling the deck and'
+seoDescription: 'Magic Flip: the spectator''s card flips itself over in the deck while the deck is hidden behind your back. A simple, direct card trick.'
+difficulty: easy
+effect: 'A spectator chooses a card and it is lost in the deck; I put the deck behind my back, and their card is the only one face up when it comes out.'
+needs: ['A regular deck of cards']
+skills: ['Setup', 'Misdirection']
+excerpt: 'A spectator picks a card and loses it in the deck. After a moment behind your back, their card is revealed as the only one that has flipped face up.'
 ---
 
 **Effect:** You can magically flip over the spectators chosen card behind your back.

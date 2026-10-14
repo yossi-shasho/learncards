@@ -12,5 +12,6 @@ eleventyComputed:
   heading: "{{ category.name }}"
   listDescription: "{{ category.description }}"
   seoTitle: "{{ category.name }} Archives - Learncards"
+  seoDescription: "{{ intros[category.slug].seoDescription if (intros and intros[category.slug]) else '' }}"
   description: "{{ category.description or ('Learn ' + (category.name | lower) + ' step by step at Learncards.') }}"
 ---

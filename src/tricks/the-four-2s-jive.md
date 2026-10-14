@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The Four 2''s Jive - Learncards'
-excerpt: 'Effect: Deck is shuffled, and a spectator cuts in half. Spectator chooses one cut portion and performer takes the other….'
+seoDescription: 'The Four 2s Jive is a self-working trick where you and a spectator swap cards behind your backs and all four twos appear face up.'
+difficulty: easy
+effect: 'A spectator and I each choose cards behind our backs and exchange them, and when we show our piles all four twos are face up.'
+needs: ['A regular deck of cards', 'Four twos in a pocket']
+skills: ['Setup', 'Self-working', 'Misdirection']
+excerpt: 'You and a spectator both hold half the deck behind your backs and swap cards. At the end, all four twos are found face up in the spread.'
 ---
 
 Effect: Deck is shuffled, and a spectator cuts in half. Spectator chooses one cut portion and performer takes the other. Both spectator and performer hold cards behind their back and select a card. The cards selected are then exchanged and placed face up behind the back. This is repeated one more time. When done, both people bring out their pile and spread them out. All four Two’s will be face up.

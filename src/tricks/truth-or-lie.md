@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Truth or Lie - Learncards'
-excerpt: 'Effect: The spectator picks a card and tells it to the performer. The spectator may either lie or tell the'
+seoDescription: 'Truth or Lie is an easy card trick where a spectator can tell the truth or lie about their card, and you still find it by spelling.'
+difficulty: easy
+effect: 'A spectator picks a card and tells me its number, either truthfully or not, and I find the card by spelling the words truth and lie.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Self-working', 'Counting', 'Patter']
+excerpt: 'A spectator can lie or tell the truth about the number of their chosen card, and the card is found anyway by spelling out TRUTH and LIE.'
 ---
 
 **Effect:** The spectator picks a card and tells it to the performer. The spectator may either lie or tell the truth, but the performer will find the chosen card either way, by spelling out the words ‘truth’ and ‘lie’.

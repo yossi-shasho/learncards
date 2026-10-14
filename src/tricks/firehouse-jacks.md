@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Firehouse Jacks - Learncards'
-excerpt: 'Effect: As the original trick you set it up pretty much the same way, except instead on the 2-8'
+seoDescription: 'Firehouse Jacks: four jack firemen race through a burning house, and one by one the aces appear with them. A story card trick.'
+difficulty: intermediate
+effect: 'Four jacks are sent into a burning house in a story, and when the cards are checked, the jacks are all together again with the aces.'
+needs: ['A regular deck of cards', 'Four jacks', 'Four aces']
+skills: ['Setup', 'Patter', 'Misdirection']
+excerpt: 'A story of four jack firemen is told as cards are placed into a deck. The magician then fans the cards to reveal a surprising result.'
 ---
 
 **Effect:** As the original trick you set it up pretty much the same way, except instead on the 2-8 cards and the 4 aces behind them, you should have from the top of the deck 2 thru 10 and then the Aces. Now your ready.

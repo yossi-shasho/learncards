@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'A Magical Card Production - Learncards'
-excerpt: 'Effect: This simple card trick is a logical opening for a series of feats with cards. Method You prepare'
+seoDescription: 'A Magical Card Production: a silk handkerchief seems empty twice, then a whole deck appears from nowhere. A great opener for any card routine.'
+difficulty: easy
+effect: 'A silk handkerchief is shown empty, then on the second attempt a whole deck of cards is magically produced from beneath it.'
+needs: ['A regular deck of cards', 'A silk handkerchief', 'A vest pocket']
+skills: ['Setup', 'Misdirection', 'Patter']
+excerpt: 'A silk handkerchief is shown empty twice. On the second try, the magician pulls a whole deck of cards from behind it as an opening production.'
 ---
 
 **Effect:** This simple card trick is a logical opening for a series of feats with cards.

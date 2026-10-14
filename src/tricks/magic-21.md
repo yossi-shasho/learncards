@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Magic 21 - Learncards'
-excerpt: 'Effect: Spectator chooses a card in a pile of 21, puts it back, and shuffles it. After a series of'
+seoDescription: 'Magic 21 is a self-working card trick: a spectator''s chosen card is lost in 21 cards, and three deals into piles lead you to find it.'
+difficulty: easy
+effect: 'A spectator memorizes one card among 21 and shuffles it, then after three rounds of dealing into piles I find their card.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Self-working', 'Math principle', 'Counting']
+excerpt: 'A spectator picks a card from a pile of 21 and shuffles it in. After three rounds of dealing and pile-picking, their card is found, then revealed.'
 ---
 
 **Effect:** Spectator chooses a card in a pile of 21, puts it back, and shuffles it. After a series of maneuvers, you somehow magically have their card!

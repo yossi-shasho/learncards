@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'It''s Your Deal - Learncards'
-excerpt: 'Effect: The spectator cuts an ordinary pack of cards in two, chooses a card, memorises it and returns it'
+seoDescription: 'It''s Your Deal: a spectator cuts the deck, memorizes a card, and deals piles, discarding as they go until only their chosen card remains. Math-based.'
+difficulty: intermediate
+effect: 'A spectator cuts the deck, memorizes a card and deals it into piles, discarding some along the way, until only their chosen card is left.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Math principle', 'Counting', 'Patter']
+excerpt: 'A spectator halves the deck, hides a memorized card on top of one half, and deals into four piles. Through elimination they end up with only their chosen card.'
 ---
 
 **Effect:** The spectator cuts an ordinary pack of cards in two, chooses a card, memorises it and returns it to the pack. They then magically locate their chosen card just by dealing the cards into piles, discarding some along the way until they’re left with only one card – theirs.**  

@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Do It Yourself Discovery - Learncards'
-excerpt: 'Effect: The spectator discovers his own card in a mysterious manner. Method: Have the spectator shuffle the cards, take'
+seoDescription: 'Do It Yourself Discovery: a spectator finds their own card behind their back, two reversed cards giving it away. Easy impromptu trick.'
+difficulty: easy
+effect: 'A spectator finds their own chosen card behind their back after the magician has secretly turned two cards in the deck.'
+needs: ['A regular deck of cards']
+skills: ['Setup', 'Misdirection', 'Patter']
+excerpt: 'A spectator picks a card, returns it to their half of the deck, and then finds it themselves behind their back in a mysterious way.'
 ---
 
 **Effect:** The spectator discovers his own card in a mysterious manner.

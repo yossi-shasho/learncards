@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The Changing Ace - Learncards'
-excerpt: 'Effect: You hold the Ace of Clubs, Diamonds, and Spades, spread out like a fan so that everyone can'
+seoDescription: 'The Changing Ace is a quick self-working trick where the Ace of Diamonds turns into the Ace of Hearts after three taps.'
+difficulty: easy
+effect: 'Three aces are fanned and turned face down, a spectator taps them three times, and the Ace of Diamonds has turned into the Ace of Hearts.'
+needs: ['A deck of cards', 'Four aces']
+skills: ['Self-working', 'Misdirection']
+excerpt: 'You show three aces fanned out, then turn them over and have a spectator tap them. When they are turned back, the Ace of Diamonds has become the Ace of Hearts.'
 ---
 
 **Effect:** You hold the Ace of Clubs, Diamonds, and Spades, spread out like a fan so that everyone can see them. You turn them face down, have someone tap them three times (the “magic” number,) turn them face up, and the Ace of Diamonds has now amazingly changed to the Ace of Hearts!

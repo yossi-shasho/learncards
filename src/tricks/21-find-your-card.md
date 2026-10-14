@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: '21 Find Your Card - Learncards'
-excerpt: 'Effect: Find the chosen card from 21 cards Method Choose the first 21 cards out of the deck, in'
+seoDescription: '21 Find Your Card: a classic self-working trick where a chosen card is found from 21 cards after three deals into piles. Easy to learn.'
+difficulty: easy
+effect: 'A spectator thinks of one card among 21 laid out on the table, and after three rounds of pointing to its pile, the magician reveals it.'
+needs: ['21 playing cards', 'A table']
+skills: ['Self-working', 'Counting', 'Math principle']
+excerpt: 'The spectator mentally selects one of 21 cards and only says which pile it is in. After three deals, the magician counts to the exact card.'
 ---
 
 **Effect:** Find the chosen card from 21 cards

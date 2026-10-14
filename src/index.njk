@@ -4,9 +4,15 @@ permalink: /index.html
 seoTitle: "Learncards - Learn Card Tricks Step by Step"
 ---
 <div class="hero">
+{%- if home and home.intro %}
+{{ home.intro | markdown | safe }}
+{%- else %}
   <p>Welcome to <b>{{ site.name }}</b>! {{ collections.tricks.length }} card tricks explained step by step &mdash;
   from easy self-working tricks you can do tonight to expert sleight of hand. Pick a category below and start practising.</p>
+{%- endif %}
 </div>
+{%- set newest = [] %}
+{%- for t in collections.tricks %}{% if loop.index <= 5 %}{% set newest = (newest.push(t.url), newest) %}{% endif %}{% endfor %}
 {%- set order = [] %}
 {%- for n in site.nav %}{% set order = (order.push(n.slug), order) %}{% endfor %}
 {%- for c in taxonomy.categories %}{% if c.slug not in order %}{% set order = (order.push(c.slug), order) %}{% endif %}{% endfor %}
@@ -18,7 +24,7 @@ seoTitle: "Learncards - Learn Card Tricks Step by Step"
   <h2><a href="/category/{{ cat.slug }}/">{{ cat.name }}</a> <small>({{ items.length }})</small></h2>
   <ul>
   {%- for t in items %}
-    <li><a href="{{ t.url }}">{{ t.data.title }}</a></li>
+    <li><a href="{{ t.url }}">{{ t.data.title }}</a>{% if t.url in newest %} <span class="blink">NEW!</span>{% endif %}</li>
   {%- endfor %}
   </ul>
 </section>

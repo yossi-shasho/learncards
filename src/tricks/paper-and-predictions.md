@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Paper and Predictions - Learncards'
-excerpt: 'Effect: Performer makes a prediction and writes it down. The folded paper is given to a spectator who does not'
+seoDescription: 'Paper and Predictions is a card trick where a folded prediction names the exact card a spectator lands on after a random cut and count.'
+difficulty: intermediate
+effect: 'A prediction is written and folded away, then a random cut and a count equal to a spectator’s card ends on the very card that was predicted.'
+needs: ['A regular deck of cards', 'Paper and pen']
+skills: ['Glimpse', 'Counting', 'Mentalism']
+excerpt: 'A folded prediction is handed to a spectator before anything happens. After a random cut and a count, the last card turned over matches it exactly.'
 ---
 
 **Effect:** Performer makes a prediction and writes it down. The folded paper is given to a spectator who does not look at it. Someone cuts the deck and takes a random card. The performer counts off a number of cards equal to the face value of that card onto the table. The last card turned is the predicted card.

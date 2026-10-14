@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Haphazard Cards - Learncards'
-excerpt: 'Holding a deck of cards face down in your left hand, take a small bunch of cards with your right….'
+seoDescription: 'Haphazard Cards is an easy impromptu trick: a deck mixed face up and face down, then a quick shuffle restores every card to perfect order.'
+difficulty: easy
+effect: 'The deck is flipped in handfuls until the cards look hopelessly mixed face up and face down, then one riffle shuffle magically restores them all to order.'
+needs: ['A regular deck of cards']
+skills: ['Setup', 'Misdirection']
+excerpt: 'You turn over handfuls of cards until the deck looks hopelessly jumbled, face up and face down. One quick riffle shuffle and the cards are magically restored.'
 ---
 
 Holding a deck of cards face down in your left hand, take a small bunch of cards with your right. Turn the cards in your right hand face up, and put them on top of the cards in your left. Square up the deck. Grab all of the face up…

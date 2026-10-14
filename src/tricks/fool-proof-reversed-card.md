@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Fool Proof Reversed Card - Learncards'
-excerpt: 'Effect: A spectator chooses a card, replaces it, turn the deck over three times in their hands, snaps it,'
+seoDescription: 'Fool Proof Reversed Card: a spectator loses their card in a shuffled deck, yet when they look through it they find it reversed. Self-working.'
+difficulty: intermediate
+effect: 'A spectator chooses a card, shuffles it in the deck and snaps it, but looking through the deck they find their card has turned face up.'
+needs: ['A regular deck of cards', 'A duplicate card']
+skills: ['Setup', 'Self-working', 'Math principle']
+excerpt: 'A spectator picks and replaces a card, and the deck is mixed. Looking through the cards, they find their card has turned over by itself.'
 ---
 
 **Effect:** A spectator chooses a card, replaces it, turn the deck over three times in their hands, snaps it, riffles it, shuffles it, whatever then they look through the deck to find it reversed.  

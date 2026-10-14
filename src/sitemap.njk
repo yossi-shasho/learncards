@@ -9,6 +9,11 @@ layout: false
 {%- for t in collections.tricks %}
   <url><loc>{{ site.url }}{{ t.url }}</loc><lastmod>{{ (t.data.modified or t.date) | isoDate }}</lastmod></url>
 {%- endfor %}
+{%- for p in collections.all %}
+{%- if p.url == "/about/" or p.url == "/glossary/" %}
+  <url><loc>{{ site.url }}{{ p.url }}</loc><lastmod>{{ (p.data.modified or p.date) | isoDate }}</lastmod></url>
+{%- endif %}
+{%- endfor %}
 {%- for group in [["category", "categories", taxonomy.categories], ["tag", "tags", taxonomy.tags], ["author", "author", taxonomy.authors]] %}
 {%- for x in group[2] %}
 {%- set items = collections.tricks | withTerm(group[1], x.slug) %}

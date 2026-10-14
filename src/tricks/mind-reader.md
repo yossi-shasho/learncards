@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Mind Reader - Learncards'
-excerpt: 'This card trick is very easy but it fools alot of people. 1. Shuffle the deck or get the spectator to'
+seoDescription: 'Mind Reader is a very easy card trick that fools many people: a spectator''s free choices narrow down to the one card you looked at.'
+difficulty: easy
+effect: 'A spectator makes a few free choices of color, suit and cards, and it always ends with the one card I secretly looked at at the start.'
+needs: ['A regular deck of cards']
+skills: ['Force', 'Mentalism', 'Patter']
+excerpt: 'You secretly look at the top card, and a spectator makes a series of choices that appear free. They always end up choosing the very card you were looking at.'
 ---
 
 **This card trick is very easy but it fools alot of people.**  

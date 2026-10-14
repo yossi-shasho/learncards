@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Kathy''s Prediction - Learncards'
-excerpt: 'Shuffle a deck of cards. Place the top card face up on the table and look at its number'
+seoDescription: 'Kathy''s Prediction is an easy math card trick: deal face-up piles to ten, let a volunteer pick three, and predict the number on the final top card.'
+difficulty: easy
+effect: 'A volunteer chooses piles and flips cards, and I announce the number on the final card before it is turned over, and I am right.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Math principle', 'Counting', 'Patter']
+excerpt: 'Cards are dealt into piles that add up to ten, and a volunteer selects three of them. You then predict the value of the top card on the final pile.'
 ---
 
 Shuffle a deck of cards. Place the top card face up on the table and look at its number (Jacks, Queens, and Kings all equal 10.) Put enough cards on top of the card to make the total 10. For example if a 4 is showing,…

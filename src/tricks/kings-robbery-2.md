@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Kings Robbery - Learncards'
-excerpt: 'Start out by telling a story of four king thieves (have the Kings separated from the rest of the deck)….'
+seoDescription: 'King''s Robbery is a story-driven card trick: four Kings rob a store, split up, then escape to the roof together. Fun for kids and beginners.'
+difficulty: easy
+effect: 'I tell a story of four King thieves who split up across a building, then they all magically reunite on the roof at the top of the deck.'
+needs: ['A regular deck of cards', 'Four Kings']
+skills: ['Setup', 'Patter', 'Misdirection']
+excerpt: 'While telling a story of four King thieves splitting up to rob a store, the Kings are placed through the deck, then all four reappear together at the top.'
 ---
 
 Start out by telling a story of four king thieves (have the Kings separated from the rest of the deck). One day the kings decide to rob their local Famous Store. The four kings fly their helicopter to the roof and begin to devise their plans. (As you say this, place the four Kings on the top of the deck.)

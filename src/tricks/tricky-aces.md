@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Tricky Aces - Learncards'
-excerpt: 'Effect: There are two piles and one is four aces and one is four regular cards and you make them magically'
+seoDescription: 'Tricky Aces is an easy card trick where a pile of four aces and a pile of ordinary cards magically trade places.'
+difficulty: easy
+effect: 'There are two piles, one of four aces and one of four ordinary cards, and I make them magically switch places.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Setup', 'Misdirection']
+excerpt: 'Four aces and four regular cards in two piles magically change places. An easy trick that teaches the basics of a card switch.'
 ---
 
 **Effect:** There are two piles and one is four aces and one is four regular cards and you make them magically switch places!

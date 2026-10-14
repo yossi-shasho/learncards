@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Aces for Cardmen Only - Learncards'
-excerpt: 'Effect: Magician cuts the 4 aces from a thoroughly shuffled deck. No crimps, no key cards, no rough/slick…use a'
+seoDescription: 'Aces for Cardmen Only: cut to all four aces from a thoroughly shuffled, borrowed deck using a perfect faro shuffle. A tricky one for card experts.'
+difficulty: expert
+effect: 'The magician cuts to all four aces in a shuffled deck, even a borrowed one, with no crimps, key cards or marked cards.'
+needs: ['A borrowed deck of cards']
+skills: ['False shuffle', 'Setup', 'Counting']
+excerpt: 'From a deck that seems thoroughly shuffled, the magician cuts to the four aces one by one. A borrowed deck is fine and nothing is marked.'
 ---
 
 **Effect:** Magician cuts the 4 aces from a thoroughly shuffled deck. No crimps, no key cards, no rough/slick…use a borrowed deck!

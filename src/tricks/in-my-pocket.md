@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'In My Pocket - Learncards'
-excerpt: 'Effect: A spectator picks a card. The magician looks for the spectator’s card in the pack but can’t find'
+seoDescription: 'In My Pocket is a classic card trick using two matching decks: the spectator''s card cannot be found in the pack, then you pull it from your pocket.'
+difficulty: intermediate
+effect: 'A spectator chooses and memorizes a card and shuffles it into the deck; I cannot find it, then I produce that very card from my pocket.'
+needs: ['Two identical decks', 'A pocket']
+skills: ['Setup', 'Force', 'Misdirection']
+excerpt: 'A spectator''s card is shuffled back into the deck and you apparently fail to find it. Then you reach into your pocket and pull out the exact card they chose.'
 ---
 
 **Effect:** A spectator picks a card. The magician looks for the spectator’s card in the pack but can’t find it. He then magically pulls the card out of his pocket.

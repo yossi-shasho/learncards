@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Double Reverse Table Hit - Learncards'
-excerpt: 'First shuffle the deck. Then have somebody randomly pick three cards out of the deck. Have him (or her)'
+seoDescription: 'Double Reverse Table Hit: a spectator buries three chosen cards in a deal, and you find the one they remembered. An intermediate card trick.'
+difficulty: intermediate
+effect: 'A spectator remembers one of three chosen cards that are buried in a dealt stack, and the magician reveals which one they were thinking of.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Counting', 'Setup', 'Mentalism']
+excerpt: 'A spectator picks three cards, remembers one, and places them in a dealt packet. The magician then identifies the card they have in mind.'
 ---
 
 First shuffle the deck. Then have somebody randomly pick three cards out of the deck. Have him (or her) look at the cards and memorize one of them, not paying any attention to the other two. The other two just act as fodder…

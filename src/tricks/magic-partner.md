@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Magic Partner - Learncards'
-excerpt: 'Effect: You fan out the cards, having a spectator memorize a card mentally. You then give the spectator the'
+seoDescription: 'Magic Partner is a self-working card trick: a spectator memorizes a card among ten, and the last card remaining after a simple deal is theirs.'
+difficulty: intermediate
+effect: 'A spectator mentally picks one of ten cards and its position, and after some moving and dealing the last card left is their card.'
+needs: ['A regular deck of cards']
+skills: ['Self-working', 'Counting', 'Math principle']
+excerpt: 'A spectator memorizes a card in a fan of ten and its position. After cards are moved to the bottom and top, the last card left turns out to be theirs.'
 ---
 
 **Effect:** You fan out the cards, having a spectator memorize a card mentally. You then give the spectator the cards and have him (or her) give you a card and then put one on the bottom until he gets to the last card. That last card is the card he mentally chose.

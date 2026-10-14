@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Four Islands - Learncards'
-excerpt: 'Effect: There are four islands in an ocean. Each has a king, queen, a son named Jack (the Jack'
+seoDescription: 'Four Islands: a story of kings, queens, jacks and aces on four islands, a hurricane, and every card back on its own island. Self-working.'
+difficulty: easy
+effect: 'A story about a hurricane mixes up kings, queens, jacks and aces, and when the cards are dealt out, every card returns to its own island.'
+needs: ['Kings, queens, jacks and aces']
+skills: ['Self-working', 'Patter', 'Setup']
+excerpt: 'Four islands hold a king, queen, jack and ace each. A hurricane hits and, in the end, every card is back where it belongs.'
 ---
 
 **Effect:** There are four islands in an ocean. Each has a king, queen, a son named Jack (the Jack will be used,) and a dog named Ace (the Ace will be used.) One day, a hurricane storms through the ocean, creating complete chaos and wiping everything on the islands away. Finally, each king lands on his own island, each queen on her own island, etc.

@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'No I Got It - Learncards'
-excerpt: 'Effect: Gives an effect of the card vanishing and reappearing back on top of the deck. Or being knocked'
+seoDescription: 'No, I Got It! A chosen card vanishes from one of three piles and reappears on top of another, as if knocked through the table. Uses a palm.'
+difficulty: intermediate
+effect: 'A spectator''s card is placed on one of three piles, then I tap the piles and their card has moved to another pile.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Palming', 'Misdirection', 'Patter']
+excerpt: 'A spectator''s card is returned to the top of one of three piles. You hit the piles one at a time and their card has vanished and appears in a different pile.'
 ---
 
 **Effect:** Gives an effect of the card vanishing and reappearing back on top of the deck. Or being knocked through the table.

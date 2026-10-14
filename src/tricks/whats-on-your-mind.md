@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'What''s on Your Mind? - Learncards'
-excerpt: 'Before you start, conceal three cards in your pocket, faces inward. Have someone shuffle the deck. Take the deck'
+seoDescription: 'What’s on Your Mind is a memory-based mind-reading trick: you memorize four cards and find the one a spectator thought of.'
+difficulty: intermediate
+effect: 'A spectator thinks of one of four cards, and I pull the exact card from my pocket and show that I knew it all along.'
+needs: ['A regular deck of cards', 'Three cards in a pocket']
+skills: ['Memory', 'Mentalism', 'Setup']
+excerpt: 'A spectator thinks of one of four dealt cards, and you take the exact card out of your pocket. It combines memory work with a secret pocket setup.'
 ---
 
 Before you start, conceal three cards in your pocket, faces inward. Have someone shuffle the deck. Take the deck back and deal the top four cards onto the table…

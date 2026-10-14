@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Slap Happy - Learncards'
-excerpt: 'Effect: One of six cards is selected from the magician. It is then counted off and placed into the'
+seoDescription: 'Slap Happy is an impromptu card trick: slap cards from your hand until only the spectator’s chosen card remains.'
+difficulty: intermediate
+effect: 'A chosen card is lost in the deck, a spectator holds a packet of cards, and when I slap the cards from their hand only the chosen card remains.'
+needs: ['A regular deck of cards', 'A willing spectator']
+skills: ['Counting', 'Misdirection']
+excerpt: 'A selected card is counted into the middle of the deck. When you slap the cards out of a spectator’s hand, only their chosen card stays behind.'
 ---
 
 **Effect:** One of six cards is selected from the magician. It is then counted off and placed into the middle of the deck. Spectator tells magician when the pile is large enough, he then holds cards. Magician slaps cards from his hand and only one remaining is the chosen card.

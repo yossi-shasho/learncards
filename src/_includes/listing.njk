@@ -2,15 +2,21 @@
 layout: base.njk
 ---
 <h1>{{ heading }}</h1>
-{%- if listDescription %}
+{%- set intro = intros[listSlug].intro if (listField == "categories" and intros and intros[listSlug]) else "" %}
+{%- if intro %}
+<div class="intro-text">
+{{ intro | markdown | safe }}
+</div>
+{%- elif listDescription %}
 <p class="intro">{{ listDescription }}</p>
 {%- endif %}
 {%- set items = collections.tricks | withTerm(listField, listSlug) %}
 {%- if items.length %}
 <ul class="listing">
 {%- for t in items %}
-  <li><a href="{{ t.url }}">{{ t.data.title }}</a> <small>&mdash; {{ t.date | longDate }}</small>
-    {%- if t.data.excerpt %}<br><span class="excerpt">{{ t.data.excerpt }}&hellip;</span>{% endif %}</li>
+  <li><a href="{{ t.url }}">{{ t.data.title }}</a>
+    {%- if t.data.difficulty %} <span class="badge badge-{{ t.data.difficulty }}">{{ t.data.difficulty | capitalize }}</span>{% endif %} <small>&mdash; {{ t.date | longDate }}</small>
+    {%- if t.data.excerpt %}<br><span class="excerpt">{{ t.data.excerpt }}</span>{% endif %}</li>
 {%- endfor %}
 </ul>
 {%- else %}

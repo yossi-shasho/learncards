@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Find The Card The Hard Way - Learncards'
-excerpt: 'To perform this trick, you need the help of four spectators. All five of you should be seated around'
+seoDescription: 'Find The Card The Hard Way: five people each think of a card from their hand, and the magician names all of them. Needs four helpers.'
+difficulty: intermediate
+effect: 'Five players each mentally pick a card from their hand of five, and the magician then reveals the card each of them chose.'
+needs: ['A regular deck of cards', 'Four spectators', 'A table']
+skills: ['Math principle', 'Counting', 'Memory']
+excerpt: 'Five hands of five cards are dealt and everyone memorizes one. After two further deals, the magician figures out each person''s card.'
 ---
 
 To perform this trick, you need the help of four spectators. All five of you should be seated around a table. Deal five hands of five cards each, starting with the person to your left and dealing clockwise. Ask each of the spectators to look at the hand in front of him (or her), mentally pick a card and then place the hand back on the table. He should remember the card he picked but not show it to you.

@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Cut To It Share - Learncards'
-excerpt: '. Shuffle the deck. When you are done, square up the deck using a table to aid you. During this,'
+seoDescription: 'Cut To It: a spectator''s card is cut to the top of the deck next to your key card, and you find it in a spread. Easy impromptu card trick.'
+difficulty: easy
+effect: 'A spectator picks a card, cuts it into the deck, and the magician finds it after spreading the deck face up, no matter how it is shuffled.'
+needs: ['A regular deck of cards']
+skills: ['Key card', 'Glimpse', 'False shuffle']
+excerpt: 'A chosen card goes on top, the spectator cuts the deck, and an overhand shuffle follows. The magician then spreads the cards and finds it.'
 ---
 
 **.** Shuffle the deck. When you are done, square up the deck using a table to aid you. During this, glance quickly at the bottom card. REMEMBER this card.

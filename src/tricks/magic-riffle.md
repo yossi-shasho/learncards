@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Magic Riffle - Learncards'
-excerpt: 'Effect: Performer shuffles the deck and then riffles through it (see below.) A spectator is asked to say stop before'
+seoDescription: 'Magic Riffle is an impromptu card trick: a spectator says stop while the deck is riffled and you name the card at that spot without looking.'
+difficulty: easy
+effect: 'I riffle the deck, a spectator says stop, and without looking I name the card they stopped at.'
+needs: ['A regular deck of cards']
+skills: ['Glimpse', 'Key card', 'Misdirection']
+excerpt: 'You riffle through the deck as a spectator says stop, then hold up the cut cards facing the audience without looking, and correctly name the stopped card.'
 ---
 
 **Effect:** Performer shuffles the deck and then riffles through it (see below.) A spectator is asked to say stop before the end of the deck is reached. The performer separates the deck at that point, shows the card to the audience (without looking) and “guesses” the card.

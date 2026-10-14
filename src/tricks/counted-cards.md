@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Counted Cards - Learncards'
-excerpt: '1. Tell a spectator that each card represents a number–A is 1, J is 11, Q is 12, K'
+seoDescription: 'Counted Cards: count piles to thirteen, pick three of them and a hidden number is revealed. A classic self-working math card trick.'
+difficulty: intermediate
+effect: 'A spectator chooses three piles of cards counted to thirteen, and the magician reveals a card or total using a hidden calculation.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Math principle', 'Counting', 'Self-working']
+excerpt: 'Cards are counted into piles that each total thirteen. The spectator picks three of the piles and the final reveal depends on a neat bit of math.'
 ---
 
 **1.** Tell a spectator that each card represents a number–A is 1, J is 11, Q is 12, K is 13, and the rest have their face value.

@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Eight Threatening Kings - Learncards'
-excerpt: 'Effect: Person chooses card from deck, and magician tells person the suit and number. Set-up: The deck is stacked….'
+seoDescription: 'Eight Threatening Kings: memorize a rhyme and the CHaSeD sequence and name any card a spectator pulls from a stacked deck.'
+difficulty: easy
+effect: 'A spectator removes any card from a stacked deck, and the magician names its suit and value on the spot.'
+needs: ['A regular deck of cards', 'A memorized stack']
+skills: ['Stack', 'Memory', 'Math principle']
+excerpt: 'Someone takes a card from the deck, and the magician tells them its suit and value, using a stack in a memorized order.'
 ---
 
 **Effect:** Person chooses card from deck, and magician tells person the suit and number.

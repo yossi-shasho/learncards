@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Liar, Liar - Learncards'
-excerpt: 'Effect: You go through a deck and ask a person to tell you when to stop. You take the'
+seoDescription: 'Liar Liar is a card trick where you show four wrong cards, then the spectator''s card is revealed to be the one you laid down first. Uses a double lift.'
+difficulty: intermediate
+effect: 'Four cards are shown and rejected as the spectator''s card, then I pick up the first and admit I lied: it is their card.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Double lift', 'Force', 'Misdirection']
+excerpt: 'A spectator''s card is rejected four times and each card is laid on the table. Finally you pick up the first card and say, "I lied", and it is theirs.'
 ---
 
 **Effect:** You go through a deck and ask a person to tell you when to stop. You take the first card of the pile and ask them if it is their card. It is not. You do it three more times, all NOT being their card. Then you pick up one that you put down and it is magically their card.

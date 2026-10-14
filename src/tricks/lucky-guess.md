@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Lucky Guess - Learncards'
-excerpt: '(1)You set up 3 rows of 7 cards each, face up. (2)You have someone come up and think of a'
+seoDescription: 'Lucky Guess is an easy 21-card trick: a spectator thinks of a card, tells you which row it is in three times, and you reveal their card.'
+difficulty: easy
+effect: 'A spectator mentally picks a card from three rows of seven, points out its row three times, and I identify it.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Math principle', 'Self-working', 'Counting']
+excerpt: 'A spectator thinks of one card in three rows of seven, and only says which row it is in. After three deals you name the card they were thinking of.'
 ---
 
 (1)You set up 3 rows of 7 cards each, face up.

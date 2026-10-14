@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'After Drinks - Learncards'
-excerpt: 'Effect: The audience is given two random cards. They look at them, but the magician doesn’t see them. The audience'
+seoDescription: 'After Drinks: two cards get lost in the deck, and the magician tosses the deck into a chair, then picks up exactly the two spectator cards.'
+difficulty: easy
+effect: 'Two cards are inserted into the deck by the audience, the magician throws the deck into a chair, and then he picks up the two chosen cards.'
+needs: ['A regular deck of cards', 'A chair']
+skills: ['Setup', 'Misdirection', 'Patter']
+excerpt: 'A pair of cards are given to the audience and lost in the deck. The magician then tosses the deck aside and somehow picks out both cards.'
 ---
 
 **Effect:** The audience is given two random cards. They look at them, but the magician doesn’t see them. The audience inserts the cards into the deck, and without shuffling, the magician throws the deck into a chair, but somehow manages to pick up the two cards, holding them up in front of the gaping audience members.

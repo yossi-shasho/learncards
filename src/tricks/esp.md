@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'ESP - Learncards'
-excerpt: 'You will need someone to act as your assistant for this. Have your assistant leave the room during the first'
+seoDescription: 'ESP: your assistant returns to the room and reads which of nine cards was chosen from where your thumb points on the deck. Mind-reading trick.'
+difficulty: easy
+effect: 'A spectator selects one of nine cards, and an assistant returning to the room can name it by the position of the magician''s thumb on the deck.'
+needs: ['Nine cards', 'An accomplice']
+skills: ['Mentalism', 'Setup', 'Patter']
+excerpt: 'A card is chosen from nine face down while your assistant is out. They return and tell which one was chosen, reading your thumb.'
 ---
 
 You will need someone to act as your assistant for this. Have your assistant leave the room during the first part.

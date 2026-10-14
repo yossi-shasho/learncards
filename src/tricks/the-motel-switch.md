@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The Motel Switch - Learncards'
-excerpt: 'Effect: A motel with four rooms, (use a Four of any suit.) Four Aces, four Kings, four Queens, four Jacks,'
+seoDescription: 'The Motel Switch is an easy story trick where aces, kings, queens and jacks check into a four-card motel and sort themselves out.'
+difficulty: easy
+effect: 'I tell a story about four kinds of cards checking into a motel, and when the inspector comes each rank is in its own room.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Setup', 'Self-working', 'Patter']
+excerpt: 'A motel is shown as a four of any suit, with the aces, kings, queens and jacks mixing in its four rooms. When the inspector arrives, each rank has been sorted.'
 ---
 
 **Effect:** A motel with four rooms, (use a Four of any suit.) Four Aces, four Kings, four Queens, four Jacks, come and mix in the same four rooms. When the inspector comes to check, all the Aces are in one room, the Kings in another, as are the Jacks and the Queens.

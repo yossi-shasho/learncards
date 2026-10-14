@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: '3 Card Monte Variation - Learncards'
-excerpt: 'Effect: The performer has the spectator pick a card, which is lost in the deck. Then, the performer shows'
+seoDescription: '3 Card Monte Variation: follow the ace around the table, fail three times, then watch the flipped card turn out to be the spectator''s own pick.'
+difficulty: expert
+effect: 'A spectator loses track of the ace in a three-card shuffle again and again, until the card turned over finally proves to be their own chosen card.'
+needs: ['A regular deck of cards', 'A table', 'Two Jacks and an Ace']
+skills: ['Double lift', 'Misdirection', 'Palming', 'Patter']
+excerpt: 'The spectator follows the ace in a game of three card monte but keeps losing. At the end, the supposed ace is revealed to be their chosen card.'
 ---
 
 **Effect:** The performer has the spectator pick a card, which is lost in the deck. Then, the performer shows the spectator two Jacks and an Ace, and places them face down. He/she is then told to follow the ace as the performer mixes the cards. Despite appearing simple, the spectator gets it wrong. The performer repeats this, but first shows one of the Jacks to help the spectator; they still get it wrong. On the last time, both Jacks are flipped face up so the spectator can see which card should be the Ace. However, when flipped up, it turns out to be the chosen card!

@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'I Can''t Believe They Don''t Get It! - Learncards'
-excerpt: 'Effect: Good trick, easy to figure out, but it works on people who don’t pay attention. Method: 1. The'
+seoDescription: 'I Can''t Believe They Don''t Get It is an impromptu card trick where two chosen cards are found at once. Easy to spot, but it fools spectators who look away.'
+difficulty: intermediate
+effect: 'Two spectators each choose a card and push it back into the deck, and I flick the deck to reveal both selected cards in a single move.'
+needs: ['A regular deck of cards', 'Two spectators']
+skills: ['Setup', 'Glimpse', 'Misdirection']
+excerpt: 'Two chosen cards are pushed into the middle of the deck, then you flick the deck from one hand to the other to reveal that both were found at once.'
 ---
 
 **Effect:** Good trick, easy to figure out, but it works on people who don’t pay attention.

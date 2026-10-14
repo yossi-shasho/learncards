@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Trapped Trick - Learncards'
-excerpt: 'Effect: The magician removes the two red queens from a deck of cards. An audience member picks a card'
+seoDescription: 'Trapped is an intermediate card trick where a spectator’s card is found face down between the two red queens in a shuffled deck.'
+difficulty: intermediate
+effect: 'A spectator’s card is shuffled into the deck, the two red queens are buried in the middle, and the chosen card is found trapped between them.'
+needs: ['A regular deck of cards', 'The two red queens']
+skills: ['Key card', 'Misdirection']
+excerpt: 'The two red queens are buried in the deck, then the cards are fanned out. The spectator’s card is found face down between them. It works for any size audience.'
 ---
 
 **Effect:** The magician removes the two red queens from a deck of cards. An audience member picks a card and shuffles their card into the deck. Magician places the two queens on top of the deck and cuts the deck, burying the queens in the middle somewhere. He then fans it out and reveals the spectator’s card face down between the queens.  

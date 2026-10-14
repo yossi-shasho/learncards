@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The Ambitious Card - Learncards'
-excerpt: 'Effect: A great classic. A selected card mysteriously appears at the top of the deck again and again after'
+seoDescription: 'The Ambitious Card is the classic card trick where a selected card keeps rising to the top of the deck, with a stunning final appearance.'
+difficulty: expert
+effect: 'A selected card is sent into the middle of the deck again and again, yet each time it jumps back to the top.'
+needs: ['A regular deck of cards']
+skills: ['Double lift', 'False shuffle', 'Misdirection']
+excerpt: 'A selected card keeps returning to the top of the deck, no matter how many times it is buried in the middle. A classic and the final surprise is a real stunner.'
 ---
 
 **Effect:** A great classic. A selected card mysteriously appears at the top of the deck again and again after being sent into the middle of the deck. The final appearance is a real stunner.

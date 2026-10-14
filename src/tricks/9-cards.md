@@ -10,7 +10,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: '9 Cards - Learncards'
-excerpt: 'Effect: read the other persons mind. Two people who know the trick sit together at a table. One of'
+seoDescription: '9 Cards: two magicians read each other''s minds as a spectator picks one of nine cards laid out in a grid. A fun two-person mind-reading card trick.'
+difficulty: easy
+effect: 'One magician leaves the table while a spectator picks a card from nine laid out, and on returning he identifies it just from the other magician''s pointing.'
+needs: ['Nine cards', 'A partner who knows the trick']
+skills: ['Mentalism', 'Self-working']
+excerpt: 'A spectator picks one of nine cards while one magician is away. When he returns, he names the card from the other magician''s questions alone.'
 ---
 
 **Effect:** read the other persons mind.

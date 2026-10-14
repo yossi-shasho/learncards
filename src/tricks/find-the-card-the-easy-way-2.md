@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Find The Card The Easy Way - Learncards'
-excerpt: 'In this trick 16 cards are placed face up on a table, in four rows of four cards. Ask'
+seoDescription: 'Find The Card The Easy Way: lay out sixteen cards, learn only the column, deal again and find the card. A self-working card trick.'
+difficulty: easy
+effect: 'A spectator thinks of one of sixteen cards laid out in four rows and names only its column, and the magician then finds the card.'
+needs: ['16 playing cards', 'A table']
+skills: ['Self-working', 'Math principle']
+excerpt: 'Sixteen cards are laid out and a spectator thinks of one. By naming only its column twice, the magician is able to find the card.'
 ---
 
 In this trick 16 cards are placed face up on a table, in four rows of four cards. Ask a spectator to pick a card in his mind, and to…

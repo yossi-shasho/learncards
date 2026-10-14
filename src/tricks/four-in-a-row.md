@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Four in a row - Learncards'
-excerpt: 'Effect: The magician shuffles a normal deck of cards, he shows it to the audience, he starts at the'
+seoDescription: 'Four in a Row: the magician makes a stack of alternating cards and then pulls off the top to show all four cards of one value in a row.'
+difficulty: easy
+effect: 'Cards are loaded with alternating sixes, then three are removed from the top of the deck and are all sixes, with the fourth following.'
+needs: ['A regular deck of cards']
+skills: ['Setup', 'Misdirection', 'Palming']
+excerpt: 'The magician builds a small stack of cards with alternating sixes, adds it to the deck, and then three sixes appear from the top.'
 ---
 
 **Effect:** The magician shuffles a normal deck of cards, he shows it to the audience, he starts at the bottom and finds the first three cards with the same number, lets say 6…

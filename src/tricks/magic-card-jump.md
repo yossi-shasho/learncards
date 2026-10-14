@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Magic Card Jump - Learncards'
-excerpt: 'The magician lets the spectator pick up a card. Then the deck is shuffled by the spectator. After that,'
+seoDescription: 'Magic Card Jump makes a chosen card leave the deck: the spectator''s card is shuffled in, then you produce it from your pocket instead.'
+difficulty: easy
+effect: 'A spectator''s chosen card is shuffled into the deck, and I claim it is reversed, but it is not; the card has jumped to my pocket.'
+needs: ['A regular deck of cards', 'A duplicate card', 'A pocket']
+skills: ['Force', 'Setup', 'Misdirection']
+excerpt: 'A spectator picks a card and shuffles it into the deck. You say it will be reversed, but when it is not, you pull the same card out of your pocket.'
 ---
 
 The magician lets the spectator pick up a card. Then the deck is shuffled by the spectator. After that, the magician says the card will be reversed in the deck and it is really not. The magician then pulls the card out of his pocket.

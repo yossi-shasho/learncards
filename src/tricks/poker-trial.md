@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Poker Trial - Learncards'
-excerpt: 'Effect: A person arrested for cheating while playing poker, bribes the court members (11 jurors and 1 judge) into'
+seoDescription: 'Poker Trial is a self-working card story: a cheat bribes a jury and judge into one poker hand, and every juror ends with three of a kind.'
+difficulty: intermediate
+effect: 'While telling a courtroom story, I deal a poker hand to a judge, jurors and a cheating player, and the jurors all get three of a kind while the player gets four.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Setup', 'Self-working', 'Patter']
+excerpt: 'A poker player bribes the court into one hand to win his freedom. Eleven jurors and the judge all get three of a kind, but the player gets four.'
 ---
 
 **Effect:** A person arrested for cheating while playing poker, bribes the court members (11 jurors and 1 judge) into playing one hand of Poker. If he wins he is a free man, but if he loses he must go to jail. All jurors and the judge end up with three of a kind. The Poker player gets four of a kind. The order of cards will vary (2,3,4,ace,8 etc.), but it will always work if done correctly.

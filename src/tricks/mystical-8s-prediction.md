@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Mystical 8s Prediction - Learncards'
-excerpt: 'Effect: Magician predicts the position of two 8s inside the deck, based on the top card on the pile….'
+seoDescription: 'Mystical 8s Prediction: predict where two 8s fall in a deck based on a spectator''s stop, using false shuffles and a hidden setup.'
+difficulty: intermediate
+effect: 'I predict the position of two 8s in the deck, and after the spectator stops me at a random point, the 8s appear exactly where I said.'
+needs: ['A regular deck of cards', 'The four 8s']
+skills: ['Setup', 'False shuffle', 'False cut', 'Math principle']
+excerpt: 'You place a prediction card aside and the spectator calls stop in a dealt deck. The two predicted 8s then appear exactly where you said they would.'
 ---
 
 **Effect:** Magician predicts the position of two 8s inside the deck, based on the top card on the pile.

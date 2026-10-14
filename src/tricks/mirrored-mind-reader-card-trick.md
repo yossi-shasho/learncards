@@ -11,8 +11,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The Mirrored Mind Reader – A Card Trick that Amazes - Learncards'
-seoDescription: 'Learn how to perform the “Mirrored Mind Reader,” an impressive and easy-to-learn card trick that will leave your audience amazed. This step-by-step tutorial teaches you how to read minds and reveal chosen cards using a simple yet powerful technique. Perfect for beginners and seasoned magicians alike!'
-excerpt: 'By Arik W. Introduction In this mind-blowing card trick, you will appear to read your spectator’s mind and reveal a'
+seoDescription: 'The Mirrored Mind Reader appears to read a spectator''s mind: you find a chosen card using a key card and some convincing misdirection.'
+difficulty: intermediate
+effect: 'A spectator''s card is lost in the deck, and I appear to read their mind and name the chosen card.'
+needs: ['A regular deck of cards', 'A willing spectator']
+skills: ['Key card', 'Misdirection', 'Mentalism']
+excerpt: 'A spectator places a card on the deck and cuts, losing it in the shuffle. You then appear to read their mind and reveal the card they chose.'
 ---
 
 By Arik W.

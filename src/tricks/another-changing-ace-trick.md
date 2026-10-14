@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Another Changing Ace Trick - Learncards'
-excerpt: 'Effect: The performer shows two red aces, and places them face down on the table. He/She then asks the'
+seoDescription: 'Another Changing Ace Trick: two red aces under a spectator''s hands turn black without being touched. A triple lift makes it work.'
+difficulty: expert
+effect: 'Two red aces are placed under a spectator''s hands, and when they turn the cards over, the aces have changed color to black.'
+needs: ['A regular deck of cards', 'Four aces']
+skills: ['Double lift', 'Setup', 'Misdirection', 'Patter']
+excerpt: 'Two red aces are covered by the spectator''s hands so no switch is possible. Yet when they flip them over, both aces have turned black.'
 ---
 
 **Effect:** The performer shows two red aces, and places them face down on the table. He/She then asks the spectator two place his/her hands on the cards so that they cannot be switched. The performer then waves his hands (as if that actually does anything), and tells the spectator to flip the two face down aces over. They have turned black.

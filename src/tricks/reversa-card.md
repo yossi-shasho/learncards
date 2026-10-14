@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Reversa-Card - Learncards'
-excerpt: 'You can use any pack for this trick. Ask a spectator to shuffle the pack and cut it into'
+seoDescription: 'Reversa Card is an easy self-working trick: a card reversed behind a spectator’s back lands right next to their chosen card.'
+difficulty: easy
+effect: 'A spectator selects a card, mixes the deck behind their back and reverses one card, which turns out to sit right beside their selection.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Key card', 'Self-working']
+excerpt: 'A spectator’s chosen card is lost in a deck that is mixed behind their back. Yet the one card they reverse ends up next to it when you spread the deck.'
 ---
 
 **You can use any pack for this trick.** Ask a spectator to shuffle the pack and cut it into 2 piles. Then let them select one of the piles and you take the other. Turn your back to the spectator and ask them to…

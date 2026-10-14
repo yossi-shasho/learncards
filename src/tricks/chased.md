@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Chased - Learncards'
-excerpt: 'Effect: To guess someone’s card by memorizing order of deck. Preperation Before the performance, set the cards in this'
+seoDescription: 'Chased: memorize the CHaSeD stack and one peek at the card above a spectator''s pick reveals exactly what they chose. A classic memory trick.'
+difficulty: easy
+effect: 'The magician peeks at the card above a spectator''s pick in a memorized stacked deck and names their card instantly.'
+needs: ['A regular deck of cards', 'A memorized stack']
+skills: ['Stack', 'Memory', 'Glimpse']
+excerpt: 'The deck is arranged in a memorized order. When a spectator picks a card, a quick glance at the neighbor is all it takes to name theirs.'
 ---
 
 **Effect:** To guess someone’s card by memorizing order of deck.

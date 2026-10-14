@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Telepathy - Learncards'
-excerpt: 'Effect: The Magician spreads the cards in his hands and asks a spectator to select a card. Spectator memorizes the card,'
+seoDescription: 'Telepathy is an easy mental card trick: a spectator’s card is slipped into the deck and found by counting from the bottom.'
+difficulty: easy
+effect: 'A spectator remembers a card and puts it back at random, then I count down to a single card that is the one they picked.'
+needs: ['A regular deck of cards']
+skills: ['Counting', 'Key card', 'Mentalism']
+excerpt: 'A spectator’s card is returned at random, and then you count off a few cards and reveal the one they were thinking of. It looks like true telepathy.'
 ---
 
 **Effect:** The Magician spreads the cards in his hands and asks a spectator to select a card. Spectator memorizes the card, and gives it back to Magician, who puts it in the deck at a random place. The Magician counts off cards from the bottom and then stops. Magician holds up a card: the spectator’s!

@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Think About It - Learncards'
-excerpt: 'Effect: After shuffling the deck of cards, the performer holds the deck in his left hand and asks a friend'
+seoDescription: 'Think About It is an intermediate mental card trick where a spectator thinks of a card and you read their mind to name it.'
+difficulty: intermediate
+effect: 'A spectator cuts the deck and looks at the top card of one half in secret, and I read their mind and name the card.'
+needs: ['A regular deck of cards']
+skills: ['Stack', 'Setup', 'Mentalism']
+excerpt: 'After the deck is cut, a spectator takes a card and looks at it without showing you. You use mind reading to name it. It needs a prearranged deck.'
 ---
 
 **Effect:** After shuffling the deck of cards, the performer holds the deck in his left hand and asks a friend to cut the deck and place the top portion of the cards in the performer’s right hand. The friend is then asked to take the top card from the portion in the performer’s left hand. The friend looks at the card without showing the performer. The performer uses his (or her) mind reading capabilities to tell what card has been chosen.

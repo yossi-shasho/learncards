@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Switcheroo - Learncards'
-excerpt: 'Setup: Before you start the card trick, find the two black 6’s and the two black 9’s. (The 6 of Spades,'
+seoDescription: 'Switcheroo is an easy card trick where two black cards named by the spectator swap places with two other cards in the deck.'
+difficulty: easy
+effect: 'The spectator names two cards and I put them in the middle of the deck, but when I look through the deck the cards have been switched.'
+needs: ['A regular deck of cards']
+skills: ['Setup', 'Misdirection', 'Patter']
+excerpt: 'Two named cards are lost in the middle of the deck, yet they show up at the top and bottom. A fun and simple trick that relies on a quick setup.'
 ---
 
 **Setup:** Before you start the card trick, find the two black 6’s and the two black 9’s. (The 6 of Spades, the 6 of Clubs, the 9 of Spades, and the 9 of Clubs.) Take the 6 of Spades and the 9 of Clubs, and place one of them on the top of the deck and the other on the bottom. Keep the 6 of clubs and the 9 of spades separate.

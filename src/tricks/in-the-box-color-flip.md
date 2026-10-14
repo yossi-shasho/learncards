@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'In The Box - Color Flip - Learncards'
-excerpt: 'Effect: Starting with a blue deck and a red deck, the chosen red card magically jumps to the blue'
+seoDescription: 'In the Box Color Flip sends a chosen red-backed card into a boxed blue-backed deck. A false cut and shuffle sets up a surprising color change finish.'
+difficulty: intermediate
+effect: 'A spectator''s chosen card vanishes from a red-backed deck and turns up inside the boxed blue-backed deck.'
+needs: ['A red-backed deck', 'A blue-backed deck', 'A duplicate red-backed card']
+skills: ['False shuffle', 'False cut', 'Setup', 'Misdirection']
+excerpt: 'A spectator picks a card from a red-backed deck, which seems to disappear when the cards are spread. It then appears inside the boxed blue-backed deck.'
 ---
 
 **Effect:** Starting with a blue deck and a red deck, the chosen red card magically jumps to the blue deck.

@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Only Time Will Tell - Learncards'
-excerpt: 'A spectator is asked to shuffle a pack of cards – their own if they wish it and whilst'
+seoDescription: 'Only Time Will Tell is a self-working card trick: a spectator thinks of a suit and a clock time, and the card they select matches both exactly.'
+difficulty: easy
+effect: 'A spectator privately thinks of a suit and a time on a clock of cards, and the card I pick from a random face-down deal matches both.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Self-working', 'Counting', 'Mentalism']
+excerpt: 'A spectator thinks of a suit and an hour on a clock of cards. After the deck is dealt at random, you move their hand over the cards and the chosen card matches.'
 ---
 
 A spectator is asked to shuffle a pack of cards – their own if they wish it and whilst doing so, to think of any one of the four suits. The performer, turning his back, instructs the spectator to remove from the pack all the cards of that chosen suit – except the King which stays where it is.

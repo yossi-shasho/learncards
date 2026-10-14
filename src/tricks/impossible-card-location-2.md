@@ -11,7 +11,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Impossible Card Location - Learncards'
-excerpt: 'Effect: Three spectators choose one card each and memorizes them. The performer deals groups of cards and the spectators put'
+seoDescription: 'Impossible Card Location lets three spectators lose their cards in dealt piles; then a face-up, face-down dealing routine finds all three cards. Self-working.'
+difficulty: easy
+effect: 'Three spectators memorize cards that I bury in piles; I deal the cards alternately into two piles, discard one, repeat, and the last three cards are theirs.'
+needs: ['A regular deck of cards', 'A table', 'Three spectators']
+skills: ['Self-working', 'Counting', 'Math principle']
+excerpt: 'Three people memorize cards that are buried in piles, then you deal alternately face up and down, discarding piles until only the three chosen cards remain.'
 ---
 
 **Effect:** Three spectators choose one card each and memorizes them. The performer deals groups of cards and the spectators put their cards in different piles each. The performer stacks the piles together and eliminates all other cards and the remainning three cards are those of the spectators.

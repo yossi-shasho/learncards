@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Predicta-pair - Learncards'
-excerpt: 'Pre-arrangement : Remove all tens and picture cards from the deck. The magician asks a spectator to shuffle the cards…'
+seoDescription: 'Predicta-Pair is a self-working math card trick: from a single total you name two chosen cards, with no peeking and no sleight of hand.'
+difficulty: easy
+effect: 'A spectator picks two cards, does a little arithmetic with their values, and announces one total, from which I name both cards.'
+needs: ['A regular deck of cards', 'A willing spectator']
+skills: ['Math principle', 'Self-working']
+excerpt: 'Two freely chosen cards are named from nothing but a single number the spectator calls out. It is a self-working trick that uses simple arithmetic.'
 ---
 
 **Pre-arrangement : Remove all tens and picture cards from the deck.  

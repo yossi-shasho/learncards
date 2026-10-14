@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Get Money - Learncards'
-excerpt: 'Effect: You’re in a room with a bunch of friends and a deck of cards. You allow a friend'
+seoDescription: 'Get Money is an impromptu card bet: a friend''s card is lost in the shuffle, yet you wager it will be the next one you flip. Learn the key card method.'
+difficulty: intermediate
+effect: 'A friend''s card is lost in a shuffled deck, yet I bet the room that the next card I turn over is theirs, and it is.'
+needs: ['A regular deck of cards']
+skills: ['Key card', 'Glimpse', 'Misdirection']
+excerpt: 'A spectator''s chosen card is returned and the deck is cut, yet you bet the next card flipped will be theirs. A key card does the work and wins you the bet.'
 ---
 
 **Effect:** You’re in a room with a bunch of friends and a deck of cards. You allow a friend to pick any card, then put it back in the deck. After shuffling the deck, you start turning over cards until you see your friend’s. You bet everybody in the room $1, $2, $5, or whatever, that the next card you turn over is theirs. Seeing that it’s already there, they greedily make the bet. You turn over the card lying on top of the face-up pile. Be sure to collect your cash.

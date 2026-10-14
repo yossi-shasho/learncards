@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The Levitating Card - Learncards'
-excerpt: 'Effect: Make the spectators card levitate out of the deck. Performance Ask the spectator to pick a card out of'
+seoDescription: 'The Levitating Card is an impromptu trick where a spectator’s card rises out of the deck with the help of static electricity.'
+difficulty: intermediate
+effect: 'A chosen card is returned to the deck, and then it levitates slowly up out of the deck as I wave my finger over it.'
+needs: ['A regular deck of cards']
+skills: ['Force', 'Misdirection', 'Patter']
+excerpt: 'A selected card is lost in the deck, and with a flick of your magic finger it rises out of the deck. A visual and fun trick for a small crowd.'
 ---
 
 **Effect:** Make the spectators card levitate out of the deck.

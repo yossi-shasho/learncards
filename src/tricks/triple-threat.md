@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Triple Threat - Learncards'
-excerpt: 'Ask a spectator to shuffle the cards. Take them back, saying you forgot to remove the joker, and remember the'
+seoDescription: 'Triple Threat is a memory-based card trick: you track the top cards of the deck and a spectator unknowingly finds them.'
+difficulty: intermediate
+effect: 'A spectator cuts the deck, moves cards around and deals out three cards, which are the three I remembered.'
+needs: ['A regular deck of cards', 'A willing spectator']
+skills: ['Memory', 'Force', 'Misdirection']
+excerpt: 'You remember three cards, and after a spectator cuts and moves some cards, the three cards you remembered turn out to be revealed.'
 ---
 
 Ask a spectator to shuffle the cards. Take them back, saying you forgot to remove the joker, and remember the location of the 3 cards UNDER the top card…

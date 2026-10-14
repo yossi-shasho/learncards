@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The Color Transfer - Learncards'
-excerpt: 'Effect: The Magician places a black joker on top of a red card. The Magician then reveals that the'
+seoDescription: 'The Color Transfer is an expert card trick where a red card gives its colour to a black joker, which turns red and the card black.'
+difficulty: expert
+effect: 'A black joker is placed on a red card, and the red card turns black while the joker takes on its colour.'
+needs: ['A regular deck of cards', 'Two jokers, one red and one black']
+skills: ['Double lift', 'Setup', 'Misdirection']
+excerpt: 'A black joker is placed on a red card, and their colours swap places as if the red card gave its colour to the joker. It needs a prepared deck.'
 ---
 
 **Effect:** The Magician places a black joker on top of a red card. The Magician then reveals that the red card has turned black and has given its red to the joker above it!

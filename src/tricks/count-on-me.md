@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Count On Me - Learncards'
-excerpt: 'Effect: The magician can reveal a chosen card even when it is selected with his back turned. Method Ask'
+seoDescription: 'Count On Me: reveal a card your spectator chose, even with your back turned, using a simple count of fifteen cards behind your back.'
+difficulty: intermediate
+effect: 'With his back turned, the magician names the card a spectator chose by counting down in their own shuffled deck.'
+needs: ['A regular deck of cards']
+skills: ['Math principle', 'Counting', 'Misdirection']
+excerpt: 'A spectator picks a card at any number up to fifteen in their own deck. Later, behind his back, the magician finds exactly what they chose.'
 ---
 
 **Effect:** The magician can reveal a chosen card even when it is selected with his back turned.

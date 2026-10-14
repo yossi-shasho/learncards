@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Card Appearance - Learncards'
-excerpt: 'Effect: The Magician has a spectator choose a card, then tells him/her to place the 4th card from the'
+seoDescription: 'Card Appearance: a spectator''s card is hidden four from the bottom and goes missing, then appears in their own fist when slapped. Fun and visual.'
+difficulty: expert
+effect: 'A chosen card is lost among four cards on the bottom of the deck, and after showing the four cards without it, it appears in the spectator''s fist.'
+needs: ['A regular deck of cards']
+skills: ['Key card', 'Palming', 'Misdirection']
+excerpt: 'A chosen card is placed as the fourth card from the bottom. The cards are shown and none are the spectator''s, until it appears in their fist.'
 ---
 
 **Effect:** The Magician has a spectator choose a card, then tells him/her to place the 4th card from the bottom. The magician then call’s attention to each card from the bottom 1-4 and the spectator will say that’s not his/her card. Then he uses the 4 cards left over and goes through them asking if any of those cards are his/hers. Then the spectator makes a fist the the magician put the 4 card’s in it and hits the cards then the card is in the spectators hand.

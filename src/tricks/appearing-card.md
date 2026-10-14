@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Appearing Card - Learncards'
-excerpt: 'Effect: A spectator picks a card out of a shuffled deck. You put it with three random cards, place the'
+seoDescription: 'Appearing Card: a chosen card is lost on the bottom of the deck, yet it turns up face up on the table after you deal three others. Simple and sneaky.'
+difficulty: easy
+effect: 'A selected card is placed with three others on the bottom of the deck and shuffled, yet it appears on the table when one of the dealt cards is flipped.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Key card', 'False shuffle', 'Misdirection']
+excerpt: 'A spectator''s card is mixed into the deck and the magician deals three cards that are not theirs. The fourth one flips over to reveal it.'
 ---
 
 **Effect:** A spectator picks a card out of a shuffled deck. You put it with three random cards, place the cards at the bottom of the deck, and shuffle. You take three cards from the bottom of the deck and ask the spectator if any of those are his. None are. These are laid on the table, one of the cards is flipped over, and the selection appears on the table.

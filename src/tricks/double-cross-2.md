@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Double Cross - Learncards'
-excerpt: 'Effect: The perfomer asks a spectator to tell him to mix up some cards, following the performer’s instructions to'
+seoDescription: 'Double Cross: a spectator mixes thirteen cards with your dealing instructions, but they end up back in numerical order. Self-working.'
+difficulty: easy
+effect: 'A spectator dictates how to deal and mix a suit of thirteen cards, yet after the mixing they end up in exactly the order they started.'
+needs: ['A full suit of 13 cards']
+skills: ['Self-working', 'Math principle', 'Counting']
+excerpt: 'A spectator directs how a suit of thirteen cards is dealt and mixed. No matter how much they mix, the cards return to the original order.'
 ---
 
 **Effect:** The perfomer asks a spectator to tell him to mix up some cards, following the performer’s instructions to the letter. No matter how much they’re mixed up, they end up in the same order as at the beginning of the trick.

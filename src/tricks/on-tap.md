@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'On Tap - Learncards'
-excerpt: 'Effect: You lay nine cards onto the table, in a three by three pattern. You ask an accomplice to leave the'
+seoDescription: 'On Tap is a secret-assistant card trick: your partner returns to the room and identifies the exact card chosen from nine, based on your tapping.'
+difficulty: easy
+effect: 'A spectator selects one of nine cards laid out on the table, and my assistant, called back, picks that exact card.'
+needs: ['Nine cards', 'A table', 'A secret assistant']
+skills: ['Setup', 'Mentalism', 'Misdirection']
+excerpt: 'Nine cards are laid in a three-by-three grid and a spectator chooses one. Your assistant returns to the room and picks out the chosen card.'
 ---
 
 **Effect:** You lay nine cards onto the table, in a three by three pattern. You ask an accomplice to leave the room, then have a spectator choose one of the cards. When your accomplice returns you will have him identify the exact card chosen by the spectators!

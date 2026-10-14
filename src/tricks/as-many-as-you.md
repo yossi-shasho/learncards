@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'As Many As You - Learncards'
-excerpt: 'Effect: The magician can reveal the exact number of cards taken by a spectator. Method The magician asks a'
+seoDescription: 'As Many As You: you reveal exactly how many cards a spectator took in secret, using only your own count and some simple math.'
+difficulty: intermediate
+effect: 'The magician reveals the exact number of cards a spectator secretly took from the top of the deck, without ever seeing the number.'
+needs: ['A regular deck of cards']
+skills: ['Math principle', 'Counting', 'Self-working']
+excerpt: 'A spectator takes a handful of cards in secret and the magician takes more. After both count in silence, the magician names their exact number.'
 ---
 
 **Effect:** The magician can reveal the exact number of cards taken by a spectator.

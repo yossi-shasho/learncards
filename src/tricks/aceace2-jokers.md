@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Ace+Ace=2 Jokers - Learncards'
-excerpt: 'Effect: Put down two aces and switch them really fast so no one sees. You flip the cards back'
+seoDescription: 'Ace+Ace=2 Jokers: two aces are switched so fast no one sees it, and when the cards are turned back over, they have become jokers.'
+difficulty: expert
+effect: 'Two aces are placed on the table and switched at lightning speed, but when they are turned back over, they have turned into two jokers.'
+needs: ['A regular deck of cards', 'Two jokers', 'Two aces']
+skills: ['Double lift', 'Setup', 'Misdirection']
+excerpt: 'Two aces are put down and quickly switched, apparently without anyone seeing. When the cards are flipped over, the aces have become jokers.'
 ---
 
 **Effect:** Put down two aces and switch them really fast so no one sees. You flip the cards back over and the aces turn into jokers.

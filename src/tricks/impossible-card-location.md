@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Impossible Card Location - Learncards'
-excerpt: 'Using a 52-card deck, have three people each select a card without showing it to you. Tell them to'
+seoDescription: 'Impossible Card Location: three spectators each pick a card, the cards are lost in the deck, and an elimination deal brings all three to the table.'
+difficulty: intermediate
+effect: 'Three people each memorize a card and lose it in the deck, and I eliminate cards until the last three face-down cards are exactly the ones they chose.'
+needs: ['A regular deck of cards', 'A table', 'Three spectators']
+skills: ['Math principle', 'Counting', 'Setup']
+excerpt: 'Three spectators memorize cards that you bury in piles, then you deal alternately and eliminate cards until three remain, which turn out to be their selections.'
 ---
 
 Using a 52-card deck, have three people each select a card without showing it to you. Tell them to memorize their card.

@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Back Flip - Learncards'
-excerpt: 'Effect: Audience member picks a card, which the magician does not see. The audience member inserts the card back into'
+seoDescription: 'Back Flip: a spectator chooses a card, loses it in the deck, and when you drop the deck onto the table, their card jumps out face up.'
+difficulty: easy
+effect: 'A spectator picks a card and puts it back in the deck, and when the magician drops the deck on the table, the card jumps out of the deck face up.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Setup', 'Misdirection', 'Patter']
+excerpt: 'A spectator''s card is put back into the deck. The magician drops the deck on the table and their chosen card pops out face up.'
 ---
 
 **Effect:** Audience member picks a card, which the magician does not see. The audience member inserts the card back into the deck. Next the magician drops the card onto a table top, and the card jumps out of the deck, face up!

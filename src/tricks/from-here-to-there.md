@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'From Here to There - Learncards'
-excerpt: 'Effect: The magician shuffles an ordinary deck of cards. He then fans the cards and asks a spectator to'
+seoDescription: 'From Here to There: a spectator''s card keeps showing up on the bottom of the deck, then vanishes and returns again. Intermediate impromptu trick.'
+difficulty: intermediate
+effect: 'A spectator''s card is lost in the deck, then appears on the bottom of the pack again and again even as cards are moved over it.'
+needs: ['A regular deck of cards']
+skills: ['Key card', 'Misdirection', 'Patter']
+excerpt: 'A card is chosen and lost in the deck. The magician repeatedly shows the bottom card and each time it keeps changing in surprising ways.'
 ---
 
 **Effect:** The magician shuffles an ordinary deck of cards. He then fans the cards and asks a spectator to select a card show and memorize it. The magician then fans the cards again and tells the spectator to to place his card any where in the deck he wishes. The magician then places his card on the bottom of the pack and he then squares up the pack and holds the deck up so the spectator can see the bottom card. The magician asks if this card is his. The spectator will answer yes. The magician then places two cards from the top of the deck on to the bottom thus covering the spectators card. He then holds the pack up as before and asks is this your card. This time the spectator answers no. This then repeats itself again. the magician then takes the spectators card and places it on top of the deck. and repeats the procedure as before. Now with the three cards in the spectators hand the magician asks him if the bottom card is his and he. answers no. The magician then places the bottom card into his hand and shows that the other two cards are not the spectator’s. But when the spectator looks at the card in his hand to his surprise its his card!

@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'WOW 3x - Learncards'
-excerpt: 'Effect: Spectator chooses a card at random, then remembers it and puts it back. Then the pack is given some'
+seoDescription: 'Wow 3x is an easy card trick using a Svengali deck, in which a chosen card appears three times, ending with the whole deck.'
+difficulty: easy
+effect: 'A spectator’s card is matched by another spectator’s card, then found in my pocket, and finally the entire deck is shown to be that card.'
+needs: ['A Svengali deck', 'A normal deck', 'A card box']
+skills: ['Force', 'Setup', 'Misdirection']
+excerpt: 'A chosen card is matched, found in a jacket pocket, and finally the entire deck is shown to be that card. Three surprises in one trick.'
 ---
 
 **Effect:** Spectator chooses a card at random, then remembers it and puts it back. Then the pack is given some cuts. Second spectator then picks a card using their first name, and lays it face down on the table. It is turned face up and it turns out to be the same card as the first spectator (WOW 1). The card is then replaced and the deck is cut, then replaced in it’s box. The spectators both blow on the box, and then the magician reaches into their jacket pocket, and removes their card (WOW 2). The magician then removes the deck from the box and shows the cards to be ALL the spectator’s chosen card. (WOW 3)

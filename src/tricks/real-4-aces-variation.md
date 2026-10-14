@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Real 4 Aces Variation - Learncards'
-excerpt: 'Effect: Set up the cards as in the original trick except that you have from the top of the'
+seoDescription: 'The Real 4 Aces Variation reworks a number-based ace trick so that four aces appear instead of three, after a spectator picks a number.'
+difficulty: intermediate
+effect: 'A spectator picks a number, and by dealing and counting it out I turn up all four aces one after another.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Stack', 'Setup', 'Counting']
+excerpt: 'This variation of the Real 4 Aces trick uses a different stack so that all four aces appear. Patter helps steer the spectator to a workable number.'
 ---
 
 **Effect:** Set up the cards as in the original trick except that you have from the top of the deck the values 10 through 2 and then the Aces. (Note that the order is reversed from the original.)

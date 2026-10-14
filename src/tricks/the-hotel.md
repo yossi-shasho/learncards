@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The Hotel - Learncards'
-excerpt: 'Description: A story is acted out with the cards. 1. You must have the four Queens on the top of the'
+seoDescription: 'The Hotel is a self-working story trick where four girls, bellboys, clerks and police all check in and the aces end up together.'
+difficulty: easy
+effect: 'I act out a story of a hotel with four girls, bellboys, clerks and police, and the cards end up in an unexpected order.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Setup', 'Self-working', 'Patter']
+excerpt: 'A story about four girls at a hotel is acted out with the cards. A simple self-working trick with a funny ending that is great for beginners.'
 ---
 
 **Description:** A story is acted out with the cards.

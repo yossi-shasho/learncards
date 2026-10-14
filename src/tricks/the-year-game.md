@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The Year Game - Learncards'
-excerpt: 'Before you begin, place one of the jokers on the bottom of the deck. Now tell the spectator to take'
+seoDescription: 'The Year Game is a math card trick where counting the weeks, months and days of the calendar brings a spectator’s card to the surface.'
+difficulty: intermediate
+effect: 'I deal cards while a spectator answers questions about weeks in a year, months in a year and days in a week, and their chosen card turns up at the end.'
+needs: ['A regular deck of cards', 'A joker']
+skills: ['Key card', 'Counting', 'Patter']
+excerpt: 'You ask about weeks, months and days in a year and a week, dealing cards for each answer. After the count, the spectator’s chosen card is revealed.'
 ---
 
 Before you begin, place one of the jokers on the bottom of the deck. Now tell the spectator to take a card. Have her place it on top of the deck and cut the cards. You can have her cut a lot of times. Then say you have to have the joker on the bottom. Look for the joker. When you find it, the card after it is the spectator’s card. Cut the deck so that her card is on top of the deck, and the joker is on the bottom.

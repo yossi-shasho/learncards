@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The Ace Switch Up - Learncards'
-excerpt: 'Effect: The magician shows three aces to the victim, and they aces are either red black red or black'
+seoDescription: 'The Ace Switch-Up is an expert card trick where the colour pattern of three aces secretly switches as they hit the table.'
+difficulty: expert
+effect: 'I show three aces in an alternating colour pattern, put them face down on the table, and the colour pattern has switched when they are turned over.'
+needs: ['A deck of cards', 'Four aces']
+skills: ['Misdirection', 'Palming']
+excerpt: 'Three aces shown in a red-black-red or black-red-black pattern change their colour order on the table. It takes a smooth, subtle sleight to hide the switch.'
 ---
 
 **Effect:** The magician shows three aces to the victim, and they aces are either red black red or black red black. when the magician puts the three aces down, the color combination will switch.

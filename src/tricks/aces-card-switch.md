@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Aces Card Switch - Learncards'
-excerpt: 'Effect: The two black aces that the spectator was holding magically turn red! This trick also has a video'
+seoDescription: 'Aces Card Switch: a spectator holds two black aces that suddenly turn red. A triple lift and a quick switch make this an impressive trick.'
+difficulty: intermediate
+effect: 'The two black aces a spectator is holding magically change into red aces right in their hand.'
+needs: ['A regular deck of cards', 'Four aces']
+skills: ['Double lift', 'Setup', 'Misdirection']
+excerpt: 'A spectator is handed two black aces to hold. After a quick bit of magic, they look again and the aces have changed to red.'
 ---
 
 **Effect:** The two black aces that the spectator was holding magically turn red! **This trick also has a video tutorial**

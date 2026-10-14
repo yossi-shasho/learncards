@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Flip Flop Cards - Learncards'
-excerpt: 'Effect: In this effect one half of the pack is placed face to face with the other half, yet,'
+seoDescription: 'Flip Flop Cards: half the deck is placed face to face with the other half, yet on command every card turns the same way. A classic revolution trick.'
+difficulty: easy
+effect: 'One half of the deck is put face to face with the other half, and at a command all of the cards flip so that they face the same way.'
+needs: ['A regular deck of cards']
+skills: ['Setup', 'Misdirection', 'Patter']
+excerpt: 'The deck is split and one half is placed face to face with the other. At the command of the magician, the cards all turn to face the same way.'
 ---
 
 **Effect:** In this effect one half of the pack is placed face to face with the other half, yet, on the work of command, the cards right themselves so that all of them face the same way.

@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: '10 Cards - Learncards'
-excerpt: 'First Step: Ask the spectator to pick a secret number from 1 to 10, without telling you what it'
+seoDescription: '10 Cards: a spectator secretly picks a number from 1 to 10, glimpses one of ten cards, and the magician finds it by a baffling deal. Learn it here.'
+difficulty: easy
+effect: 'A spectator remembers the card at a secret number among ten cards shown, and after a short deal their card is the last one left in their hand.'
+needs: ['A deck of cards (21 cards used)']
+skills: ['Counting', 'Math principle']
+excerpt: 'A spectator memorizes a card at a secret position among ten shown. A short count and an alternating deal leave their card in their own hands.'
 ---
 
 **First Step:** Ask the spectator to pick a secret number from 1 to 10, without telling you what it is. Tell him that you are about to show him 10 cards, and he must memorize the card which is at the number that he had chosen. In other words, if he picked the number 4 then he should memorize the 4th card that you show him.

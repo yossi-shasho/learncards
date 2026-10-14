@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Easy Card Find - Learncards'
-excerpt: 'Effect: You fan out a deck of cards (face down), and ask the spectator to pick any card. They take'
+seoDescription: 'Easy Card Find: find a spectator''s card with the deck behind your back, using one simple secret flip. A beginner trick for any occasion.'
+difficulty: easy
+effect: 'A spectator memorizes a card, and with the deck behind his back, the magician names it a moment later without having seen it.'
+needs: ['A regular deck of cards']
+skills: ['Glimpse', 'Misdirection']
+excerpt: 'A spectator picks and memorizes a card. The magician goes behind his back with the deck, and moments later says what their card is.'
 ---
 
 **Effect:** You fan out a deck of cards (face down), and ask the spectator to pick any card. They take the card out of the deck and memorize it. You put the deck behind your back, and in no time, you know their card.

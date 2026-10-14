@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The Absent Card - Learncards'
-excerpt: 'Effect: A card dissappears from the deck, only to reappear at the precise moment a spectator says to stop'
+seoDescription: 'The Absent Card is an expert card trick where a chosen card vanishes from the deck and reappears when the spectator calls stop.'
+difficulty: expert
+effect: 'A chosen card vanishes from the deck, and then it reappears at the exact moment the spectator tells me to stop dealing.'
+needs: ['A regular deck of cards', 'A willing spectator']
+skills: ['Force', 'Misdirection', 'Patter']
+excerpt: 'A selected card seems to disappear from the deck, then turns up at the precise moment a spectator says stop. It takes smooth handling to pull off.'
 ---
 
 **Effect:** A card dissappears from the deck, only to reappear at the precise moment a spectator says to stop dealing.

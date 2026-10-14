@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Rising Card - Learncards'
-excerpt: '1. Deal out five piles with five cards in each pile. 2. Tell the spectator to pick a pile. Pick'
+seoDescription: 'Rising Card is a math-based card trick that finds a chosen card from a layout of five piles, then makes it rise out of the packet.'
+difficulty: intermediate
+effect: 'A spectator’s remembered card is found among five piles and then rises up out of a staggered stack of cards.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Math principle', 'Counting']
+excerpt: 'A spectator’s remembered card is located in a layout of five piles. It then lifts itself out of a stack of cards for a magical finish.'
 ---
 
 **1.** Deal out five piles with five cards in each pile.

@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'casino - Learncards'
-excerpt: 'Effect: The magician takes a fresh deck of cards out of the box and shuffles them to demonstrate that'
+seoDescription: 'Casino: shuffle a fresh deck thirteen times, deal it into piles and watch every pile contain all four cards of one value. A self-working classic.'
+difficulty: easy
+effect: 'A shuffled deck is dealt into thirteen piles, and each pile turns out to contain four cards of the same value.'
+needs: ['A new deck in order, with jokers removed']
+skills: ['Self-working', 'False shuffle', 'Counting', 'Setup']
+excerpt: 'A magician shuffles a fresh deck and deals it into thirteen piles. When the piles are turned over, each has four cards of the same number.'
 ---
 
 **Effect:** The magician takes a fresh deck of cards out of the box and shuffles them to demonstrate that they are in no particular order. He deals the cards into a bunch of piles, until the deck is cleared. There are 13 piles, and when he is done each of them contains all four cards of each suit!

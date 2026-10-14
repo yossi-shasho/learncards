@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Pair ''em Up - Learncards'
-excerpt: 'Effect: By picking 2 cards from the deck, you will be able to match both of them up with'
+seoDescription: 'Pair ’Em Up card trick: two cards picked from the deck pair up with their opposite cards when fanned out. Easy impromptu magic.'
+difficulty: intermediate
+effect: 'Two cards are picked from the deck, and when the deck is fanned out each one ends up beside its matching opposite card.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Glimpse', 'Misdirection']
+excerpt: 'Two cards picked from the deck end up sitting next to their matching opposite cards. It is an impromptu trick that needs nothing but a deck.'
 ---
 
 **Effect:** By picking 2 cards from the deck, you will be able to match both of them up with its opposite card.

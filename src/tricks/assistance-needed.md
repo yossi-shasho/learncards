@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Assistance Needed - Learncards'
-excerpt: 'Effect: You lay out a bunch of cards on the table and have a member of your audience pick'
+seoDescription: 'Assistance Needed: your assistant leaves the room and returns to identify the card an audience member picked, just from your pointing.'
+difficulty: intermediate
+effect: 'An assistant leaves the room while a spectator chooses a card, then returns and correctly names the card chosen from a layout of ten.'
+needs: ['Ten cards', 'A secret assistant']
+skills: ['Mentalism', 'Setup', 'Patter']
+excerpt: 'An assistant leaves while an audience member points to one of ten cards. Back in the room, the assistant names it correctly as you point to cards.'
 ---
 
 **Effect:** You lay out a bunch of cards on the table and have a member of your audience pick one. Your assistant goes out of the room while this is done. The assistant is called back in and knows the person’s card! This is repeated.

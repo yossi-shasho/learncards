@@ -1,41 +1,117 @@
 {%- set pageTitle = seoTitle or ((title + " - " + site.name) if title else site.name) -%}
-{%- set pageDesc = seoDescription or excerpt or description or site.description -%}
+{%- set pageDesc = (seoDescription or description or excerpt or site.description) | striptags | trim -%}
+{%- set pageUrl = site.url + page.url -%}
+{%- set isTrick = (ogType == "article") -%}
+{#- Breadcrumb trail: Home › <Category> › <Title> on tricks; Home › <Title> elsewhere (not on the homepage). -#}
+{%- set crumbs = [] -%}
+{%- if isTrick -%}
+  {%- set trickCats = categories | strs -%}
+  {%- set firstCat = taxonomy.categories | bySlug(trickCats[0]) if trickCats.length else null -%}
+  {%- if firstCat -%}
+    {%- set crumbs = [{ name: "Home", url: "/" }, { name: firstCat.name, url: "/category/" + firstCat.slug + "/" }, { name: title, url: page.url }] -%}
+  {%- else -%}
+    {%- set crumbs = [{ name: "Home", url: "/" }, { name: title, url: page.url }] -%}
+  {%- endif -%}
+{%- elif page.url != "/" and title -%}
+  {%- set crumbs = [{ name: "Home", url: "/" }, { name: (heading or title), url: page.url }] -%}
+{%- endif -%}
 <!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ pageTitle }}</title>
-<meta name="description" content="{{ pageDesc | striptags | trim }}">
-<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+<meta name="description" content="{{ pageDesc }}">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<meta name="keywords" content="{{ site.keywords }}">
+<meta name="author" content="{{ site.author }}">
+<meta name="generator" content="Notepad.exe (and Eleventy)">
+<link rel="canonical" href="{{ pageUrl }}">
 <meta property="og:locale" content="en_US">
-<meta property="og:type" content="{{ ogType or 'website' }}">
+<meta property="og:type" content="{{ 'article' if isTrick else 'website' }}">
 <meta property="og:title" content="{{ pageTitle }}">
-<meta property="og:description" content="{{ pageDesc | striptags | trim }}">
-<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:description" content="{{ pageDesc }}">
+<meta property="og:url" content="{{ pageUrl }}">
 <meta property="og:site_name" content="{{ site.name }}">
 <meta property="og:image" content="{{ site.ogImage }}">
+{%- if isTrick %}
+<meta property="article:published_time" content="{{ date | isoDate }}">
+<meta property="article:modified_time" content="{{ (modified or date) | isoDate }}">
+{%- endif %}
 <link rel="alternate" type="application/rss+xml" title="{{ site.name }} &raquo; Feed" href="/feed/">
 <link rel="stylesheet" href="/css/style.css">
-{% block head %}{% endblock %}
+{#- Structured data: one @graph per page. -#}
+{%- set org = { "@type": "Organization", "@id": site.url + "/#organization", "name": site.name, "url": site.url + "/", "logo": { "@type": "ImageObject", "url": site.ogImage } } -%}
+{%- set webSite = { "@type": "WebSite", "@id": site.url + "/#website", "name": site.name, "url": site.url + "/", "description": site.description, "inLanguage": "en", "publisher": { "@id": site.url + "/#organization" } } -%}
+{%- set crumbLd = (crumbs | breadcrumbLd(site.url)) if crumbs.length else null -%}
+{%- if isTrick -%}
+  {%- set au = taxonomy.authors | bySlug(author) -%}
+  {%- set keywords = [] -%}
+  {%- for s in (skills or []) %}{% set keywords = (keywords.push(s), keywords) %}{% endfor -%}
+  {%- for c in trickCats %}{% set rec = taxonomy.categories | bySlug(c) %}{% set keywords = (keywords.push(rec.name if rec else c), keywords) %}{% endfor -%}
+  {%- set mainNode = {
+    "@type": "Article",
+    "@id": pageUrl + "#article",
+    "headline": title,
+    "datePublished": date | isoDate,
+    "dateModified": (modified or date) | isoDate,
+    "author": { "@type": "Person", "name": (au.name if au else author), "url": site.url + "/author/" + author + "/" },
+    "description": pageDesc,
+    "mainEntityOfPage": pageUrl,
+    "image": site.ogImage,
+    "articleSection": firstCat.name if firstCat else undefined,
+    "keywords": (keywords | join(", ")) if keywords.length else undefined,
+    "isPartOf": { "@id": site.url + "/#website" },
+    "breadcrumb": { "@id": crumbLd["@id"] } if crumbLd else undefined,
+    "publisher": org
+  } -%}
+  {%- set graph = [mainNode, crumbLd] -%}
+{%- elif listField -%}
+  {%- set mainNode = { "@type": "CollectionPage", "@id": pageUrl, "url": pageUrl, "name": pageTitle, "description": pageDesc, "isPartOf": { "@id": site.url + "/#website" }, "breadcrumb": { "@id": crumbLd["@id"] } if crumbLd else undefined } -%}
+  {%- set graph = [mainNode, crumbLd, webSite, org] -%}
+{%- elif page.url == "/" -%}
+  {%- set graph = [webSite, org] -%}
+{%- else -%}
+  {%- set mainNode = { "@type": "WebPage", "@id": pageUrl, "url": pageUrl, "name": pageTitle, "description": pageDesc, "isPartOf": { "@id": site.url + "/#website" }, "breadcrumb": { "@id": crumbLd["@id"] } if crumbLd else undefined } -%}
+  {%- set graph = [mainNode, crumbLd] -%}
+{%- endif %}
+<script type="application/ld+json">
+{{ graph | jsonLd | safe }}
+</script>
 </head>
 <body>
 <div class="wrap">
 <header class="site-header">
   <a href="/" class="logo"><img src="{{ site.logo }}" alt="{{ site.name }}" width="246" height="72"></a>
   <nav class="cats" aria-label="Categories">
-    {%- for n in site.nav %}{% if not loop.first %} <span aria-hidden="true">|</span> {% endif %}<a href="/category/{{ n.slug }}/">{{ n.label }}</a>{% endfor -%}
+    {%- for n in site.nav %}{% if not loop.first %} <span aria-hidden="true">|</span> {% endif %}<a href="/category/{{ n.slug }}/">{{ n.label }}</a>{% endfor %} <span aria-hidden="true">|</span> <a href="/glossary/">Glossary</a>
   </nav>
 </header>
+<marquee class="marquee" behavior="scroll" direction="left" scrollamount="4">&#9733; Welcome to {{ site.name }}.net &#9733; {{ collections.tricks.length }} card tricks explained step by step &#9733; Updated regularly &#9733; Bookmark this page (Ctrl+D)! &#9733; No ads, no cookies, no JavaScript &#9733;</marquee>
 <hr>
+{%- if crumbs.length %}
+<nav class="breadcrumb" aria-label="Breadcrumb">
+  {%- for c in crumbs %}{% if not loop.first %} <span aria-hidden="true">&rsaquo;</span> {% endif %}{% if loop.last %}<span aria-current="page">{{ c.name }}</span>{% else %}<a href="{{ c.url }}">{{ c.name }}</a>{% endif %}{% endfor %}
+</nav>
+{%- endif %}
 <main>
 {{ content | safe }}
 </main>
 <hr>
+<div class="construction"><span>&#128679; UNDER CONSTRUCTION &#128679; &mdash; Last updated: {{ "now" | ymd }}</span></div>
 <footer class="site-footer">
-  <p>Copyright &copy; {{ "now" | ymd | truncate(4, true, "") }} {{ site.name }}
-  &middot; <a href="/feed/">RSS</a> &middot; Est. 2019</p>
+  <p><a href="/about/">About</a> &middot; <a href="/glossary/">Glossary</a> &middot; <a href="/feed/">RSS</a>
+  {%- if site.guestbookEmail %} &middot; <a href="mailto:{{ site.guestbookEmail }}?subject=Learncards%20guestbook">Sign my guestbook</a>{% endif %}</p>
+  <p>Copyright &copy; {{ "now" | ymd | truncate(4, true, "") }} {{ site.author }} / {{ site.name }} &middot; Est. {{ site.founded }}</p>
   <p>Best viewed at 800&times;600 in any browser &middot; You are visitor <span class="counter">00{{ collections.tricks.length }}</span></p>
+  <p class="badges">
+    <span class="badge b-netscape">Netscape<br>NOW! 3.0</span>
+    <span class="badge b-res">Best viewed<br>800&times;600</span>
+    <span class="badge b-notepad">Made with<br>Notepad</span>
+    <span class="badge b-y2k">Y2K<br>Compliant</span>
+    <span class="badge b-html">Valid<br>HTML 3.2</span>
+    <span class="badge b-11ty">Powered by<br>Eleventy</span>
+  </p>
 </footer>
 </div>
 </body>

@@ -9,7 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Sitting on the Card - Learncards'
-excerpt: 'Effect: The magician displays a normal deck and asks a spectator to replace the card on top. The magician'
+seoDescription: 'Sitting on the Card is an impromptu table trick where a spectator’s card travels from the table to under their own seat.'
+difficulty: intermediate
+effect: 'A spectator’s card is dealt onto the table under their hand, then magically travels to the pile that the spectator is sitting on.'
+needs: ['A regular deck of cards', 'A table and chair']
+skills: ['Misdirection', 'Setup']
+excerpt: 'A spectator’s chosen card jumps from the table to the cards under their seat. It is a great impromptu trick for restaurants and meal times.'
 ---
 
 **Effect:** The magician displays a normal deck and asks a spectator to replace the card on top. The magician then asks the spectator to stand up. The spectator does so and the magician deals the spectator’s card, along with several others, on to the table. He asks the spectator to put his hand on that pile, to prevent the card from being tampered with. The magician then deals several other cards onto the spectator’s seat. The spectator sits on those cards. THe magician reveals that the spectator’s card has moved, magically, from the table, to under the spectator. Note: this trick is best when the magician is performing in a restaurant or other meal time.

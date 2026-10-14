@@ -9,8 +9,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'The Mathematical Shuffle – A Self-Working Card Trick with a Math Twist - Learncards'
-seoDescription: 'Learn the Mathematical Shuffle, a self-working card trick that uses simple math principles to reveal a spectator’s chosen card. This easy-to-learn trick requires no sleight of hand and will impress any audience with its mathematical elegance!'
-excerpt: 'Introduction: The Mathematical Shuffle is an elegant card trick that falls under both the Self-Working Tricks and Math Tricks categories….'
+seoDescription: 'The Mathematical Shuffle is a self-working card trick in which counting in threes after a shuffle reveals the spectator''s chosen card.'
+difficulty: easy
+effect: 'A spectator''s chosen card is shuffled into the deck, then I count by threes and the next card turned over is their card.'
+needs: ['A regular deck of cards']
+skills: ['Self-working', 'Math principle', 'Counting']
+excerpt: 'A spectator picks a card that is shuffled back into a mixed deck. You count down in multiples of three and the next card revealed is the chosen one.'
 ---
 
 I**ntroduction:**

@@ -10,7 +10,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Magicians Apprentice - Learncards'
-excerpt: 'Effect: This is a very simple trick I dreamt up for amusing kids who want to learn magic. This is'
+seoDescription: 'The Magician''s Apprentice teaches kids a find-your-card trick with an imaginary deck, so you never touch the real cards. Easy and theatrical.'
+difficulty: easy
+effect: 'A child copies my moves on a real deck while I use an imaginary one, and their audience member''s card is found without my touching the deck.'
+needs: ['A regular deck of cards', 'A table', 'Two children']
+skills: ['Self-working', 'Patter', 'Misdirection']
+excerpt: 'A young apprentice mimics your moves with the real deck while you use an imaginary one, and a spectator''s card is found without you touching the cards.'
 ---
 
 **Effect:** This is a very simple trick I dreamt up for amusing kids who want to learn magic. This is a “find your card” trick with a twist, from start to finish, you never touch the deck. It’s actually one of the oldest and easiest card tricks, with a bit of theater to disguise what’s really going on.

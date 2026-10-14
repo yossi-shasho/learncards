@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Hands off the Pack! - Learncards'
-excerpt: 'This is a trick which can be performed without ever handling or even seeing the cards. Ask your friend'
+seoDescription: 'Hands Off the Pack! lets you name a spectator''s card without touching or seeing the deck. A simple counting method that works with a borrowed deck.'
+difficulty: easy
+effect: 'With my back turned, a spectator shuffles, buries a card and calls out cards one by one, and I name the card they chose without ever touching the deck.'
+needs: ['A regular deck of cards', 'A willing spectator']
+skills: ['Self-working', 'Counting', 'Patter']
+excerpt: 'The spectator buries their chosen spot card by moving cards from bottom to top, then names cards as they deal. You name their card without handling the deck.'
 ---
 
 **This is a trick which can be performed without ever handling or even seeing the cards.** Ask your friend to shuffle a pack of cards and then select any spot card. ie. not a picture card. Turn your back so that you can’t see what he is doing then ask him to place…

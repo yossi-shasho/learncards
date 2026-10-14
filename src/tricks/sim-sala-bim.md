@@ -8,7 +8,12 @@ categories:
 tags: []
 author: 'learncards'
 seoTitle: 'Sim Sala Bim - Learncards'
-excerpt: 'Deal out three piles of seven cards each. (Deal them just like dealing hands for a card game.) Have the'
+seoDescription: 'Sim Sala Bim is an easy 21-card trick: after three deals, spelling out the magic words lands exactly on the spectator’s card.'
+difficulty: easy
+effect: 'A spectator thinks of a card among three piles of seven, and after a few deals and spelling out the magic words, I turn up their card.'
+needs: ['A regular deck of cards', 'A table']
+skills: ['Math principle', 'Self-working', 'Counting']
+excerpt: 'Three piles of seven cards are dealt out and a spectator chooses a card. After a few deals, spelling the magic words reveals the card, on the next card.'
 ---
 
 Deal out three piles of seven cards each. (Deal them just like dealing hands for a card game.) Have the spectator choose a pile. Hold the pile up,…
