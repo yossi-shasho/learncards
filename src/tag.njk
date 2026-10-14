@@ -1,0 +1,16 @@
+---
+pagination:
+  data: taxonomy.tags
+  size: 1
+  alias: tag
+permalink: "/tag/{{ tag.slug }}/index.html"
+layout: listing.njk
+listField: tags
+eleventyComputed:
+  listSlug: "{{ tag.slug }}"
+  title: "{{ tag.name }}"
+  heading: "Tag: {{ tag.name }}"
+  listDescription: "{{ tag.description }}"
+  seoTitle: "{{ tag.name }} Archives - Learncards"
+  description: "{{ tag.description or ('Card tricks tagged ' + tag.name + ' at Learncards.') }}"
+---

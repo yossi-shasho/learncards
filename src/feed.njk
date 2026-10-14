@@ -1,0 +1,30 @@
+---
+permalink: /feed/index.html
+eleventyExcludeFromCollections: true
+layout: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+  <title>{{ site.name }}</title>
+  <link>{{ site.url }}/</link>
+  <atom:link href="{{ site.url }}/feed/" rel="self" type="application/rss+xml"/>
+  <description>{{ site.description }}</description>
+  <language>en-US</language>
+  <lastBuildDate>{{ collections.tricks | latestDate | rfc822 }}</lastBuildDate>
+{%- for t in collections.tricks | head(20) %}
+  {%- set au = taxonomy.authors | bySlug(t.data.author) %}
+  <item>
+    <title>{{ t.data.title }}</title>
+    <link>{{ site.url }}{{ t.url }}</link>
+    <guid isPermaLink="true">{{ site.url }}{{ t.url }}</guid>
+    <pubDate>{{ t.date | rfc822 }}</pubDate>
+    <dc:creator>{{ au.name if au else t.data.author }}</dc:creator>
+    {%- for c in t.data.categories | strs %}
+    <category>{{ (taxonomy.categories | bySlug(c)).name or c }}</category>
+    {%- endfor %}
+    <description>{{ t.data.seoDescription or t.data.excerpt }}</description>
+  </item>
+{%- endfor %}
+</channel>
+</rss>

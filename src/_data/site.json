@@ -1,0 +1,17 @@
+{
+  "name": "Learncards",
+  "url": "https://learncards.net",
+  "description": "Learn card tricks step by step — easy, intermediate and expert card magic, self-working tricks, math and mental tricks.",
+  "logo": "/wp-content/uploads/2019/06/inner_logo-1.jpg",
+  "ogImage": "https://learncards.net/wp-content/uploads/2019/06/inner_logo-1.jpg",
+  "nav": [
+    { "slug": "easy-tricks", "label": "Easy" },
+    { "slug": "intermediate-tricks", "label": "Intermediate" },
+    { "slug": "self-working-tricks", "label": "Self-Working" },
+    { "slug": "impromptu-tricks", "label": "Impromptu" },
+    { "slug": "math-tricks", "label": "Math" },
+    { "slug": "expert-tricks", "label": "Expert" },
+    { "slug": "mental-tricks", "label": "Mental" },
+    { "slug": "memory-tricks", "label": "Memory" }
+  ]
+}

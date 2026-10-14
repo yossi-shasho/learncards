@@ -1,0 +1,16 @@
+---
+pagination:
+  data: taxonomy.authors
+  size: 1
+  alias: who
+permalink: "/author/{{ who.slug }}/index.html"
+layout: listing.njk
+listField: author
+eleventyComputed:
+  listSlug: "{{ who.slug }}"
+  title: "{{ who.name }}"
+  heading: "Tricks by {{ who.name }}"
+  listDescription: "{{ who.description }}"
+  seoTitle: "{{ who.name }}, Author at Learncards"
+  description: "{{ who.description or ('Card tricks written by ' + who.name + ' at Learncards.') }}"
+---

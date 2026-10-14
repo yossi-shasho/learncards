@@ -1,0 +1,42 @@
+{%- set pageTitle = seoTitle or ((title + " - " + site.name) if title else site.name) -%}
+{%- set pageDesc = seoDescription or excerpt or description or site.description -%}
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ pageTitle }}</title>
+<meta name="description" content="{{ pageDesc | striptags | trim }}">
+<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="{{ ogType or 'website' }}">
+<meta property="og:title" content="{{ pageTitle }}">
+<meta property="og:description" content="{{ pageDesc | striptags | trim }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:site_name" content="{{ site.name }}">
+<meta property="og:image" content="{{ site.ogImage }}">
+<link rel="alternate" type="application/rss+xml" title="{{ site.name }} &raquo; Feed" href="/feed/">
+<link rel="stylesheet" href="/css/style.css">
+{% block head %}{% endblock %}
+</head>
+<body>
+<div class="wrap">
+<header class="site-header">
+  <a href="/" class="logo"><img src="{{ site.logo }}" alt="{{ site.name }}" width="246" height="72"></a>
+  <nav class="cats" aria-label="Categories">
+    {%- for n in site.nav %}{% if not loop.first %} <span aria-hidden="true">|</span> {% endif %}<a href="/category/{{ n.slug }}/">{{ n.label }}</a>{% endfor -%}
+  </nav>
+</header>
+<hr>
+<main>
+{{ content | safe }}
+</main>
+<hr>
+<footer class="site-footer">
+  <p>Copyright &copy; {{ "now" | ymd | truncate(4, true, "") }} {{ site.name }}
+  {%- for a in taxonomy.authors %} &middot; <a href="/author/{{ a.slug }}/">{{ a.name }}</a>{% endfor %}
+  &middot; <a href="/feed/">RSS</a></p>
+</footer>
+</div>
+</body>
+</html>

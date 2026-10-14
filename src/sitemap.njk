@@ -1,0 +1,20 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+layout: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>{{ site.url }}/</loc><lastmod>{{ collections.tricks | latestDate | isoDate }}</lastmod></url>
+{%- for t in collections.tricks %}
+  <url><loc>{{ site.url }}{{ t.url }}</loc><lastmod>{{ (t.data.modified or t.date) | isoDate }}</lastmod></url>
+{%- endfor %}
+{%- for group in [["category", "categories", taxonomy.categories], ["tag", "tags", taxonomy.tags], ["author", "author", taxonomy.authors]] %}
+{%- for x in group[2] %}
+{%- set items = collections.tricks | withTerm(group[1], x.slug) %}
+{%- if items.length %}
+  <url><loc>{{ site.url }}/{{ group[0] }}/{{ x.slug }}/</loc><lastmod>{{ items | latestDate | isoDate }}</lastmod></url>
+{%- endif %}
+{%- endfor %}
+{%- endfor %}
+</urlset>

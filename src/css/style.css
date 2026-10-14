@@ -1,0 +1,106 @@
+/* Learncards — one hand-written stylesheet. Old-school, tidy, light only, no JS. */
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  padding: 24px 16px;
+  background: #f4f1e8;
+  color: #222;
+  font: 17px/1.6 Georgia, "Times New Roman", Times, serif;
+}
+.wrap {
+  max-width: 820px;
+  margin: 0 auto;
+  padding: 20px 28px;
+  background: #fff;
+  border: 1px solid #b8b09a;
+  box-shadow: 3px 3px 0 #ddd6c3;
+}
+h1, h2, h3, h4 {
+  font-family: Verdana, Tahoma, "Trebuchet MS", Arial, sans-serif;
+  font-weight: bold;
+  line-height: 1.25;
+  color: #1a1a1a;
+  margin: 1.4em 0 .5em;
+}
+h1 { font-size: 1.75em; margin-top: .4em; color: #800000; }
+h2 { font-size: 1.3em; }
+h3 { font-size: 1.1em; }
+a { color: #0000ee; text-decoration: underline; }
+a:visited { color: #551a8b; }
+a:hover, a:focus { color: #cc0000; }
+img { max-width: 100%; height: auto; }
+hr {
+  border: 0;
+  border-top: 1px solid #b8b09a;
+  border-bottom: 1px solid #fff;
+  height: 0;
+  margin: 16px 0;
+}
+
+/* Header + category nav */
+.site-header .logo { display: inline-block; }
+.site-header .logo img { display: block; }
+.cats {
+  margin-top: 10px;
+  font: bold 14px/1.8 Verdana, Tahoma, Arial, sans-serif;
+}
+.cats span { color: #999; padding: 0 2px; }
+
+/* Home */
+.hero { overflow: hidden; }
+.hero p { margin-top: 0; }
+.group h2 { border-bottom: 1px dotted #b8b09a; padding-bottom: 3px; }
+.group h2 small, .listing small { font-weight: normal; color: #777; font-size: .75em; }
+.group ul { margin: 0; padding-left: 1.3em; list-style: square; }
+
+/* Listings */
+.intro { font-style: italic; }
+.listing { padding-left: 1.3em; list-style: square; }
+.listing li { margin-bottom: .8em; }
+.listing .excerpt { color: #555; font-size: .92em; }
+
+/* Trick pages */
+.byline {
+  font: 13px/1.6 Verdana, Tahoma, Arial, sans-serif;
+  color: #555;
+  margin-top: -.3em;
+}
+.video {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  margin: 1em 0 1.5em;
+  border: 1px solid #b8b09a;
+  background: #000;
+}
+.video iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.body { overflow-wrap: break-word; }
+.body ol, .body ul { padding-left: 1.4em; }
+.body li { margin-bottom: .3em; }
+.body blockquote {
+  margin: 1em 0;
+  padding: .5em 1em;
+  background: #faf8f2;
+  border-left: 4px solid #b8b09a;
+}
+.body table { border-collapse: collapse; display: block; max-width: 100%; overflow-x: auto; }
+.body th, .body td { border: 1px solid #b8b09a; padding: 4px 8px; }
+.body pre { overflow-x: auto; background: #faf8f2; border: 1px solid #ddd6c3; padding: 8px; }
+.tags { font-size: .9em; color: #555; }
+
+/* Footer */
+.site-footer {
+  font: 13px/1.6 Verdana, Tahoma, Arial, sans-serif;
+  color: #666;
+  text-align: center;
+}
+.site-footer p { margin: 0; }
+
+@media (max-width: 600px) {
+  body { padding: 0; font-size: 16px; }
+  .wrap { padding: 14px 16px; border-width: 0 0 1px; box-shadow: none; }
+  .site-header .logo img { width: 200px; }
+  h1 { font-size: 1.45em; }
+  .cats { font-size: 13px; }
+}

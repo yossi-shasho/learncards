@@ -1,0 +1,18 @@
+---
+layout: base.njk
+---
+<h1>{{ heading }}</h1>
+{%- if listDescription %}
+<p class="intro">{{ listDescription }}</p>
+{%- endif %}
+{%- set items = collections.tricks | withTerm(listField, listSlug) %}
+{%- if items.length %}
+<ul class="listing">
+{%- for t in items %}
+  <li><a href="{{ t.url }}">{{ t.data.title }}</a> <small>&mdash; {{ t.date | longDate }}</small>
+    {%- if t.data.excerpt %}<br><span class="excerpt">{{ t.data.excerpt }}&hellip;</span>{% endif %}</li>
+{%- endfor %}
+</ul>
+{%- else %}
+<p>No tricks here yet.</p>
+{%- endif %}

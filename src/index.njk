@@ -1,0 +1,26 @@
+---
+layout: base.njk
+permalink: /index.html
+seoTitle: "Learncards - Learn Card Tricks Step by Step"
+---
+<div class="hero">
+  <p>Welcome to <b>{{ site.name }}</b>! {{ collections.tricks.length }} card tricks explained step by step &mdash;
+  from easy self-working tricks you can do tonight to expert sleight of hand. Pick a category below and start practising.</p>
+</div>
+{%- set order = [] %}
+{%- for n in site.nav %}{% set order = (order.push(n.slug), order) %}{% endfor %}
+{%- for c in taxonomy.categories %}{% if c.slug not in order %}{% set order = (order.push(c.slug), order) %}{% endif %}{% endfor %}
+{%- for slug in order %}
+{%- set cat = taxonomy.categories | bySlug(slug) %}
+{%- set items = collections.tricks | withTerm("categories", slug) %}
+{%- if cat and items.length %}
+<section class="group">
+  <h2><a href="/category/{{ cat.slug }}/">{{ cat.name }}</a> <small>({{ items.length }})</small></h2>
+  <ul>
+  {%- for t in items %}
+    <li><a href="{{ t.url }}">{{ t.data.title }}</a></li>
+  {%- endfor %}
+  </ul>
+</section>
+{%- endif %}
+{%- endfor %}

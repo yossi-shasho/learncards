@@ -1,0 +1,18 @@
+---
+permalink: /_redirects
+eleventyExcludeFromCollections: true
+layout: false
+---
+# Cloudflare Pages redirects (generated from src/redirects.njk + src/_data/removed.json)
+/page/* / 301
+/category/:slug/page/* /category/:slug/ 301
+/sitemap_index.xml /sitemap.xml 301
+/post-sitemap.xml /sitemap.xml 301
+/page-sitemap.xml /sitemap.xml 301
+/category-sitemap.xml /sitemap.xml 301
+/post_tag-sitemap.xml /sitemap.xml 301
+/author-sitemap.xml /sitemap.xml 301
+{%- for r in taxonomy.removed %}
+/{{ r.slug }}/ /category/{{ r.category }}/ 301
+/{{ r.slug }} /category/{{ r.category }}/ 301
+{%- endfor %}

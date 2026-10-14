@@ -1,0 +1,56 @@
+[
+  {
+    "id": 2,
+    "slug": "card-tricks",
+    "name": "Card Tricks",
+    "description": ""
+  },
+  {
+    "id": 3,
+    "slug": "easy-tricks",
+    "name": "Easy Tricks",
+    "description": ""
+  },
+  {
+    "id": 4,
+    "slug": "expert-tricks",
+    "name": "Expert Tricks",
+    "description": ""
+  },
+  {
+    "id": 5,
+    "slug": "impromptu-tricks",
+    "name": "Impromptu Tricks",
+    "description": ""
+  },
+  {
+    "id": 6,
+    "slug": "intermediate-tricks",
+    "name": "Intermediate Tricks",
+    "description": ""
+  },
+  {
+    "id": 7,
+    "slug": "math-tricks",
+    "name": "Math Tricks",
+    "description": ""
+  },
+  {
+    "id": 8,
+    "slug": "memory-tricks",
+    "name": "Memory Tricks",
+    "description": ""
+  },
+  {
+    "id": 9,
+    "slug": "mental-tricks",
+    "name": "Mental Tricks",
+    "description": ""
+  },
+  {
+    "id": 10,
+    "slug": "self-working-tricks",
+    "name": "Self-Working Tricks",
+    "description": ""
+  }
+]

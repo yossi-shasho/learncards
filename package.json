@@ -1,0 +1,19 @@
+{
+  "name": "learncards",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "import": "node scripts/import.mjs",
+    "build": "eleventy && node scripts/check.mjs",
+    "serve": "eleventy --serve",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "js-yaml": "^5.4.3",
+    "turndown": "^7.2.0"
+  }
+}

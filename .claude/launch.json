@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "learncards", "runtimeExecutable": "npx", "runtimeArgs": ["eleventy", "--serve", "--port=8089"], "port": 8089 }
+  ]
+}

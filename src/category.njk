@@ -1,0 +1,16 @@
+---
+pagination:
+  data: taxonomy.categories
+  size: 1
+  alias: category
+permalink: "/category/{{ category.slug }}/index.html"
+layout: listing.njk
+listField: categories
+eleventyComputed:
+  listSlug: "{{ category.slug }}"
+  title: "{{ category.name }}"
+  heading: "{{ category.name }}"
+  listDescription: "{{ category.description }}"
+  seoTitle: "{{ category.name }} Archives - Learncards"
+  description: "{{ category.description or ('Learn ' + (category.name | lower) + ' step by step at Learncards.') }}"
+---
