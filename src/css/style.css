@@ -219,6 +219,7 @@ hr {
   border: 1px solid #ffd800;
 }
 .badges { margin-top: 8px !important; line-height: 1; }
+.badges img, .construction img { image-rendering: pixelated; image-rendering: crisp-edges; vertical-align: top; margin: 3px 2px; border: 0; }
 .badge {
   display: inline-block;
   width: 88px;
@@ -235,9 +236,4 @@ hr {
   border: 2px outset #888;
   text-shadow: 1px 1px 0 #000;
 }
-.b-netscape { background: #1a3c8a; border-color: #4a6ab8; }
-.b-res      { background: #006666; border-color: #339999; }
-.b-notepad  { background: #c0c0c0; border-color: #e8e8e8; color: #000; text-shadow: 1px 1px 0 #fff; }
-.b-y2k      { background: #8a1a1a; border-color: #b84a4a; }
-.b-html     { background: #c87a00; border-color: #e8a830; }
 .b-11ty     { background: #222; border-color: #666; }

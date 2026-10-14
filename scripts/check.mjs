@@ -126,7 +126,7 @@ for (const f of htmlFiles) {
   const html = fs.readFileSync(f, 'utf8');
   if (!/<html[\s>]/i.test(html)) continue; // e.g. feed/index.html is XML
   for (const m of html.matchAll(/<img\b[^>]*>/gi)) {
-    if (!m[0].includes(LOGO)) imgBad.push(`${rel(f)}: ${m[0].slice(0, 100)}`);
+    if (!m[0].includes(LOGO) && !m[0].includes('/img/badges/')) imgBad.push(`${rel(f)}: ${m[0].slice(0, 100)}`);
   }
   const canons = [...html.matchAll(/<link\b[^>]*rel=["']canonical["'][^>]*>/gi)];
   const href = canons.length === 1 ? canons[0][0].match(/href=["']([^"']*)["']/i) : null;
@@ -134,7 +134,7 @@ for (const f of htmlFiles) {
     canonBad.push(`${rel(f)} (${canons.length} canonical tag(s)${href ? ', href ' + href[1] : ''})`);
   }
 }
-if (imgBad.length) errors.push(`<img> other than the logo:\n` + imgBad.map((s) => '    ' + s).join('\n'));
+if (imgBad.length) errors.push(`<img> other than the logo or 88x31 badges:\n` + imgBad.map((s) => '    ' + s).join('\n'));
 if (canonBad.length) errors.push(`bad canonical link:\n` + canonBad.map((s) => '    ' + s).join('\n'));
 
 // --- report

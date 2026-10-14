@@ -98,18 +98,20 @@
 {{ content | safe }}
 </main>
 <hr>
-<div class="construction"><span>&#128679; UNDER CONSTRUCTION &#128679; &mdash; Last updated: {{ "now" | ymd }}</span></div>
+<div class="construction"><img src="/img/badges/construction.gif" width="88" height="31" alt="Under construction"> <span>Last updated: {{ "now" | ymd }}</span> <img src="/img/badges/construction.gif" width="88" height="31" alt=""></div>
 <footer class="site-footer">
   <p><a href="/about/">About</a> &middot; <a href="/glossary/">Glossary</a> &middot; <a href="/feed/">RSS</a>
   {%- if site.guestbookEmail %} &middot; <a href="mailto:{{ site.guestbookEmail }}?subject=Learncards%20guestbook">Sign my guestbook</a>{% endif %}</p>
   <p>Copyright &copy; {{ "now" | ymd | truncate(4, true, "") }} {{ site.author }} / {{ site.name }} &middot; Est. {{ site.founded }}</p>
   <p>Best viewed at 800&times;600 in any browser &middot; You are visitor <span class="counter">00{{ collections.tricks.length }}</span></p>
   <p class="badges">
-    <span class="badge b-netscape">Netscape<br>NOW! 3.0</span>
-    <span class="badge b-res">Best viewed<br>800&times;600</span>
-    <span class="badge b-notepad">Made with<br>Notepad</span>
-    <span class="badge b-y2k">Y2K<br>Compliant</span>
-    <span class="badge b-html">Valid<br>HTML 3.2</span>
+    <img src="/img/badges/netscape-now.gif" width="88" height="31" alt="Netscape Now! 3.0" loading="lazy">
+    <img src="/img/badges/any-browser.gif" width="88" height="31" alt="Any Browser Now!" loading="lazy">
+    <img src="/img/badges/best-800x600.gif" width="88" height="31" alt="Best viewed at 800x600" loading="lazy">
+    <img src="/img/badges/notepad.gif" width="88" height="31" alt="Built with Microsoft Notepad" loading="lazy">
+    <img src="/img/badges/y2k.gif" width="88" height="31" alt="Y2K compliant" loading="lazy">
+    <img src="/img/badges/valid-html32.gif" width="88" height="31" alt="Valid HTML 3.2" loading="lazy">
+    <a href="/feed/"><img src="/img/badges/valid-rss.gif" width="88" height="31" alt="Valid RSS" loading="lazy"></a>
     <span class="badge b-11ty">Powered by<br>Eleventy</span>
   </p>
 </footer>

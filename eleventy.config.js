@@ -8,6 +8,7 @@ const toDate = (d) =>
 
 export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/css");
+  eleventyConfig.addPassthroughCopy("src/img");
   eleventyConfig.addPassthroughCopy("src/wp-content");
   eleventyConfig.addPassthroughCopy("src/_headers");
 
