@@ -7,7 +7,7 @@ categories:
   - 'intermediate-tricks'
   - 'mental-tricks'
 tags: []
-author: 'arik-w'
+author: 'learncards'
 seoTitle: 'The Time Traveler’s Triumph – A Mystical Card Trick - Learncards'
 seoDescription: 'Learn the Time Traveler’s Triumph, a captivating card trick where the spectator’s chosen card seemingly travels through time! This easy-to-learn trick uses simple techniques and dramatic storytelling to create a mystical, mind-bending experience for your audience.'
 excerpt: 'Introduction: The Time Traveler’s Triumph is a dazzling card trick that will leave your audience in awe, as you appear'

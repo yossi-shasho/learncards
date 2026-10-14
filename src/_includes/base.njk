@@ -34,8 +34,8 @@
 <hr>
 <footer class="site-footer">
   <p>Copyright &copy; {{ "now" | ymd | truncate(4, true, "") }} {{ site.name }}
-  {%- for a in taxonomy.authors %} &middot; <a href="/author/{{ a.slug }}/">{{ a.name }}</a>{% endfor %}
-  &middot; <a href="/feed/">RSS</a></p>
+  &middot; <a href="/feed/">RSS</a> &middot; Est. 2019</p>
+  <p>Best viewed at 800&times;600 in any browser &middot; You are visitor <span class="counter">00{{ collections.tricks.length }}</span></p>
 </footer>
 </div>
 </body>

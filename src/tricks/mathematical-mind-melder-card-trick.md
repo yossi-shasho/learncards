@@ -8,7 +8,7 @@ categories:
   - 'memory-tricks'
   - 'mental-tricks'
 tags: []
-author: 'arik-w'
+author: 'learncards'
 seoTitle: 'The Mathematical Mind-Melder – A Card Trick That Defies Logic - Learncards'
 seoDescription: 'Learn the Mathematical Mind-Melder, a mind-bending card trick that uses simple math and psychological misdirection to reveal a spectator’s chosen card. This combination of memory, math, and mental magic will leave your audience in awe!'
 excerpt: 'Introduction: The Mathematical Mind-Melder is an incredible card trick that combines elements from Math Tricks, Memory Tricks, and Mental Tricks'

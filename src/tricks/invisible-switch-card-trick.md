@@ -6,7 +6,7 @@ modified: '2024-10-24T06:47:09'
 categories:
   - 'self-working-tricks'
 tags: []
-author: 'arik-w'
+author: 'learncards'
 seoTitle: 'The Invisible Switch – A Deceptively Simple Card Trick - Learncards'
 seoDescription: 'Master the Invisible Switch, a self-working card trick that will leave your audience amazed as their chosen card magically switches without them realizing it. Perfect for beginners, this trick uses misdirection and simple techniques for maximum impact!'
 excerpt: 'Introduction: The Invisible Switch is an incredibly deceptive card trick that falls under the category of Self-Working Tricks. It allows'

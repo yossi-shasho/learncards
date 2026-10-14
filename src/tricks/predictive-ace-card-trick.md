@@ -7,7 +7,7 @@ categories:
   - 'mental-tricks'
   - 'self-working-tricks'
 tags: []
-author: 'arik-w'
+author: 'learncards'
 seoTitle: 'The Predictive Ace – A Powerful Mind-Reading Card Trick - Learncards'
 seoDescription: 'Learn the Predictive Ace, a mind-reading card trick that will amaze your audience! This self-working trick combines psychological misdirection with clever card control, allowing you to predict a freely chosen card with stunning accuracy. Perfect for magicians of all levels!'
 excerpt: 'Introduction: The Predictive Ace is an incredible card trick that falls into both the Mental Tricks and Self-Working Tricks categories….'

@@ -7,7 +7,7 @@ categories:
   - 'math-tricks'
   - 'self-working-tricks'
 tags: []
-author: 'arik-w'
+author: 'learncards'
 seoTitle: 'The Mathematical Shuffle – A Self-Working Card Trick with a Math Twist - Learncards'
 seoDescription: 'Learn the Mathematical Shuffle, a self-working card trick that uses simple math principles to reveal a spectator’s chosen card. This easy-to-learn trick requires no sleight of hand and will impress any audience with its mathematical elegance!'
 excerpt: 'Introduction: The Mathematical Shuffle is an elegant card trick that falls under both the Self-Working Tricks and Math Tricks categories….'

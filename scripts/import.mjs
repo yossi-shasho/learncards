@@ -77,6 +77,9 @@ async function ytAlive(id) {
   try { return (await fetch(url)).status === 200; } catch { return false; }
 }
 
+// Authors folded into the main 'learncards' author (removed from the site; their URL is redirected).
+const DROP_AUTHORS = new Set(['arik-w']);
+
 // ---- main ---------------------------------------------------------------
 const [posts, cats, tags, users] = await Promise.all([
   getAll('posts', `&_fields=${FIELDS}`),
@@ -84,10 +87,10 @@ const [posts, cats, tags, users] = await Promise.all([
   getAll('tags'),
   getAll('users'),
 ]);
-const categories = simple(cats.filter((c) => c.count > 0)), tagList = simple(tags.filter((t) => t.count > 0)), authors = simple(users);
+const categories = simple(cats.filter((c) => c.count > 0)), tagList = simple(tags.filter((t) => t.count > 0)), authors = simple(users).filter((u) => !DROP_AUTHORS.has(u.slug));
 const catSlug = new Map(categories.map((c) => [c.id, c.slug]));
 const tagSlug = new Map(tagList.map((c) => [c.id, c.slug]));
-const authSlug = new Map(authors.map((c) => [c.id, c.slug]));
+const authSlug = new Map(simple(users).map((c) => [c.id, DROP_AUTHORS.has(c.slug) ? 'learncards' : c.slug]));
 
 await mkdir(TRICKS, { recursive: true });
 await mkdir(DATA, { recursive: true });

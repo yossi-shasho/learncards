@@ -4,7 +4,13 @@ html { -webkit-text-size-adjust: 100%; }
 body {
   margin: 0;
   padding: 24px 16px;
-  background: #f4f1e8;
+  /* tiled "wallpaper" — a faint checker, the way every 1998 homepage had one */
+  background-color: #efe9d8;
+  background-image:
+    linear-gradient(45deg, #e6dfc9 25%, transparent 25%, transparent 75%, #e6dfc9 75%),
+    linear-gradient(45deg, #e6dfc9 25%, transparent 25%, transparent 75%, #e6dfc9 75%);
+  background-size: 24px 24px;
+  background-position: 0 0, 12px 12px;
   color: #222;
   font: 17px/1.6 Georgia, "Times New Roman", Times, serif;
 }
@@ -13,8 +19,8 @@ body {
   margin: 0 auto;
   padding: 20px 28px;
   background: #fff;
-  border: 1px solid #b8b09a;
-  box-shadow: 3px 3px 0 #ddd6c3;
+  border: 4px ridge #c9b36a;
+  box-shadow: 4px 4px 0 #8a7d5a;
 }
 h1, h2, h3, h4 {
   font-family: Verdana, Tahoma, "Trebuchet MS", Arial, sans-serif;
@@ -23,7 +29,7 @@ h1, h2, h3, h4 {
   color: #1a1a1a;
   margin: 1.4em 0 .5em;
 }
-h1 { font-size: 1.75em; margin-top: .4em; color: #800000; }
+h1 { font-size: 1.75em; margin-top: .4em; color: #000080; text-shadow: 2px 2px 0 #ffe95c; }
 h2 { font-size: 1.3em; }
 h3 { font-size: 1.1em; }
 a { color: #0000ee; text-decoration: underline; }
@@ -32,10 +38,9 @@ a:hover, a:focus { color: #cc0000; }
 img { max-width: 100%; height: auto; }
 hr {
   border: 0;
-  border-top: 1px solid #b8b09a;
-  border-bottom: 1px solid #fff;
-  height: 0;
+  height: 4px;
   margin: 16px 0;
+  background: repeating-linear-gradient(90deg, #e03a3a 0 12px, #ffe95c 12px 24px, #2a7ae2 24px 36px, #3cb44b 36px 48px);
 }
 
 /* Header + category nav */
@@ -43,14 +48,29 @@ hr {
 .site-header .logo img { display: block; }
 .cats {
   margin-top: 10px;
-  font: bold 14px/1.8 Verdana, Tahoma, Arial, sans-serif;
+  padding: 4px 10px;
+  background: #ffe95c;
+  border: 2px outset #e6cf3a;
+  font: bold 13px/1.9 Verdana, Tahoma, Arial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: .03em;
 }
-.cats span { color: #999; padding: 0 2px; }
+.cats a { color: #000080; }
+.cats a:visited { color: #000080; }
+.cats span { color: #a08f2a; padding: 0 2px; }
 
 /* Home */
 .hero { overflow: hidden; }
 .hero p { margin-top: 0; }
-.group h2 { border-bottom: 1px dotted #b8b09a; padding-bottom: 3px; }
+.group h2 {
+  background: #000080;
+  color: #fff;
+  padding: 3px 8px;
+  border: 2px outset #4a4aa8;
+}
+.group h2 a { color: #ffe95c; text-decoration: none; }
+.group h2 a:visited { color: #ffe95c; }
+.group h2 a:hover { text-decoration: underline; }
 .group h2 small, .listing small { font-weight: normal; color: #777; font-size: .75em; }
 .group ul { margin: 0; padding-left: 1.3em; list-style: square; }
 
@@ -91,15 +111,27 @@ hr {
 
 /* Footer */
 .site-footer {
-  font: 13px/1.6 Verdana, Tahoma, Arial, sans-serif;
-  color: #666;
+  font: 12px/1.7 Verdana, Tahoma, Arial, sans-serif;
+  color: #555;
   text-align: center;
+  border-top: 2px groove #c9b36a;
+  padding-top: 8px;
+}
+.site-footer .counter {
+  display: inline-block;
+  margin-top: 4px;
+  padding: 1px 6px;
+  background: #000;
+  color: #3cff3c;
+  font: 12px/1.6 "Courier New", Courier, monospace;
+  letter-spacing: .15em;
 }
 .site-footer p { margin: 0; }
 
 @media (max-width: 600px) {
   body { padding: 0; font-size: 16px; }
-  .wrap { padding: 14px 16px; border-width: 0 0 1px; box-shadow: none; }
+  .wrap { padding: 14px 12px; border-width: 0 0 4px; box-shadow: none; }
+  .cats { padding: 2px 6px; }
   .site-header .logo img { width: 200px; }
   h1 { font-size: 1.45em; }
   .cats { font-size: 13px; }

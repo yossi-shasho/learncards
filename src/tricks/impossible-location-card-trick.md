@@ -8,7 +8,7 @@ categories:
   - 'memory-tricks'
   - 'mental-tricks'
 tags: []
-author: 'arik-w'
+author: 'learncards'
 seoTitle: 'The Impossible Location – A Stunning Mentalism Card Trick - Learncards'
 seoDescription: 'Discover the Impossible Location, an advanced mentalism card trick that uses memory and misdirection to reveal a card the spectator merely thought of. This mind-blowing trick will amaze your audience and solidify your mental magic skills!'
 excerpt: 'Introduction: The Impossible Location is a mind-blowing card trick that combines elements of Mental Tricks, Memory Tricks, and Intermediate Tricks….'
