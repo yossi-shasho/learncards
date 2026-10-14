@@ -1,5 +1,13 @@
 # learncards.net → static site
 
+## Status (2026-10-14)
+
+- **Done:** site built, 170 original URLs preserved or redirected, deployed to Cloudflare Pages.
+- **Live:** cutover complete; learncards.net is served by Cloudflare Pages (auto-deploys from `main`). WordPress/HostGator is gone and being cancelled. The importer is retired; `scripts/check.mjs` diffs against the frozen `scripts/original-urls.txt`.
+- **Remaining:** re-submit the sitemap in Google Search Console; finish Cloudflare Email Routing for webmaster@learncards.net.
+
+(Sections below are the original plan, kept for history.)
+
 ## Decisions (settled)
 
 - **Generator:** Eleventy (11ty), Nunjucks templates, no client-side JS.

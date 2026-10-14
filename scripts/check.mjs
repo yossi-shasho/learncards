@@ -1,4 +1,4 @@
-// Post-build checks. Usage: node scripts/check.mjs [--offline]
+// Post-build checks. Usage: node scripts/check.mjs [--offline]  (--offline only skips the YouTube video check)
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -7,7 +7,8 @@ import { load as yamlLoad } from 'js-yaml';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const SITE = path.join(ROOT, '_site');
 const LIVE = 'https://learncards.net';
-const SITEMAPS = ['post', 'category', 'post_tag', 'author'].map((n) => `${LIVE}/${n}-sitemap.xml`);
+// Frozen list of the original WordPress URLs (from the old Yoast sitemaps).
+const ORIGINAL_URLS = path.join(ROOT, 'scripts/original-urls.txt');
 const offline = process.argv.includes('--offline') || process.env.CHECK_OFFLINE === '1';
 
 const errors = [];
@@ -62,36 +63,21 @@ function parseRedirects() {
 const redirectRules = parseRedirects();
 const isRedirected = (p) => redirectRules.some((r) => r.test(p));
 
-// --- 1. live sitemap diff
-let liveCount = 0, redirectedCount = 0, missing = [];
-let diffDone = false;
-if (offline) {
-  warnings.push('offline mode: skipping live sitemap diff and video re-check');
-} else {
-  try {
-    const live = new Set();
-    for (const url of SITEMAPS) {
-      const res = await fetch(url, { signal: AbortSignal.timeout(30000) });
-      if (!res.ok) throw new Error(`${url} -> HTTP ${res.status}`);
-      const xml = await res.text();
-      for (const m of xml.matchAll(/<loc>\s*([^<\s]+)\s*<\/loc>/g)) {
-        const u = new URL(m[1].replace(/&amp;/g, '&'));
-        live.add(decodeURI(u.pathname));
-      }
-    }
-    liveCount = live.size;
-    for (const p of [...live].sort()) {
-      if (generated.has(p)) continue;
-      if (isRedirected(p)) redirectedCount++;
-      else missing.push(p);
-    }
-    diffDone = true;
-  } catch (e) {
-    warnings.push(`could not fetch live sitemaps (${e.message}); skipping URL diff`);
+// --- 1. original URL list diff (frozen in scripts/original-urls.txt)
+let originalCount = 0, redirectedCount = 0, missing = [];
+{
+  const original = new Set(
+    fs.readFileSync(ORIGINAL_URLS, 'utf8').split('\n').map((l) => l.trim()).filter((l) => l && !l.startsWith('#')),
+  );
+  originalCount = original.size;
+  for (const p of [...original].sort()) {
+    if (generated.has(p)) continue;
+    if (isRedirected(p)) redirectedCount++;
+    else missing.push(p);
   }
 }
 if (missing.length) {
-  errors.push(`${missing.length} live URL(s) neither generated nor redirected:\n` + missing.map((p) => '    ' + p).join('\n'));
+  errors.push(`${missing.length} original URL(s) neither generated nor redirected:\n` + missing.map((p) => '    ' + p).join('\n'));
 }
 
 // --- 2. video re-check
@@ -139,10 +125,10 @@ if (canonBad.length) errors.push(`bad canonical link:\n` + canonBad.map((s) => '
 
 // --- report
 console.log('');
-console.log(`Live URLs:        ${diffDone ? liveCount : 'n/a'}`);
+console.log(`Original URLs:    ${originalCount}`);
 console.log(`Generated pages:  ${generated.size}`);
-console.log(`Redirected:       ${diffDone ? redirectedCount : 'n/a'}`);
-console.log(`Missing:          ${diffDone ? missing.length : 'n/a'}`);
+console.log(`Redirected:       ${redirectedCount}`);
+console.log(`Missing:          ${missing.length}`);
 console.log(`HTML files checked: ${htmlFiles.length}`);
 for (const w of warnings) console.warn(`WARNING: ${w}`);
 for (const e of errors) console.error(`ERROR: ${e}`);

@@ -1,4 +1,11 @@
 // Imports learncards.net from the WordPress REST API into Eleventy content.
+// RETIRED: the WordPress site is gone, so this importer can no longer work. Kept for history.
+if (!process.argv.includes('--force')) {
+  console.error('This importer is retired: learncards.net is no longer WordPress (its REST API is gone).');
+  console.error('Content now lives in src/tricks/*.md; edit those files and push to main.');
+  console.error('Pass --force to run it anyway (it would overwrite src/tricks and src/_data).');
+  process.exit(1);
+}
 import { mkdir, writeFile, rm, readdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';

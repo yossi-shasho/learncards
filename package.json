@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "import": "node scripts/import.mjs",
+    "import:legacy": "node scripts/import.mjs",
     "build": "eleventy && node scripts/check.mjs",
     "serve": "eleventy --serve",
     "check": "node scripts/check.mjs",
