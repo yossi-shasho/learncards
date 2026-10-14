@@ -6,7 +6,8 @@
     "import": "node scripts/import.mjs",
     "build": "eleventy && node scripts/check.mjs",
     "serve": "eleventy --serve",
-    "check": "node scripts/check.mjs"
+    "check": "node scripts/check.mjs",
+    "smoke": "node scripts/smoke.mjs"
   },
   "engines": {
     "node": ">=20"

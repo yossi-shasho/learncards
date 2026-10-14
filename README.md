@@ -41,7 +41,18 @@ The body is Markdown. Do not add images.
 
 ## Deploy
 
-`git push` to `main`. Cloudflare Pages builds with `npm run build` and publishes `_site`.
+Hosted on Cloudflare Pages via Git integration (repo `yossi-shasho/learncards`, branch `main`; every push deploys).
+
+| Setting | Value |
+|---|---|
+| Framework preset | None |
+| Build command | `npm run build` |
+| Build output directory | `_site` |
+| Node version | from `.node-version` (22) |
+
+Network failures in the check script only warn, so they cannot fail a deploy.
+After a deploy, run `npm run smoke https://<your>.pages.dev` (or `https://learncards.net` after cutover).
+Redirects and `Content-Type` headers come from `_redirects` / `_headers`, so those smoke checks only pass on Cloudflare.
 
 ## What the check script enforces
 
