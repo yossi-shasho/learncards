@@ -2,7 +2,7 @@
 layout: page.njk
 title: About Learncards
 seoTitle: 'About Learncards - Who Writes These Card Tricks'
-seoDescription: 'Why Learncards exists, who it is for, and how each card trick gets picked and written up. Free, no ads, no tracking, just tricks to practice.'
+seoDescription: 'Why Learncards exists, who it is for, and how each card trick gets picked and written up. Free, no ads, no pop-ups, just tricks to practice.'
 permalink: /about/
 date: git Last Modified
 ---
@@ -23,7 +23,7 @@ I look for tricks that work with an ordinary deck and fool real people. Some are
 
 ## What you won't find here
 
-No ads, no pop-ups, no tracking and no JavaScript. The pages load fast and work on any old computer or phone, which feels right for a site about something as low-tech as a deck of cards.
+No ads and no pop-ups, and the only script is Google Analytics, which counts visits anonymously. The pages load fast and work on any old computer or phone, which feels right for a site about something as low-tech as a deck of cards.
 
 ## One last thing
 
