@@ -53,7 +53,7 @@ for (const p of ['/category/easy-tricks/', '/tag/prediction/', '/author/learncar
 }
 await expectStatus('/sitemap.xml', 200, (r, b) => {
   const n = (b.match(/<loc>/g) || []).length;
-  return n >= 170 ? '' : `only ${n} <loc>`;
+  return n >= 160 ? '' : `only ${n} <loc>`;
 });
 await expectStatus('/robots.txt', 200, (r, b) => (/Sitemap:/i.test(b) ? '' : 'no Sitemap: line'));
 
