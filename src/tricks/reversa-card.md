@@ -1,8 +1,8 @@
 ---
 title: 'Reversa-Card'
 slug: 'reversa-card'
-date: '2018-03-02T09:51:24'
-modified: '2018-03-02T09:51:24'
+date: '2007-07-15T07:38:16'
+modified: '2007-07-15T07:38:16'
 categories:
   - 'easy-tricks'
   - 'self-working-tricks'

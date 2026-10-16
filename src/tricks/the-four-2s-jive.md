@@ -1,8 +1,8 @@
 ---
 title: 'The Four 2’s Jive'
 slug: 'the-four-2s-jive'
-date: '2018-05-02T12:02:03'
-modified: '2018-05-02T12:02:03'
+date: '2008-10-28T14:06:10'
+modified: '2008-10-28T14:06:10'
 categories:
   - 'easy-tricks'
   - 'self-working-tricks'

@@ -1,8 +1,8 @@
 ---
 title: 'Telepathy'
 slug: 'telepathy'
-date: '2018-12-01T06:10:44'
-modified: '2018-12-01T06:10:44'
+date: '2007-07-01T05:14:21'
+modified: '2007-07-01T05:14:21'
 categories:
   - 'easy-tricks'
   - 'mental-tricks'

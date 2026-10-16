@@ -1,8 +1,8 @@
 ---
 title: 'Keith’s Trick Share'
 slug: 'keiths-trick-share'
-date: '2018-07-15T09:52:41'
-modified: '2018-07-15T09:52:41'
+date: '2007-07-25T00:54:05'
+modified: '2007-07-25T00:54:05'
 categories:
   - 'easy-tricks'
   - 'mental-tricks'

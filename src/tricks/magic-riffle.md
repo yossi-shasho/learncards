@@ -1,8 +1,8 @@
 ---
 title: 'Magic Riffle'
 slug: 'magic-riffle'
-date: '2018-03-01T05:01:42'
-modified: '2018-03-01T05:01:42'
+date: '2008-12-17T03:48:47'
+modified: '2008-12-17T03:48:47'
 categories:
   - 'easy-tricks'
   - 'impromptu-tricks'

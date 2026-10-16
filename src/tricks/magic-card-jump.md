@@ -1,8 +1,8 @@
 ---
 title: 'Magic Card Jump'
 slug: 'magic-card-jump'
-date: '2018-01-01T04:35:04'
-modified: '2018-01-01T04:35:04'
+date: '2007-05-13T07:54:41'
+modified: '2007-05-13T07:54:41'
 categories:
   - 'easy-tricks'
 tags: []

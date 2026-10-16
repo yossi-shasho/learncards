@@ -1,8 +1,8 @@
 ---
 title: 'Real 4 Aces Variation'
 slug: 'real-4-aces-variation'
-date: '2018-02-20T07:42:41'
-modified: '2018-02-20T07:42:41'
+date: '2007-05-08T20:39:48'
+modified: '2007-05-08T20:39:48'
 categories:
   - 'intermediate-tricks'
 tags: []

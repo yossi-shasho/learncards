@@ -1,8 +1,8 @@
 ---
 title: 'In The Box – Color Flip'
 slug: 'in-the-box-color-flip'
-date: '2018-01-19T06:57:39'
-modified: '2018-01-19T06:57:39'
+date: '2007-07-16T10:47:28'
+modified: '2007-07-16T10:47:28'
 categories:
   - 'intermediate-tricks'
 tags: []

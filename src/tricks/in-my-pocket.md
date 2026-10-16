@@ -1,8 +1,8 @@
 ---
 title: 'In My Pocket'
 slug: 'in-my-pocket'
-date: '2018-01-06T06:56:44'
-modified: '2018-01-06T06:56:44'
+date: '2008-05-21T08:54:16'
+modified: '2008-05-21T08:54:16'
 categories:
   - 'intermediate-tricks'
   - 'self-working-tricks'

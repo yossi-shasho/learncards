@@ -1,8 +1,8 @@
 ---
 title: 'The Rising Card'
 slug: 'the-rising-card'
-date: '2019-03-02T06:39:46'
-modified: '2019-03-02T06:39:46'
+date: '2007-07-31T06:16:27'
+modified: '2007-07-31T06:16:27'
 categories:
   - 'intermediate-tricks'
 tags: []

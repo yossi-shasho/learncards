@@ -1,8 +1,8 @@
 ---
 title: 'Easy Card Find'
 slug: 'easy-card-find'
-date: '2018-09-07T06:47:47'
-modified: '2018-09-07T06:47:47'
+date: '2007-05-15T02:46:08'
+modified: '2007-05-15T02:46:08'
 categories:
   - 'easy-tricks'
 tags: []

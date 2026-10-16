@@ -1,8 +1,8 @@
 ---
 title: 'Magic Partner'
 slug: 'magic-partner'
-date: '2018-01-20T07:01:17'
-modified: '2018-01-20T07:01:17'
+date: '2008-08-26T20:33:24'
+modified: '2008-08-26T20:33:24'
 categories:
   - 'intermediate-tricks'
   - 'self-working-tricks'

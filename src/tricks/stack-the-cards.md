@@ -1,8 +1,8 @@
 ---
 title: 'Stack the Cards'
 slug: 'stack-the-cards'
-date: '2018-02-24T07:54:55'
-modified: '2018-02-24T07:54:55'
+date: '2007-07-16T03:21:50'
+modified: '2007-07-16T03:21:50'
 categories:
   - 'intermediate-tricks'
 tags: []

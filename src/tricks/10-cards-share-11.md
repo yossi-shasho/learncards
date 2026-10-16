@@ -1,8 +1,8 @@
 ---
 title: '10 Cards'
 slug: '10-cards-share-11'
-date: '2018-02-18T05:36:33'
-modified: '2018-02-18T05:36:33'
+date: '2007-03-01T23:05:21'
+modified: '2007-03-01T23:05:21'
 categories:
   - 'easy-tricks'
 tags: []

@@ -1,8 +1,8 @@
 ---
 title: 'Double Cross'
 slug: 'double-cross'
-date: '2018-08-07T06:23:45'
-modified: '2018-08-07T06:23:45'
+date: '2007-03-16T07:08:27'
+modified: '2007-03-16T07:08:27'
 categories:
   - 'easy-tricks'
 tags: []

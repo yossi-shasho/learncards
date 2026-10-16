@@ -1,8 +1,8 @@
 ---
 title: 'Four Islands'
 slug: 'four-islands-2'
-date: '2018-01-02T08:15:58'
-modified: '2018-01-02T08:15:58'
+date: '2007-04-23T14:47:20'
+modified: '2007-04-23T14:47:20'
 categories:
   - 'self-working-tricks'
 tags: []

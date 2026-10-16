@@ -1,8 +1,8 @@
 ---
 title: 'The Year Game'
 slug: 'the-year-game'
-date: '2018-12-02T06:59:53'
-modified: '2018-12-02T06:59:53'
+date: '2007-03-28T21:13:24'
+modified: '2007-03-28T21:13:24'
 categories:
   - 'intermediate-tricks'
   - 'math-tricks'

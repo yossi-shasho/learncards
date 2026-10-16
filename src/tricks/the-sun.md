@@ -1,8 +1,8 @@
 ---
 title: 'The Sun'
 slug: 'the-sun'
-date: '2018-08-02T06:40:16'
-modified: '2018-08-02T06:40:16'
+date: '2007-04-09T01:15:14'
+modified: '2007-04-09T01:15:14'
 categories:
   - 'intermediate-tricks'
   - 'math-tricks'

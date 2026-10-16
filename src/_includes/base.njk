@@ -63,9 +63,25 @@
     "keywords": (keywords | join(", ")) if keywords.length else undefined,
     "isPartOf": { "@id": site.url + "/#website" },
     "breadcrumb": { "@id": crumbLd["@id"] } if crumbLd else undefined,
+    "video": { "@id": pageUrl + "#video" } if (video and (video | youtubeId)) else undefined,
     "publisher": org
   } -%}
-  {%- set graph = [mainNode, crumbLd] -%}
+  {#- HowTo from the body's ordered list(s), only when there is one (the filter returns null otherwise). -#}
+  {%- set howTo = content | howToLd({ id: pageUrl + "#howto", name: title, description: pageDesc, needs: needs }) -%}
+  {%- set videoLd = null -%}
+  {%- if video and (video | youtubeId) -%}
+    {%- set ytId = video | youtubeId -%}
+    {%- set videoLd = {
+      "@type": "VideoObject",
+      "@id": pageUrl + "#video",
+      "name": title,
+      "description": pageDesc,
+      "thumbnailUrl": "https://i.ytimg.com/vi/" + ytId + "/hqdefault.jpg",
+      "embedUrl": "https://www.youtube.com/embed/" + ytId,
+      "uploadDate": date | isoDate
+    } -%}
+  {%- endif -%}
+  {%- set graph = [mainNode, crumbLd, howTo, videoLd] -%}
 {%- elif listField -%}
   {%- set mainNode = { "@type": "CollectionPage", "@id": pageUrl, "url": pageUrl, "name": pageTitle, "description": pageDesc, "isPartOf": { "@id": site.url + "/#website" }, "breadcrumb": { "@id": crumbLd["@id"] } if crumbLd else undefined } -%}
   {%- set graph = [mainNode, crumbLd, webSite, org] -%}

@@ -1,8 +1,8 @@
 ---
 title: 'No I Got It'
 slug: 'no-i-got-it'
-date: '2018-02-14T07:33:43'
-modified: '2018-02-14T07:33:43'
+date: '2007-03-25T06:12:56'
+modified: '2007-03-25T06:12:56'
 categories:
   - 'intermediate-tricks'
 tags: []

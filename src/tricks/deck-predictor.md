@@ -1,8 +1,8 @@
 ---
 title: 'Deck Predictor'
 slug: 'deck-predictor'
-date: '2018-06-07T06:11:26'
-modified: '2018-06-07T06:11:26'
+date: '2010-01-22T22:23:59'
+modified: '2010-01-22T22:23:59'
 categories:
   - 'easy-tricks'
   - 'mental-tricks'

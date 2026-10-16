@@ -1,8 +1,8 @@
 ---
 title: 'I Can’t Believe They Don’t Get It!'
 slug: 'i-cant-believe-they-dont-get-it'
-date: '2018-01-17T06:53:16'
-modified: '2018-01-17T06:53:16'
+date: '2007-07-30T21:23:19'
+modified: '2007-07-30T21:23:19'
 categories:
   - 'impromptu-tricks'
   - 'intermediate-tricks'

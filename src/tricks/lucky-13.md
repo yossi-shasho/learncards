@@ -1,8 +1,8 @@
 ---
 title: 'Lucky 13'
 slug: 'lucky-13'
-date: '2018-09-15T11:43:21'
-modified: '2018-09-15T11:43:21'
+date: '2007-09-18T18:57:21'
+modified: '2007-09-18T18:57:21'
 categories:
   - 'easy-tricks'
   - 'self-working-tricks'

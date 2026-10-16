@@ -1,8 +1,8 @@
 ---
 title: 'Card Appearance'
 slug: 'card-appearance'
-date: '2018-02-07T07:20:17'
-modified: '2018-02-07T07:20:17'
+date: '2010-08-14T21:48:18'
+modified: '2010-08-14T21:48:18'
 categories:
   - 'expert-tricks'
 tags: []

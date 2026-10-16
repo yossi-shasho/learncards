@@ -1,8 +1,8 @@
 ---
 title: 'Impossible Card Location'
 slug: 'impossible-card-location-2'
-date: '2018-06-15T09:24:31'
-modified: '2018-06-15T09:24:31'
+date: '2007-07-29T15:52:33'
+modified: '2007-07-29T15:52:33'
 categories:
   - 'easy-tricks'
   - 'impromptu-tricks'

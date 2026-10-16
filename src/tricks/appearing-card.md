@@ -1,8 +1,8 @@
 ---
 title: 'Appearing Card'
 slug: 'appearing-card'
-date: '2018-01-07T12:43:09'
-modified: '2018-01-07T12:43:09'
+date: '2010-05-18T11:25:54'
+modified: '2010-05-18T11:25:54'
 categories:
   - 'easy-tricks'
   - 'impromptu-tricks'

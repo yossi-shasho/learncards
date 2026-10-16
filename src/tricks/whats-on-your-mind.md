@@ -1,8 +1,8 @@
 ---
 title: 'What’s on Your Mind?'
 slug: 'whats-on-your-mind'
-date: '2018-02-13T07:26:14'
-modified: '2018-02-13T07:26:14'
+date: '2009-11-04T03:50:43'
+modified: '2009-11-04T03:50:43'
 categories:
   - 'intermediate-tricks'
   - 'memory-tricks'

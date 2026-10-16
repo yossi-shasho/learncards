@@ -1,8 +1,8 @@
 ---
 title: 'Mind Reader'
 slug: 'mind-reader'
-date: '2018-05-01T05:15:46'
-modified: '2018-05-01T05:15:46'
+date: '2007-04-17T13:25:51'
+modified: '2007-04-17T13:25:51'
 categories:
   - 'easy-tricks'
   - 'mental-tricks'

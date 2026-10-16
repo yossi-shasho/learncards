@@ -1,8 +1,8 @@
 ---
 title: 'Trapped Trick'
 slug: 'trapped-trick'
-date: '2018-02-13T07:15:23'
-modified: '2018-02-13T07:15:23'
+date: '2007-07-20T00:44:41'
+modified: '2007-07-20T00:44:41'
 categories:
   - 'intermediate-tricks'
 tags: []

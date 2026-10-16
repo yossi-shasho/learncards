@@ -1,8 +1,8 @@
 ---
 title: 'Switcheroo'
 slug: 'switcheroo'
-date: '2018-11-01T06:03:50'
-modified: '2018-11-01T06:03:50'
+date: '2007-09-26T07:26:27'
+modified: '2007-09-26T07:26:27'
 categories:
   - 'easy-tricks'
 tags: []

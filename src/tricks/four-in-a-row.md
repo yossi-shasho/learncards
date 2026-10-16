@@ -1,8 +1,8 @@
 ---
 title: 'Four in a row'
 slug: 'four-in-a-row'
-date: '2018-03-15T08:04:51'
-modified: '2018-03-15T08:04:51'
+date: '2007-05-26T07:43:50'
+modified: '2007-05-26T07:43:50'
 categories:
   - 'easy-tricks'
 tags: []

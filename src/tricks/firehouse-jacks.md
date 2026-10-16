@@ -1,8 +1,8 @@
 ---
 title: 'Firehouse Jacks'
 slug: 'firehouse-jacks'
-date: '2018-01-27T06:41:06'
-modified: '2018-01-27T06:41:06'
+date: '2007-07-12T15:34:42'
+modified: '2007-07-12T15:34:42'
 categories:
   - 'intermediate-tricks'
 tags: []

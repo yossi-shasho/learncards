@@ -1,8 +1,8 @@
 ---
 title: 'Aces for Cardmen Only'
 slug: 'aces-for-cardmen-only'
-date: '2018-02-03T07:11:28'
-modified: '2018-02-03T07:11:28'
+date: '2007-03-15T19:54:29'
+modified: '2007-03-15T19:54:29'
 categories:
   - 'expert-tricks'
 tags: []

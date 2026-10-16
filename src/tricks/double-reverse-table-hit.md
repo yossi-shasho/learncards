@@ -1,8 +1,8 @@
 ---
 title: 'Double Reverse Table Hit'
 slug: 'double-reverse-table-hit'
-date: '2018-01-20T06:37:04'
-modified: '2018-01-20T06:37:04'
+date: '2007-07-19T07:49:47'
+modified: '2007-07-19T07:49:47'
 categories:
   - 'intermediate-tricks'
 tags: []

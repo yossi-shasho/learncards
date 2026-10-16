@@ -1,8 +1,8 @@
 ---
 title: 'Chased'
 slug: 'chased'
-date: '2018-03-07T05:33:06'
-modified: '2018-03-07T05:33:06'
+date: '2007-05-21T03:16:36'
+modified: '2007-05-21T03:16:36'
 categories:
   - 'easy-tricks'
   - 'memory-tricks'

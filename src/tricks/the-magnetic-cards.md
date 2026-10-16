@@ -1,8 +1,8 @@
 ---
 title: 'The Magnetic Cards'
 slug: 'the-magnetic-cards'
-date: '2018-02-16T07:28:59'
-modified: '2018-02-16T07:28:59'
+date: '2009-11-05T20:50:46'
+modified: '2009-11-05T20:50:46'
 categories:
   - 'expert-tricks'
 tags: []

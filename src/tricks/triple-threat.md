@@ -1,8 +1,8 @@
 ---
 title: 'Triple Threat'
 slug: 'triple-threat'
-date: '2018-07-22T07:20:30'
-modified: '2018-07-22T07:20:30'
+date: '2007-05-09T20:13:11'
+modified: '2007-05-09T20:13:11'
 categories:
   - 'intermediate-tricks'
   - 'memory-tricks'

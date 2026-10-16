@@ -1,8 +1,8 @@
 ---
 title: 'Eight Threatening Kings'
 slug: 'eight-threatening-kings'
-date: '2018-01-22T06:38:07'
-modified: '2018-01-22T06:38:07'
+date: '2009-05-10T07:01:47'
+modified: '2009-05-10T07:01:47'
 categories:
   - 'impromptu-tricks'
   - 'math-tricks'

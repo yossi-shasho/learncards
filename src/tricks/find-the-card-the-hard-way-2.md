@@ -1,8 +1,8 @@
 ---
 title: 'Find The Card The Hard Way 2'
 slug: 'find-the-card-the-hard-way-2'
-date: '2018-01-25T06:40:14'
-modified: '2018-01-25T06:40:14'
+date: '2007-06-10T06:54:58'
+modified: '2007-06-10T06:54:58'
 categories:
   - 'intermediate-tricks'
 tags: []

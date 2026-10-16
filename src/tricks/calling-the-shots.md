@@ -1,8 +1,8 @@
 ---
 title: 'Calling The Shots'
 slug: 'calling-the-shots'
-date: '2018-01-30T06:16:59'
-modified: '2018-01-30T06:16:59'
+date: '2007-07-12T05:00:34'
+modified: '2007-07-12T05:00:34'
 categories:
   - 'impromptu-tricks'
   - 'intermediate-tricks'

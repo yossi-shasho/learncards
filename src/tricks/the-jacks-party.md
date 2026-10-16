@@ -1,8 +1,8 @@
 ---
 title: 'The Jack’s Party'
 slug: 'the-jacks-party'
-date: '2018-02-28T07:58:33'
-modified: '2018-02-28T07:58:33'
+date: '2010-03-04T03:01:43'
+modified: '2010-03-04T03:01:43'
 categories:
   - 'intermediate-tricks'
   - 'self-working-tricks'

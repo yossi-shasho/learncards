@@ -1,8 +1,8 @@
 ---
 title: '21 Finds Your Card'
 slug: '21-finds-your-card'
-date: '2018-01-08T05:58:57'
-modified: '2018-01-08T05:58:57'
+date: '2007-04-10T05:39:11'
+modified: '2007-04-10T05:39:11'
 categories:
   - 'easy-tricks'
   - 'impromptu-tricks'

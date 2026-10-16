@@ -1,8 +1,8 @@
 ---
 title: 'Liar, Liar'
 slug: 'liar-liar'
-date: '2018-01-03T06:59:42'
-modified: '2018-01-03T06:59:42'
+date: '2007-06-15T08:15:35'
+modified: '2007-06-15T08:15:35'
 categories:
   - 'intermediate-tricks'
 tags: []

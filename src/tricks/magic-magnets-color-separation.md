@@ -1,8 +1,8 @@
 ---
 title: 'Magic Magnets Color Separation'
 slug: 'magic-magnets-color-separation'
-date: '2018-01-31T07:00:27'
-modified: '2018-01-31T07:00:27'
+date: '2008-02-04T10:55:33'
+modified: '2008-02-04T10:55:33'
 categories:
   - 'intermediate-tricks'
   - 'self-working-tricks'

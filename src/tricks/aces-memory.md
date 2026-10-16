@@ -1,8 +1,8 @@
 ---
 title: 'Aces Memory'
 slug: 'aces-memory'
-date: '2018-01-08T05:58:53'
-modified: '2018-01-08T05:58:53'
+date: '2007-03-21T04:28:59'
+modified: '2007-03-21T04:28:59'
 categories:
   - 'impromptu-tricks'
   - 'intermediate-tricks'

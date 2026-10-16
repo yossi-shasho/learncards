@@ -1,8 +1,8 @@
 ---
 title: 'Half and Half'
 slug: 'half-and-half'
-date: '2018-01-16T06:52:25'
-modified: '2018-01-16T06:52:25'
+date: '2007-05-21T09:45:28'
+modified: '2007-05-21T09:45:28'
 categories:
   - 'intermediate-tricks'
   - 'math-tricks'

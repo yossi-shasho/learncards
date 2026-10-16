@@ -1,8 +1,8 @@
 ---
 title: 'Stack it Up'
 slug: 'stack-it-up'
-date: '2018-02-23T07:50:12'
-modified: '2018-02-23T07:50:12'
+date: '2007-05-19T20:41:15'
+modified: '2007-05-19T20:41:15'
 categories:
   - 'intermediate-tricks'
   - 'math-tricks'

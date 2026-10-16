@@ -1,8 +1,8 @@
 ---
 title: 'Do It Yourself Discovery'
 slug: 'do-it-yourself-discovery'
-date: '2018-07-07T06:17:09'
-modified: '2018-07-07T06:17:09'
+date: '2007-06-02T14:16:02'
+modified: '2007-06-02T14:16:02'
 categories:
   - 'easy-tricks'
   - 'impromptu-tricks'

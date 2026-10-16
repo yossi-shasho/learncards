@@ -1,8 +1,8 @@
 ---
 title: 'It’s Your Deal'
 slug: 'its-your-deal'
-date: '2018-01-30T06:58:50'
-modified: '2018-01-30T06:58:50'
+date: '2007-04-26T00:04:13'
+modified: '2007-04-26T00:04:13'
 categories:
   - 'intermediate-tricks'
   - 'math-tricks'

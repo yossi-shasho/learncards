@@ -1,8 +1,8 @@
 ---
 title: 'Magicians Apprentice'
 slug: 'magicians-apprentice'
-date: '2018-04-01T05:10:42'
-modified: '2018-04-01T05:10:42'
+date: '2010-12-15T02:59:04'
+modified: '2010-12-15T02:59:04'
 categories:
   - 'easy-tricks'
   - 'impromptu-tricks'

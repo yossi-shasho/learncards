@@ -1,8 +1,8 @@
 ---
 title: 'Find The Card The Easy Way'
 slug: 'find-the-card-the-easy-way-2'
-date: '2018-01-03T08:48:42'
-modified: '2018-01-03T08:48:42'
+date: '2007-07-24T01:59:14'
+modified: '2007-07-24T01:59:14'
 categories:
   - 'self-working-tricks'
 tags: []

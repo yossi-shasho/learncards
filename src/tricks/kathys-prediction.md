@@ -1,8 +1,8 @@
 ---
 title: 'Kathy’s Prediction'
 slug: 'kathys-prediction'
-date: '2018-06-15T09:36:27'
-modified: '2018-06-15T09:36:27'
+date: '2007-03-05T00:03:39'
+modified: '2007-03-05T00:03:39'
 categories:
   - 'easy-tricks'
   - 'math-tricks'

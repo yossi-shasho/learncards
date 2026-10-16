@@ -1,8 +1,8 @@
 ---
 title: 'As Many As You'
 slug: 'as-many-as-you'
-date: '2018-01-05T06:11:58'
-modified: '2018-01-05T06:11:58'
+date: '2010-09-13T21:53:42'
+modified: '2010-09-13T21:53:42'
 categories:
   - 'intermediate-tricks'
   - 'self-working-tricks'

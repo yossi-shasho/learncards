@@ -1,8 +1,8 @@
 ---
 title: 'Easy Pick'
 slug: 'easy-pick'
-date: '2018-11-07T07:21:59'
-modified: '2018-11-07T07:21:59'
+date: '2007-06-03T12:18:53'
+modified: '2007-06-03T12:18:53'
 categories:
   - 'easy-tricks'
   - 'impromptu-tricks'

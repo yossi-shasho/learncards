@@ -1,8 +1,8 @@
 ---
 title: 'Mystical 8s Prediction'
 slug: 'mystical-8s-prediction'
-date: '2018-01-22T07:04:26'
-modified: '2018-01-22T07:04:26'
+date: '2007-05-20T16:00:11'
+modified: '2007-05-20T16:00:11'
 categories:
   - 'intermediate-tricks'
   - 'self-working-tricks'

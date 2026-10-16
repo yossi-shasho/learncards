@@ -1,8 +1,8 @@
 ---
 title: 'The Absent Card'
 slug: 'the-absent-card'
-date: '2018-02-08T07:21:26'
-modified: '2018-02-08T07:21:26'
+date: '2007-03-09T00:50:16'
+modified: '2007-03-09T00:50:16'
 categories:
   - 'expert-tricks'
 tags: []

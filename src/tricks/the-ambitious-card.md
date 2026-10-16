@@ -1,8 +1,8 @@
 ---
 title: 'The Ambitious Card'
 slug: 'the-ambitious-card'
-date: '2018-02-11T07:26:21'
-modified: '2018-02-11T07:26:21'
+date: '2009-07-17T02:54:33'
+modified: '2009-07-17T02:54:33'
 categories:
   - 'expert-tricks'
 tags: []

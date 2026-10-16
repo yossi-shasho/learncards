@@ -1,8 +1,8 @@
 ---
 title: 'King of the Hill'
 slug: 'king-of-the-hill'
-date: '2018-08-15T09:58:12'
-modified: '2018-08-15T09:58:12'
+date: '2007-03-02T08:48:21'
+modified: '2007-03-02T08:48:21'
 categories:
   - 'easy-tricks'
 tags: []

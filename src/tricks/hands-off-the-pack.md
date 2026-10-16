@@ -1,8 +1,8 @@
 ---
 title: 'Hands off the Pack!'
 slug: 'hands-off-the-pack'
-date: '2018-04-15T08:37:51'
-modified: '2018-04-15T08:37:51'
+date: '2010-11-13T21:31:04'
+modified: '2010-11-13T21:31:04'
 categories:
   - 'easy-tricks'
 tags: []

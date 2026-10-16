@@ -1,8 +1,8 @@
 ---
 title: 'Math-Magic'
 slug: 'math-magic'
-date: '2018-01-05T07:01:53'
-modified: '2018-01-05T07:01:53'
+date: '2007-06-30T21:32:39'
+modified: '2007-06-30T21:32:39'
 categories:
   - 'intermediate-tricks'
 tags: []

@@ -1,8 +1,8 @@
 ---
 title: 'Aces Card Switch'
 slug: 'aces-card-switch'
-date: '2018-01-03T05:55:30'
-modified: '2018-01-03T05:55:30'
+date: '2007-03-07T02:30:22'
+modified: '2007-03-07T02:30:22'
 categories:
   - 'intermediate-tricks'
 tags: []

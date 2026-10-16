@@ -1,8 +1,8 @@
 ---
 title: 'The Changing Card'
 slug: 'the-changing-card'
-date: '2018-02-26T07:57:14'
-modified: '2018-02-26T07:57:14'
+date: '2007-03-21T02:13:45'
+modified: '2007-03-21T02:13:45'
 categories:
   - 'impromptu-tricks'
   - 'intermediate-tricks'
@@ -21,4 +21,4 @@ excerpt: 'A chosen card is put on the top of the deck, but when it is turned ove
 
 **Method:**
 
-When the spectator picks the card and looks at it, secretly palm a card off the deck. Hand the deck to the spectator and tell him to place his card on top. When you take back the deck, act as if you are squaring up the deck but actually place the **[palmed](http://www.learncards.net/content/view/32/65/)** card on top. Take off the top card and ask what his card was. Flip over the card, and it has magically changed into another card.
+When the spectator picks the card and looks at it, secretly palm a card off the deck. Hand the deck to the spectator and tell him to place his card on top. When you take back the deck, act as if you are squaring up the deck but actually place the **palmed** card on top. Take off the top card and ask what his card was. Flip over the card, and it has magically changed into another card.

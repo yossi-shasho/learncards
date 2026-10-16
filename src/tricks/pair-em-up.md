@@ -1,8 +1,8 @@
 ---
 title: 'Pair ’em Up'
 slug: 'pair-em-up'
-date: '2018-02-15T07:34:43'
-modified: '2018-02-15T07:34:43'
+date: '2007-06-24T18:37:12'
+modified: '2007-06-24T18:37:12'
 categories:
   - 'impromptu-tricks'
   - 'intermediate-tricks'

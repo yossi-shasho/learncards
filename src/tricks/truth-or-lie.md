@@ -1,8 +1,8 @@
 ---
 title: 'Truth or Lie'
 slug: 'truth-or-lie'
-date: '2018-10-02T12:21:03'
-modified: '2018-10-02T12:21:03'
+date: '2007-04-04T05:44:38'
+modified: '2007-04-04T05:44:38'
 categories:
   - 'easy-tricks'
 tags: []

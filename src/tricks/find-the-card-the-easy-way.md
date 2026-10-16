@@ -1,8 +1,8 @@
 ---
 title: 'Find The Card The Easy Way'
 slug: 'find-the-card-the-easy-way'
-date: '2019-01-15T07:30:15'
-modified: '2019-01-15T07:30:15'
+date: '2009-10-07T19:54:43'
+modified: '2009-10-07T19:54:43'
 categories:
   - 'easy-tricks'
 tags: []

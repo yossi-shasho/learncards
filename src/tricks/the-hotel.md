@@ -1,8 +1,8 @@
 ---
 title: 'The Hotel'
 slug: 'the-hotel'
-date: '2018-02-10T06:54:04'
-modified: '2018-02-10T06:54:04'
+date: '2007-05-02T16:31:20'
+modified: '2007-05-02T16:31:20'
 categories:
   - 'easy-tricks'
   - 'self-working-tricks'

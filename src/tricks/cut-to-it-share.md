@@ -1,8 +1,8 @@
 ---
 title: 'Cut To It Share'
 slug: 'cut-to-it-share'
-date: '2018-05-07T06:04:32'
-modified: '2018-05-07T06:04:32'
+date: '2007-06-20T16:37:40'
+modified: '2007-06-20T16:37:40'
 categories:
   - 'easy-tricks'
   - 'impromptu-tricks'
@@ -25,7 +25,7 @@ excerpt: 'A chosen card goes on top, the spectator cuts the deck, and an overhan
 
 **4.** Ask the audience member to cut the deck and complete the cut. At this point the chosen card should be directly below the card you remembered.
 
-**5.** Turn the deck horizontally and shuffle the deck using the [Overhand Shuffle](http://www.learncards.net/content/view/32/65/). A fast Overhand Shuffle usually will not separate the two cards. Don’t riffle shuffle – this could separate the remembered card from the chosen card.
+**5.** Turn the deck horizontally and shuffle the deck using the Overhand Shuffle. A fast Overhand Shuffle usually will not separate the two cards. Don’t riffle shuffle – this could separate the remembered card from the chosen card.
 
 **6.** Spread out the deck, right to left, face up, on the table. Your card will be just to the right of the spectator’s card.
 

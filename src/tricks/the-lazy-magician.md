@@ -1,8 +1,8 @@
 ---
 title: 'The Lazy Magician'
 slug: 'the-lazy-magician'
-date: '2018-04-10T06:57:24'
-modified: '2018-04-10T06:57:24'
+date: '2009-02-22T01:55:41'
+modified: '2009-02-22T01:55:41'
 categories:
   - 'easy-tricks'
   - 'math-tricks'

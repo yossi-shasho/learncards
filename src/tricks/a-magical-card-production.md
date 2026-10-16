@@ -1,8 +1,8 @@
 ---
 title: 'A Magical Card Production'
 slug: 'a-magical-card-production'
-date: '2018-03-01T12:10:46'
-modified: '2018-03-01T12:10:46'
+date: '2007-07-14T20:20:26'
+modified: '2007-07-14T20:20:26'
 categories:
   - 'easy-tricks'
 tags: []

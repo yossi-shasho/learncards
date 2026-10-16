@@ -1,8 +1,8 @@
 ---
 title: 'Haphazard Cards'
 slug: 'haphazard-cards'
-date: '2018-04-15T09:08:15'
-modified: '2018-04-15T09:08:15'
+date: '2007-05-08T13:22:17'
+modified: '2007-05-08T13:22:17'
 categories:
   - 'easy-tricks'
   - 'impromptu-tricks'

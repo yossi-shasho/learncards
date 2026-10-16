@@ -1,8 +1,8 @@
 ---
 title: 'Sitting on the Card'
 slug: 'sitting-on-the-card'
-date: '2018-02-22T07:47:56'
-modified: '2018-02-22T07:47:56'
+date: '2007-05-01T14:37:27'
+modified: '2007-05-01T14:37:27'
 categories:
   - 'impromptu-tricks'
   - 'intermediate-tricks'

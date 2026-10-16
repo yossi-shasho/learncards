@@ -1,8 +1,8 @@
 ---
 title: 'Another Changing Ace Trick'
 slug: 'another-changing-ace-trick'
-date: '2018-02-06T07:15:15'
-modified: '2018-02-06T07:15:15'
+date: '2008-10-01T19:20:38'
+modified: '2008-10-01T19:20:38'
 categories:
   - 'expert-tricks'
 tags: []

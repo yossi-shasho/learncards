@@ -1,8 +1,8 @@
 ---
 title: 'Flip Flop Cards'
 slug: 'flip-flop-cards'
-date: '2018-02-15T07:53:43'
-modified: '2018-02-15T07:53:43'
+date: '2007-04-18T21:10:50'
+modified: '2007-04-18T21:10:50'
 categories:
   - 'easy-tricks'
 tags: []

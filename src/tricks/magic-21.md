@@ -1,8 +1,8 @@
 ---
 title: 'Magic 21'
 slug: 'magic-21'
-date: '2018-12-15T11:56:07'
-modified: '2018-12-15T11:56:07'
+date: '2007-05-20T12:45:03'
+modified: '2007-05-20T12:45:03'
 categories:
   - 'easy-tricks'
   - 'self-working-tricks'

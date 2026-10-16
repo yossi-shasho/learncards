@@ -1,8 +1,8 @@
 ---
 title: 'Think About It'
 slug: 'think-about-it'
-date: '2018-10-12T07:10:16'
-modified: '2018-10-12T07:10:16'
+date: '2007-07-14T14:05:59'
+modified: '2007-07-14T14:05:59'
 categories:
   - 'intermediate-tricks'
   - 'mental-tricks'

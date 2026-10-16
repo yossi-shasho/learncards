@@ -1,8 +1,8 @@
 ---
 title: 'Cutting The Aces'
 slug: 'cutting-the-aces'
-date: '2018-01-18T06:36:11'
-modified: '2018-01-18T06:36:11'
+date: '2007-07-07T22:13:00'
+modified: '2007-07-07T22:13:00'
 categories:
   - 'impromptu-tricks'
 tags: []

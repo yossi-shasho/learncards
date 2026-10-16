@@ -1,8 +1,8 @@
 ---
 title: 'Easy Eights'
 slug: 'easy-eights'
-date: '2018-10-07T07:07:51'
-modified: '2018-10-07T07:07:51'
+date: '2007-04-07T12:32:24'
+modified: '2007-04-07T12:32:24'
 categories:
   - 'easy-tricks'
   - 'mental-tricks'

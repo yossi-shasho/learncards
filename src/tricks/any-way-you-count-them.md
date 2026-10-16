@@ -1,8 +1,8 @@
 ---
 title: 'Any Way You Count Them'
 slug: 'any-way-you-count-them'
-date: '2018-01-28T06:05:02'
-modified: '2018-01-28T06:05:02'
+date: '2007-03-08T17:52:38'
+modified: '2007-03-08T17:52:38'
 categories:
   - 'intermediate-tricks'
   - 'math-tricks'

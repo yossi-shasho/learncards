@@ -1,8 +1,8 @@
 ---
 title: 'Slap Happy'
 slug: 'slap-happy'
-date: '2018-02-23T07:48:47'
-modified: '2018-02-23T07:48:47'
+date: '2007-07-13T08:13:19'
+modified: '2007-07-13T08:13:19'
 categories:
   - 'impromptu-tricks'
   - 'intermediate-tricks'

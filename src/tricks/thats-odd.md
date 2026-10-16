@@ -1,8 +1,8 @@
 ---
 title: 'That’s Odd'
 slug: 'thats-odd'
-date: '2018-01-02T11:44:45'
-modified: '2018-01-02T11:44:45'
+date: '2009-10-20T13:16:18'
+modified: '2009-10-20T13:16:18'
 categories:
   - 'easy-tricks'
   - 'self-working-tricks'

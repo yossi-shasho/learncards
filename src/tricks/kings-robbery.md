@@ -1,8 +1,8 @@
 ---
 title: 'Kings Robbery'
 slug: 'kings-robbery'
-date: '2018-01-06T09:25:08'
-modified: '2018-01-06T09:25:08'
+date: '2007-04-08T22:13:36'
+modified: '2007-04-08T22:13:36'
 categories:
   - 'self-working-tricks'
 tags: []

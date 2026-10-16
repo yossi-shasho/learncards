@@ -1,8 +1,8 @@
 ---
 title: 'Mental Agility'
 slug: 'mental-agility'
-date: '2018-01-12T07:02:58'
-modified: '2018-01-12T07:02:58'
+date: '2007-10-16T19:02:31'
+modified: '2007-10-16T19:02:31'
 categories:
   - 'intermediate-tricks'
   - 'math-tricks'

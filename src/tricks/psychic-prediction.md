@@ -1,8 +1,8 @@
 ---
 title: 'Psychic Prediction'
 slug: 'psychic-prediction'
-date: '2018-02-19T07:41:46'
-modified: '2018-02-19T07:41:46'
+date: '2007-04-21T11:12:39'
+modified: '2007-04-21T11:12:39'
 categories:
   - 'intermediate-tricks'
   - 'mental-tricks'

@@ -1,8 +1,8 @@
 ---
 title: 'The 3 Thieves'
 slug: 'the-3-thieves'
-date: '2019-03-05T06:33:31'
-modified: '2019-03-05T06:33:31'
+date: '2007-07-06T21:01:30'
+modified: '2007-07-06T21:01:30'
 categories:
   - 'easy-tricks'
 tags: []

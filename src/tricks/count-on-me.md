@@ -1,8 +1,8 @@
 ---
 title: 'Count On Me'
 slug: 'count-on-me'
-date: '2018-01-29T06:18:46'
-modified: '2018-01-29T06:18:46'
+date: '2008-08-09T00:19:45'
+modified: '2008-08-09T00:19:45'
 categories:
   - 'intermediate-tricks'
   - 'math-tricks'

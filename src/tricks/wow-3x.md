@@ -1,8 +1,8 @@
 ---
 title: 'WOW 3x'
 slug: 'wow-3x'
-date: '2019-02-28T07:31:18'
-modified: '2019-02-28T07:31:18'
+date: '2007-05-03T11:13:01'
+modified: '2007-05-03T11:13:01'
 categories:
   - 'easy-tricks'
 tags: []

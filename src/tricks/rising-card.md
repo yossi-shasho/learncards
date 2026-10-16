@@ -1,8 +1,8 @@
 ---
 title: 'Rising Card'
 slug: 'rising-card'
-date: '2019-02-21T07:43:48'
-modified: '2019-02-21T07:43:48'
+date: '2007-07-30T16:37:04'
+modified: '2007-07-30T16:37:04'
 categories:
   - 'intermediate-tricks'
   - 'math-tricks'

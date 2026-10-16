@@ -1,8 +1,8 @@
 ---
 title: 'Lucky Guess'
 slug: 'lucky-guess'
-date: '2019-03-02T11:54:37'
-modified: '2019-03-02T11:54:37'
+date: '2007-06-17T01:08:25'
+modified: '2007-06-17T01:08:25'
 categories:
   - 'easy-tricks'
 tags: []

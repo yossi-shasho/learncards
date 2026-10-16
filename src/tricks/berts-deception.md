@@ -1,8 +1,8 @@
 ---
 title: 'Bert’s Deception'
 slug: 'berts-deception'
-date: '2018-02-07T07:17:05'
-modified: '2018-02-07T07:17:05'
+date: '2007-06-08T00:13:04'
+modified: '2007-06-08T00:13:04'
 categories:
   - 'expert-tricks'
 tags: []

@@ -1,8 +1,8 @@
 ---
 title: 'Paper and Predictions'
 slug: 'paper-and-predictions'
-date: '2018-02-16T07:35:39'
-modified: '2018-02-16T07:35:39'
+date: '2007-07-23T12:17:31'
+modified: '2007-07-23T12:17:31'
 categories:
   - 'intermediate-tricks'
   - 'mental-tricks'

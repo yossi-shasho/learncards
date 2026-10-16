@@ -1,8 +1,8 @@
 ---
 title: 'Only Time Will Tell'
 slug: 'only-time-will-tell'
-date: '2018-03-23T09:39:19'
-modified: '2018-03-23T09:39:19'
+date: '2007-04-25T14:56:55'
+modified: '2007-04-25T14:56:55'
 categories:
   - 'self-working-tricks'
 tags: []

@@ -1,8 +1,8 @@
 ---
 title: 'Assistance Needed'
 slug: 'assistance-needed'
-date: '2018-01-05T06:13:08'
-modified: '2018-01-05T06:13:08'
+date: '2007-03-04T10:44:05'
+modified: '2007-03-04T10:44:05'
 categories:
   - 'intermediate-tricks'
   - 'mental-tricks'

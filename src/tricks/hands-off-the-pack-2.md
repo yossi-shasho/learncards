@@ -1,8 +1,8 @@
 ---
 title: 'Hands off the Pack!'
 slug: 'hands-off-the-pack-2'
-date: '2018-04-02T09:07:19'
-modified: '2018-04-02T09:07:19'
+date: '2009-12-21T20:32:01'
+modified: '2009-12-21T20:32:01'
 categories:
   - 'self-working-tricks'
 tags: []

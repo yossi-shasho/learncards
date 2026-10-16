@@ -1,1 +1,7 @@
-[]
+[
+  { "slug": "casino", "category": "self-working-tricks" },
+  { "slug": "get-money", "category": "impromptu-tricks" },
+  { "slug": "poker-trial", "category": "intermediate-tricks" },
+  { "slug": "3-card-monte-variation", "category": "expert-tricks" },
+  { "slug": "the-story-of-cactus-pete", "category": "intermediate-tricks" }
+]

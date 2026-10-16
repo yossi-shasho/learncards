@@ -1,8 +1,8 @@
 ---
 title: 'The Changing Card Variation'
 slug: 'the-changing-card-variation'
-date: '2018-02-27T07:57:58'
-modified: '2018-02-27T07:57:58'
+date: '2007-03-23T04:19:23'
+modified: '2007-03-23T04:19:23'
 categories:
   - 'impromptu-tricks'
   - 'intermediate-tricks'
@@ -19,6 +19,6 @@ excerpt: 'A variation on The Changing Card, using double-sided tape so that the 
 
 **Effect:** Now not only does the card change, it disappears!
 
-**Variation: ([Based on The Changing Card trick](http://www.learncards.net/content/view/69/133/))**
+**Variation: (Based on The Changing Card trick)**
 
 Do the trick exactly the same except for one minor preparation. Place on the top card a piece of double-sided tape. This way, when the spectator places his card on top, it will stick to the other card. Now the card changes, and also vanishes!

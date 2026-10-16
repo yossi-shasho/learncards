@@ -1,8 +1,8 @@
 ---
 title: 'Counted Cards'
 slug: 'counted-cards'
-date: '2018-01-08T06:19:48'
-modified: '2018-01-08T06:19:48'
+date: '2007-04-28T20:29:09'
+modified: '2007-04-28T20:29:09'
 categories:
   - 'intermediate-tricks'
 tags: []

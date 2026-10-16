@@ -1,8 +1,8 @@
 ---
 title: 'Piano Duets'
 slug: 'piano-duets'
-date: '2018-02-17T07:39:08'
-modified: '2018-02-17T07:39:08'
+date: '2007-07-24T12:22:17'
+modified: '2007-07-24T12:22:17'
 categories:
   - 'intermediate-tricks'
   - 'math-tricks'

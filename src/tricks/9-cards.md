@@ -1,8 +1,8 @@
 ---
 title: '9 Cards'
 slug: '9-cards'
-date: '2018-01-18T06:03:02'
-modified: '2018-01-18T06:03:02'
+date: '2007-07-10T03:09:33'
+modified: '2007-07-10T03:09:33'
 categories:
   - 'easy-tricks'
   - 'impromptu-tricks'

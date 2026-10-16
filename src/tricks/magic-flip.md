@@ -1,8 +1,8 @@
 ---
 title: 'Magic Flip'
 slug: 'magic-flip'
-date: '2018-02-01T04:53:06'
-modified: '2018-02-01T04:53:06'
+date: '2007-07-09T11:50:44'
+modified: '2007-07-09T11:50:44'
 categories:
   - 'easy-tricks'
 tags: []

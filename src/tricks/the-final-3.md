@@ -1,8 +1,8 @@
 ---
 title: 'The Final 3'
 slug: 'the-final-3'
-date: '2018-02-10T06:44:38'
-modified: '2018-02-10T06:44:38'
+date: '2007-03-02T00:38:40'
+modified: '2007-03-02T00:38:40'
 categories:
   - 'easy-tricks'
   - 'math-tricks'

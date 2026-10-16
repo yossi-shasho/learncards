@@ -1,8 +1,8 @@
 ---
 title: 'Amazing Prediction'
 slug: 'amazing-prediction-2'
-date: '2019-03-02T08:11:47'
-modified: '2019-06-08T13:18:33'
+date: '2007-07-18T07:06:24'
+modified: '2007-07-18T07:06:24'
 categories:
   - 'easy-tricks'
   - 'expert-tricks'
@@ -27,7 +27,7 @@ After the first step, the spectator now takes any four cards from his selected t
 
 This having been done, the total value of the four cards is ascertained. For example, supposing the four face-up cards happen to be the Three of Hearts, the Seven of Clubs the Jack of Spades and the Four of Diamonds, their total value would be twenty-four. The card which lies at that number is now counted down to in the pack that remains. When it is turned over, amazingly matches the original prediction.
 
-This [self-working card trick](http://www.learncards.net/pages/self-working-tricks.html "More self-working card magic tricks") requires no skill and can be done with a borrowed pack as long as the pack is complete (has no missing cards).
+This [self-working card trick](/category/self-working-tricks/) requires no skill and can be done with a borrowed pack as long as the pack is complete (has no missing cards).
 
 ### How is it done?
 

@@ -1,8 +1,8 @@
 ---
 title: 'Predicta-pair'
 slug: 'predicta-pair'
-date: '2018-05-11T09:43:21'
-modified: '2018-05-11T09:43:21'
+date: '2007-03-21T19:48:41'
+modified: '2007-03-21T19:48:41'
 categories:
   - 'easy-tricks'
   - 'self-working-tricks'

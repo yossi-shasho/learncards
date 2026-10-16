@@ -237,3 +237,6 @@ hr {
   text-shadow: 1px 1px 0 #000;
 }
 .b-11ty     { background: #222; border-color: #666; }
+/* Body headings renumbered for a contiguous outline (eleventy.config.js) keep their original size. */
+.body .hl-3 { font-size: 1.1em; }
+.body .hl-4, .body .hl-5, .body .hl-6 { font-size: 1em; }

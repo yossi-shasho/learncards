@@ -1,8 +1,8 @@
 ---
 title: 'The Bottom Card'
 slug: 'the-bottom-card'
-date: '2018-01-10T06:33:53'
-modified: '2018-01-10T06:33:53'
+date: '2008-09-17T05:19:58'
+modified: '2008-09-17T05:19:58'
 categories:
   - 'easy-tricks'
   - 'impromptu-tricks'

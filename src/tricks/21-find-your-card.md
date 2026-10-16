@@ -1,8 +1,8 @@
 ---
 title: '21 Find Your Card'
 slug: '21-find-your-card'
-date: '2018-02-28T05:46:55'
-modified: '2018-02-28T05:46:55'
+date: '2007-05-17T09:52:45'
+modified: '2007-05-17T09:52:45'
 categories:
   - 'easy-tricks'
 tags: []

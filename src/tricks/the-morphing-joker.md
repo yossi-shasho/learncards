@@ -1,8 +1,8 @@
 ---
 title: 'The Morphing Joker'
 slug: 'the-morphing-joker'
-date: '2018-05-02T05:45:03'
-modified: '2018-05-02T05:45:03'
+date: '2010-10-05T13:34:52'
+modified: '2010-10-05T13:34:52'
 categories:
   - 'impromptu-tricks'
   - 'intermediate-tricks'
@@ -28,7 +28,7 @@ excerpt: 'A joker is placed on a stack of cards and seems to morph into the spec
 5.  Say that you also need the joker to be on the bottom. Look through the deck and locate the joker. Place it on the bottom.
 6.  You can now do any sort of card calculation tricks with the too few cards of the deck.
     
-    For this, we’ll do the [Year Game](http://www.learncards.net/intermediate-tricks/the-year-game.html "The Year Game - an intermediate card magic trick tutorial") trick.
+    For this, we’ll do the [Year Game](/the-year-game/) trick.
     
     1.  Ask the spectator how many weeks there are in a year. When he/she answers 52, deal 5 cards face down in a pile and then 2 next to it. Mix them together and replace them on top of the deck.
     2.  Then ask him/her how many months there are in a year. When he/she answers 12, deal out 12 cards face down in a pile and then replace them on top of the deck.

@@ -1,8 +1,8 @@
 ---
 title: 'Amazing Prediction'
 slug: 'amazing-prediction'
-date: '2018-08-25T12:32:55'
-modified: '2018-08-25T12:32:55'
+date: '2007-04-12T00:22:16'
+modified: '2007-04-12T00:22:16'
 categories:
   - 'easy-tricks'
 tags: []

@@ -1,8 +1,8 @@
 ---
 title: 'ESP'
 slug: 'esp'
-date: '2018-12-07T07:26:12'
-modified: '2018-12-07T07:26:12'
+date: '2007-05-21T04:41:04'
+modified: '2007-05-21T04:41:04'
 categories:
   - 'easy-tricks'
   - 'mental-tricks'
@@ -19,7 +19,7 @@ excerpt: 'A card is chosen from nine face down while your assistant is out. They
 
 You will need someone to act as your assistant for this. Have your assistant leave the room during the first part.
 
-Nine cards are laid out, face down, in three rows of three. (eh: You can have them choose a card by the method in [**Find The Card The Easy Way**](http://www.learncards.net/content/view/49/82/).) Once a card has been selected, have someone call your assistant back in.
+Nine cards are laid out, face down, in three rows of three. (eh: You can have them choose a card by the method in **Find The Card The Easy Way**.) Once a card has been selected, have someone call your assistant back in.
 
 When the assistant returns, you are holding the rest of the deck in your left hand. Your thumb will represent which card was chosen. Example: if the spectator chooses the card in the middle, when the assistant returned, your thumb would be directly in the middle of the deck. You will have to do this once for the row the card is in, and again for the column.
 

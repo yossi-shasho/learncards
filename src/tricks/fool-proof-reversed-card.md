@@ -1,8 +1,8 @@
 ---
 title: 'Fool Proof Reversed Card'
 slug: 'fool-proof-reversed-card'
-date: '2018-01-10T06:44:58'
-modified: '2018-01-10T06:44:58'
+date: '2007-06-15T07:24:42'
+modified: '2007-06-15T07:24:42'
 categories:
   - 'intermediate-tricks'
   - 'math-tricks'

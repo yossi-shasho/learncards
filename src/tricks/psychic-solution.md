@@ -1,8 +1,8 @@
 ---
 title: 'Psychic Solution'
 slug: 'psychic-solution'
-date: '2018-08-01T05:32:44'
-modified: '2018-08-01T05:32:44'
+date: '2007-03-01T05:13:07'
+modified: '2007-03-01T05:13:07'
 categories:
   - 'easy-tricks'
   - 'self-working-tricks'

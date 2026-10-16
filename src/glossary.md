@@ -4,6 +4,7 @@ title: Card Trick Glossary
 seoTitle: 'Card Magic Glossary - Terms Every Card Trick Uses'
 seoDescription: 'Plain-English definitions of card magic terms like force, glimpse, double lift, key card and false shuffle, with links to tricks that use each one.'
 permalink: /glossary/
+date: git Last Modified
 ---
 
 Card magic has its own little language, and the write-ups on this site use it now and then. Here are the words you're most likely to bump into, explained the way I'd explain them across a kitchen table. Under most of them I've listed a few tricks where you can see the idea in action, so you can learn the word and the trick at the same time.
@@ -24,7 +25,7 @@ Used in: [Cutting the Aces](/cutting-the-aces/), [The Levitating Card](/the-levi
 
 Any method for secretly moving a chosen card to a place you know, most often the top of the deck. The spectator thinks their card is lost in the middle; you know exactly where it is. A control can be a sleight, a false shuffle or just a clever cut.
 
-Used in: [Trapped Trick](/trapped-trick/), [3 Card Monte Variation](/3-card-monte-variation/), [The Time Traveler's Triumph](/time-travelers-triumph-card-trick/)
+Used in: [Trapped Trick](/trapped-trick/), [The Time Traveler's Triumph](/time-travelers-triumph-card-trick/)
 
 ### Court card
 
@@ -64,7 +65,7 @@ Used in: [Mind Reader](/mind-reader/), [The Bottom Card](/the-bottom-card/), [Fo
 
 A cut that looks real but leaves the deck in the same order it started. Some are just a few packets moved around in a way that ends up back where they began. Use one when you've arranged cards and don't want to lose your setup.
 
-Used in: [Another Ace Location](/another-ace-location/), [The Story of Cactus Pete](/the-story-of-cactus-pete/), [Mystical 8s Prediction](/mystical-8s-prediction/), [In The Box – Color Flip](/in-the-box-color-flip/)
+Used in: [Another Ace Location](/another-ace-location/), [Mystical 8s Prediction](/mystical-8s-prediction/), [In The Box – Color Flip](/in-the-box-color-flip/)
 
 ### False shuffle
 
@@ -110,7 +111,7 @@ Used in: [Back Flip](/back-flip/), [Slap Happy](/slap-happy/), [Cutting the Aces
 
 A card you know, placed right next to the spectator's card so it can find it for you. The classic way: glimpse the bottom card, have the chosen card put on top, then cut. Now your key card sits right on top of theirs, and you just look for it.
 
-Used in: [Cut To It Share](/cut-to-it-share/), [The Mirrored Mind Reader](/mirrored-mind-reader-card-trick/), [Get Money](/get-money/), [The Time Traveler's Triumph](/time-travelers-triumph-card-trick/)
+Used in: [Cut To It Share](/cut-to-it-share/), [The Mirrored Mind Reader](/mirrored-mind-reader-card-trick/), [Magic Riffle](/magic-riffle/), [The Time Traveler's Triumph](/time-travelers-triumph-card-trick/)
 
 ### Mentalism
 
@@ -146,7 +147,7 @@ Used in: [The Changing Card](/the-changing-card/), [Always On Top](/always-on-to
 
 The things you say while you perform: the story, the jokes, the instructions. Good patter gives the trick a reason to happen and gives the audience something to follow. Many easy tricks are almost all patter, with the cards acting out a little story.
 
-Used in: [The 3 Thieves](/the-3-thieves/), [The Hotel](/the-hotel/), [Four Islands](/four-islands/), [The Story of Cactus Pete](/the-story-of-cactus-pete/)
+Used in: [The 3 Thieves](/the-3-thieves/), [The Hotel](/the-hotel/), [Four Islands](/four-islands/), [The Jack’s Party](/the-jacks-party/)
 
 ### Peek
 

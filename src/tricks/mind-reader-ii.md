@@ -1,8 +1,8 @@
 ---
 title: 'Mind Reader II'
 slug: 'mind-reader-ii'
-date: '2018-01-21T07:03:43'
-modified: '2018-01-21T07:03:43'
+date: '2007-05-14T08:13:53'
+modified: '2007-05-14T08:13:53'
 categories:
   - 'intermediate-tricks'
   - 'mental-tricks'

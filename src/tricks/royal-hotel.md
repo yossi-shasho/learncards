@@ -1,8 +1,8 @@
 ---
 title: 'Royal Hotel'
 slug: 'royal-hotel'
-date: '2018-02-24T11:33:05'
-modified: '2018-02-24T11:33:05'
+date: '2007-05-07T23:06:33'
+modified: '2007-05-07T23:06:33'
 categories:
   - 'easy-tricks'
   - 'self-working-tricks'

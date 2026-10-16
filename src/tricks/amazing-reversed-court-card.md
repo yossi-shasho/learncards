@@ -1,8 +1,8 @@
 ---
 title: 'Amazing Reversed Court Card'
 slug: 'amazing-reversed-court-card'
-date: '2018-04-30T12:39:24'
-modified: '2018-04-30T12:39:24'
+date: '2009-08-21T02:03:38'
+modified: '2009-08-21T02:03:38'
 categories:
   - 'easy-tricks'
 tags: []

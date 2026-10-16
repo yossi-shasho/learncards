@@ -1,8 +1,8 @@
 ---
 title: 'Only Time Will Tell'
 slug: 'only-time-will-tell-2'
-date: '2018-07-01T05:26:59'
-modified: '2018-07-01T05:26:59'
+date: '2008-04-07T15:37:47'
+modified: '2008-04-07T15:37:47'
 categories:
   - 'easy-tricks'
 tags: []

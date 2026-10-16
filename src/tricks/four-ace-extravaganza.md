@@ -1,8 +1,8 @@
 ---
 title: 'Four Ace Extravaganza'
 slug: 'four-ace-extravaganza'
-date: '2018-01-12T06:49:29'
-modified: '2018-01-12T06:49:29'
+date: '2010-12-05T10:03:06'
+modified: '2010-12-05T10:03:06'
 categories:
   - 'intermediate-tricks'
   - 'math-tricks'

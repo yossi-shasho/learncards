@@ -1,8 +1,8 @@
 ---
 title: 'The Reappearing Combo'
 slug: 'the-reappearing-combo'
-date: '2018-02-02T06:01:21'
-modified: '2018-02-02T06:01:21'
+date: '2007-05-07T02:01:55'
+modified: '2007-05-07T02:01:55'
 categories:
   - 'intermediate-tricks'
 tags: []

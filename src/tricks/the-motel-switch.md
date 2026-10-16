@@ -1,8 +1,8 @@
 ---
 title: 'The Motel Switch'
 slug: 'the-motel-switch'
-date: '2018-08-10T07:02:11'
-modified: '2018-08-10T07:02:11'
+date: '2007-03-03T05:09:39'
+modified: '2007-03-03T05:09:39'
 categories:
   - 'easy-tricks'
 tags: []

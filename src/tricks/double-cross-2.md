@@ -1,8 +1,8 @@
 ---
 title: 'Double Cross'
 slug: 'double-cross-2'
-date: '2018-01-02T08:12:12'
-modified: '2018-01-02T08:12:12'
+date: '2007-04-13T04:36:26'
+modified: '2007-04-13T04:36:26'
 categories:
   - 'self-working-tricks'
 tags: []

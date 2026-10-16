@@ -4,6 +4,7 @@ title: About Learncards
 seoTitle: 'About Learncards - Who Writes These Card Tricks'
 seoDescription: 'Why Learncards exists, who it is for, and how each card trick gets picked and written up. Free, no ads, no tracking, just tricks to practice.'
 permalink: /about/
+date: git Last Modified
 ---
 
 Hello! Thanks for stopping by.

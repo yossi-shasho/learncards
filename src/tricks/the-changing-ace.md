@@ -1,8 +1,8 @@
 ---
 title: 'The Changing Ace'
 slug: 'the-changing-ace'
-date: '2018-01-13T11:52:26'
-modified: '2018-01-13T11:52:26'
+date: '2007-04-09T01:24:28'
+modified: '2007-04-09T01:24:28'
 categories:
   - 'easy-tricks'
   - 'self-working-tricks'

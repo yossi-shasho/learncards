@@ -1,8 +1,8 @@
 ---
 title: 'All The Aces'
 slug: 'all-the-aces'
-date: '2018-01-15T12:23:05'
-modified: '2018-01-15T12:23:05'
+date: '2010-09-23T14:45:53'
+modified: '2010-09-23T14:45:53'
 categories:
   - 'easy-tricks'
   - 'self-working-tricks'

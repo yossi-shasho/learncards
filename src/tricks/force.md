@@ -1,8 +1,8 @@
 ---
 title: 'Force'
 slug: 'force'
-date: '2018-02-15T07:59:30'
-modified: '2018-02-15T07:59:30'
+date: '2007-04-28T20:26:48'
+modified: '2007-04-28T20:26:48'
 categories:
   - 'easy-tricks'
   - 'self-working-tricks'

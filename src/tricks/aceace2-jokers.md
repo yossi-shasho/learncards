@@ -1,8 +1,8 @@
 ---
 title: 'Ace+Ace=2 Jokers'
 slug: 'aceace2-jokers'
-date: '2018-02-02T07:10:37'
-modified: '2018-02-02T07:10:37'
+date: '2007-04-05T09:10:27'
+modified: '2007-04-05T09:10:27'
 categories:
   - 'expert-tricks'
 tags: []
